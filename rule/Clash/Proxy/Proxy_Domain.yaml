@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-07 02:09:20
+# UPDATED: 2021-11-09 02:09:50
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 34215
+# DOMAIN-SUFFIX: 34216
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34355
+# TOTAL: 34356
 payload:
   - 'api-p.videomarket.jp'
   - 'apip.videomarket.jp'
@@ -12885,6 +12885,7 @@ payload:
   - '+.gogle.com'
   - '+.gogo-load.com'
   - '+.gogo2sex.com'
+  - '+.gogoanime.wiki'
   - '+.gogocdn.net'
   - '+.gogole.com'
   - '+.gogoload.com'

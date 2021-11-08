@@ -1,10 +1,10 @@
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-21 02:09:34
-# HOST-SUFFIX: 111
+# UPDATED: 2021-11-09 02:09:49
+# HOST-SUFFIX: 112
 # IP-CIDR: 2
-# TOTAL: 113
+# TOTAL: 114
 HOST-SUFFIX,408399.com,XiaoMi
 HOST-SUFFIX,408399.net,XiaoMi
 HOST-SUFFIX,816798.net,XiaoMi
@@ -24,6 +24,7 @@ HOST-SUFFIX,duokanbox.com,XiaoMi
 HOST-SUFFIX,facephoto.com,XiaoMi
 HOST-SUFFIX,fe-cdn.huami.com,XiaoMi
 HOST-SUFFIX,fe-static.huami.com,XiaoMi
+HOST-SUFFIX,growth.ai.srv,XiaoMi
 HOST-SUFFIX,heihei.com,XiaoMi
 HOST-SUFFIX,hongmi.cn,XiaoMi
 HOST-SUFFIX,kssdata-yz1.kuaipandata.com,XiaoMi

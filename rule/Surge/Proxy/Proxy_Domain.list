@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-07 02:09:19
+# UPDATED: 2021-11-09 02:09:48
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 34215
+# DOMAIN-SUFFIX: 34216
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34366
+# TOTAL: 34367
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -12885,6 +12885,7 @@ widgets.stripst.com
 .gogle.com
 .gogo-load.com
 .gogo2sex.com
+.gogoanime.wiki
 .gogocdn.net
 .gogole.com
 .gogoload.com
