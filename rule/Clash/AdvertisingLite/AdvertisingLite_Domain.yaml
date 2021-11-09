@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:50
-# DOMAIN: 14081
+# UPDATED: 2021-11-10 02:08:47
+# DOMAIN: 14069
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27483
+# TOTAL: 27471
 payload:
   - '00-gov.cn'
   - '0024aadd.com'
@@ -320,7 +320,6 @@ payload:
   - '51kaowang.com'
   - '51maiwanju.com'
   - '51y5.net'
-  - '51yhzp.com'
   - '525cm.com'
   - '526d.com'
   - '52aan.cn'
@@ -1915,7 +1914,6 @@ payload:
   - 'antdivisitlodg.info'
   - 'anti-cheat.info'
   - 'antns.com'
-  - 'antoball.com'
   - 'antvoice.com'
   - 'anxiousapples.com'
   - 'anybest.site'
@@ -2661,7 +2659,6 @@ payload:
   - 'blogranking.net'
   - 'blogreaderproject.com'
   - 'blogscounter.com'
-  - 'blogsontop.com'
   - 'blogtopsites.com'
   - 'blogtraffic.de'
   - 'blogtw.net'
@@ -4116,7 +4113,6 @@ payload:
   - 'd9etzk30b05yg.cloudfront.net'
   - 'd9w.fl1c.com'
   - 'da-ads.com'
-  - 'da303.com'
   - 'da3uf5ucdz00u.cloudfront.net'
   - 'da60995df247712.com'
   - 'dabaoku.com'
@@ -4694,7 +4690,6 @@ payload:
   - 'e.hpcat.cn'
   - 'e.ldsfh.cn'
   - 'e.tapdb.net'
-  - 'e.vjuei.com'
   - 'e.weather.com.cn'
   - 'e.xeig.cn'
   - 'e0663490cca0296f7.com'
@@ -5068,7 +5063,6 @@ payload:
   - 'exitintel.com'
   - 'exitmonitor.com'
   - 'exjozegvbaresw.com'
-  - 'exlpor.com'
   - 'exmarkt.de'
   - 'exoclsodaqs.com'
   - 'exogripper.com'
@@ -7247,6 +7241,7 @@ payload:
   - 'leaptrade.com'
   - 'leastersmiled.pro'
   - 'leche69.com'
+  - 'ledhenone.com'
   - 'ledraumt.com'
   - 'lee789.com'
   - 'leetmedia.com'
@@ -7636,7 +7631,6 @@ payload:
   - 'm.tcenn.com'
   - 'm.u4q2.cn'
   - 'm.vbinr.com'
-  - 'm.vjuei.com'
   - 'm.w82ph.cn'
   - 'm.wbaie.com'
   - 'm.wbanv.com'
@@ -7837,7 +7831,6 @@ payload:
   - 'mebablo.com'
   - 'meccahoo.com'
   - 'medi-8.net'
-  - 'media-app.com'
   - 'media-click.ru'
   - 'media-general.com'
   - 'media-sapiens.com'
@@ -9104,7 +9097,6 @@ payload:
   - 'pas-rahav.com'
   - 'pass-1234.com'
   - 'passeura.com'
-  - 'passionfruitads.com'
   - 'passive-earner.com'
   - 'pathful.com'
   - 'pathlime.com'
@@ -9709,7 +9701,6 @@ payload:
   - 'ptush.iptvdeals.com'
   - 'ptwebcams.com'
   - 'pub-fit.com'
-  - 'pub.dreamboxcart.com'
   - 'pub.network'
   - 'pubdirecte.com'
   - 'pubdream.com'
@@ -11267,7 +11258,6 @@ payload:
   - 'softwares2015.com'
   - 'sojern.com'
   - 'sokitosa.com'
-  - 'soko.ai'
   - 'sokrati.com'
   - 'solapoka.com'
   - 'solarmosa.com'
@@ -12528,7 +12518,6 @@ payload:
   - 'txtxz.org.cn'
   - 'tydd.hunterwish.cn'
   - 'tynt.com'
-  - 'tynyh.com'
   - 'typeofmarijuana.com'
   - 'typicalairplane.com'
   - 'typicalteeth.com'
@@ -12582,7 +12571,6 @@ payload:
   - 'uhytajrtpo-a.akamaihd.net'
   - 'uigruwtql.com'
   - 'uim.tifbs.net'
-  - 'uio.boencj.com'
   - 'ujccccb.com'
   - 'uk8866.cn'
   - 'ukbanners.com'

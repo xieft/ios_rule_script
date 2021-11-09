@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:49
+# UPDATED: 2021-11-10 02:08:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14081
+# DOMAIN: 14069
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27778
+# TOTAL: 27766
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -321,7 +321,6 @@
 51kaowang.com
 51maiwanju.com
 51y5.net
-51yhzp.com
 525cm.com
 526d.com
 52aan.cn
@@ -1916,7 +1915,6 @@ antburape.club
 antdivisitlodg.info
 anti-cheat.info
 antns.com
-antoball.com
 antvoice.com
 anxiousapples.com
 anybest.site
@@ -2662,7 +2660,6 @@ blogrankers.com
 blogranking.net
 blogreaderproject.com
 blogscounter.com
-blogsontop.com
 blogtopsites.com
 blogtraffic.de
 blogtw.net
@@ -4117,7 +4114,6 @@ d8rk54i4mohrb.cloudfront.net
 d9etzk30b05yg.cloudfront.net
 d9w.fl1c.com
 da-ads.com
-da303.com
 da3uf5ucdz00u.cloudfront.net
 da60995df247712.com
 dabaoku.com
@@ -4695,7 +4691,6 @@ e.gomev.cn
 e.hpcat.cn
 e.ldsfh.cn
 e.tapdb.net
-e.vjuei.com
 e.weather.com.cn
 e.xeig.cn
 e0663490cca0296f7.com
@@ -5069,7 +5064,6 @@ exitexplosion.com
 exitintel.com
 exitmonitor.com
 exjozegvbaresw.com
-exlpor.com
 exmarkt.de
 exoclsodaqs.com
 exogripper.com
@@ -7248,6 +7242,7 @@ leaplunchroom.com
 leaptrade.com
 leastersmiled.pro
 leche69.com
+ledhenone.com
 ledraumt.com
 lee789.com
 leetmedia.com
@@ -7637,7 +7632,6 @@ m.szmt18.cn
 m.tcenn.com
 m.u4q2.cn
 m.vbinr.com
-m.vjuei.com
 m.w82ph.cn
 m.wbaie.com
 m.wbanv.com
@@ -7838,7 +7832,6 @@ meatydime.com
 mebablo.com
 meccahoo.com
 medi-8.net
-media-app.com
 media-click.ru
 media-general.com
 media-sapiens.com
@@ -9105,7 +9098,6 @@ parwrite.com
 pas-rahav.com
 pass-1234.com
 passeura.com
-passionfruitads.com
 passive-earner.com
 pathful.com
 pathlime.com
@@ -9710,7 +9702,6 @@ ptrk-wn.com
 ptush.iptvdeals.com
 ptwebcams.com
 pub-fit.com
-pub.dreamboxcart.com
 pub.network
 pubdirecte.com
 pubdream.com
@@ -11268,7 +11259,6 @@ softpopads.com
 softwares2015.com
 sojern.com
 sokitosa.com
-soko.ai
 sokrati.com
 solapoka.com
 solarmosa.com
@@ -12529,7 +12519,6 @@ txt.eu
 txtxz.org.cn
 tydd.hunterwish.cn
 tynt.com
-tynyh.com
 typeofmarijuana.com
 typicalairplane.com
 typicalteeth.com
@@ -12583,7 +12572,6 @@ uhygtf1.com
 uhytajrtpo-a.akamaihd.net
 uigruwtql.com
 uim.tifbs.net
-uio.boencj.com
 ujccccb.com
 uk8866.cn
 ukbanners.com
