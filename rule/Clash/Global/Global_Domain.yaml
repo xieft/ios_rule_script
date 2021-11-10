@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:52
+# UPDATED: 2021-11-11 02:09:02
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 33966
+# DOMAIN-SUFFIX: 33970
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34161
+# TOTAL: 34165
 payload:
   - 'api-p.videomarket.jp'
   - 'apip.videomarket.jp'
@@ -5423,6 +5423,7 @@ payload:
   - '+.binance.charity'
   - '+.binance.cloud'
   - '+.binance.com'
+  - '+.binance.us'
   - '+.binance.vision'
   - '+.binancecn.com'
   - '+.binancezh.com'
@@ -7989,6 +7990,7 @@ payload:
   - '+.coinbase.com'
   - '+.coinbaxa.com'
   - '+.coinbene.com'
+  - '+.coincheck.com'
   - '+.coincola.com'
   - '+.coinegg.com'
   - '+.coinex.com'
@@ -7996,6 +7998,7 @@ payload:
   - '+.coingecko.com'
   - '+.coingi.com'
   - '+.coinmarketcap.com'
+  - '+.coinone.co.kr'
   - '+.coinonecore.com'
   - '+.coinonecorp.com'
   - '+.coinrail.co.kr'
@@ -12468,6 +12471,7 @@ payload:
   - '+.gelbooru.com'
   - '+.gemfire.net'
   - '+.gemfury.com'
+  - '+.gemini.com'
   - '+.gen.lib.rus.ec'
   - '+.genashtim.com'
   - '+.gendai.net'
@@ -16221,6 +16225,7 @@ payload:
   - '+.kopp-verlag.de'
   - '+.koppverlag.de'
   - '+.koranmandarin.com'
+  - '+.korbit.co.kr'
   - '+.koreanfriendfinder.com'
   - '+.korenan2.com'
   - '+.korvenmaa.net'
@@ -30693,7 +30698,6 @@ payload:
   - '+.www.kobenp.co.jp'
   - '+.www.kollect.com.tw'
   - '+.www.koraspeak.com'
-  - '+.www.korbit.co.kr'
   - '+.www.kore.com'
   - '+.www.koreapas.com'
   - '+.www.koryu.or.jp'

@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-10 02:08:46
+# UPDATED: 2021-11-11 02:08:59
 # HOST: 14069
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13216
@@ -2461,7 +2461,6 @@ HOST,befade.com,AdvertisingLite
 HOST,befirstcdn.com,AdvertisingLite
 HOST,begun.ru,AdvertisingLite
 HOST,behavioralengine.com,AdvertisingLite
-HOST,beholder.xyz,AdvertisingLite
 HOST,beiyu.xin,AdvertisingLite
 HOST,bekannt-im-web.de,AdvertisingLite
 HOST,belamicash.com,AdvertisingLite
@@ -4112,6 +4111,7 @@ HOST,d8rk54i4mohrb.cloudfront.net,AdvertisingLite
 HOST,d9etzk30b05yg.cloudfront.net,AdvertisingLite
 HOST,d9w.fl1c.com,AdvertisingLite
 HOST,da-ads.com,AdvertisingLite
+HOST,da303.com,AdvertisingLite
 HOST,da3uf5ucdz00u.cloudfront.net,AdvertisingLite
 HOST,da60995df247712.com,AdvertisingLite
 HOST,dabaoku.com,AdvertisingLite
@@ -6601,6 +6601,7 @@ HOST,instore.biz,AdvertisingLite
 HOST,instraffic.com,AdvertisingLite
 HOST,instreamatic.com,AdvertisingLite
 HOST,instreamvideo.ru,AdvertisingLite
+HOST,intangibleconcordant.com,AdvertisingLite
 HOST,integral-marketing.com,AdvertisingLite
 HOST,integration.sharethrough.com,AdvertisingLite
 HOST,intelensafrete.stream,AdvertisingLite
@@ -8329,6 +8330,7 @@ HOST,mytictac.com,AdvertisingLite
 HOST,mytopf.com,AdvertisingLite
 HOST,mytrack.pro,AdvertisingLite
 HOST,myusersonline.com,AdvertisingLite
+HOST,myvads.com,AdvertisingLite
 HOST,myvisitors.se,AdvertisingLite
 HOST,myvisualiq.net,AdvertisingLite
 HOST,myvoicenation.com,AdvertisingLite
@@ -9837,7 +9839,6 @@ HOST,pushup.space,AdvertisingLite
 HOST,pushvip.ru,AdvertisingLite
 HOST,pushwhy.com,AdvertisingLite
 HOST,pushwoosh.com,AdvertisingLite
-HOST,pussl10.com,AdvertisingLite
 HOST,pussl3.com,AdvertisingLite
 HOST,pussl32.com,AdvertisingLite
 HOST,pussl48.com,AdvertisingLite
@@ -11305,7 +11306,6 @@ HOST,speedcount.de,AdvertisingLite
 HOST,speedcounter.net,AdvertisingLite
 HOST,speedcurve.com,AdvertisingLite
 HOST,speednetwork14.com,AdvertisingLite
-HOST,speednetwork6.com,AdvertisingLite
 HOST,speedshiftmedia.com,AdvertisingLite
 HOST,speedtracker.de,AdvertisingLite
 HOST,speee-ad.jp,AdvertisingLite

@@ -1,14 +1,14 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-30 02:10:23
+# UPDATED: 2021-11-11 02:09:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 2579
+# DOMAIN-SUFFIX: 2664
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
 # URL-REGEX: 2
 # USER-AGENT: 4
-# TOTAL: 2590
+# TOTAL: 2675
 app.adjust.com
 bdtj.tagtic.cn
 picanalysis.vivo.com.cn
@@ -45,6 +45,7 @@ xivanalysis.com
 .21rent.com
 .21sun.com
 .22dns.com
+.26degree.com
 .2class.com
 .2mm.net
 .310s2520.com
@@ -88,10 +89,12 @@ xivanalysis.com
 .9daygame.com
 .9zhuce.com
 .aadscng.net
+.abardeenonline.com
 .abcca.com
 .abetech.com
 .ableelec.com
 .absworld.net
+.accuratechina.com
 .acepow.com
 .acgmoe.com
 .aciwh.com
@@ -170,6 +173,7 @@ xivanalysis.com
 .anonymhi.com
 .anran.com
 .antclean.com
+.antcloudminiprogram.com
 .antfininc.com
 .aohua.com
 .aoyahk.com
@@ -185,6 +189,7 @@ xivanalysis.com
 .appleadstrk.com
 .applebl.com
 .applehunt.com
+.apples.com
 .appletuan.com
 .applex.net
 .approuter.com
@@ -230,18 +235,18 @@ xivanalysis.com
 .automade.com
 .automooc.com
 .autopartsyoto.com
+.autopurify.com
 .autowo.com
 .avcmr.com
 .avcott.com
-.avic.com
 .awesomebruce.me
 .awol.com
+.awsdnscn57.com
 .axeratech.com
 .b2bbuilder.com
 .b2cseo.com
 .baichs.com
 .baimaoexpo.com
-.baishancloud.com
 .bali.com
 .bangdaotech.com
 .bankswiftcode.info
@@ -301,10 +306,12 @@ xivanalysis.com
 .biofuyang.com
 .bioreview.com
 .bitdefendercn.com
+.bizeast.com
 .bjapc.com
 .bjbig.com
 .bjdianxintong.net
 .bjdsmzyy.com
+.bjka.com
 .bjkpn.com
 .bjlcstech.com
 .bjsagtar.com
@@ -336,6 +343,7 @@ xivanalysis.com
 .bossyoung.com
 .boyi.com
 .boytoy.net
+.bridgeimage.com
 .broadasia.net
 .broadocean.com
 .brothercn.net
@@ -388,6 +396,7 @@ xivanalysis.com
 .cctrip.com
 .cctv119.com
 .cctv19.com
+.cctv22.com
 .cctvstar.com
 .cdcxh.com
 .cdeos.com
@@ -494,6 +503,7 @@ xivanalysis.com
 .chinaflower.com
 .chinag.com
 .chinagalaxyinv.com
+.chinagehang.com
 .chinagenius.com
 .chinagold.com
 .chinagoldcard.com
@@ -559,6 +569,7 @@ xivanalysis.com
 .chinavision.org
 .chinavo.org
 .chinawanlin.com
+.chinawarping.com
 .chinawaste.com
 .chinawss.com
 .chinazbycg.com
@@ -583,6 +594,7 @@ xivanalysis.com
 .citssz.net
 .cjelec.com
 .clacg.com
+.clclw.com
 .cldmail.ru
 .cleancn.com
 .clearsz.com
@@ -596,6 +608,7 @@ xivanalysis.com
 .cloudaccinc.com
 .cloudcube.net
 .clouddns.net
+.clouddns.vip
 .cloudframe.com
 .cloudlinks.net
 .cloudneofussvr.sslcs.cdngc.net
@@ -658,6 +671,7 @@ xivanalysis.com
 .comlyouku.com
 .commlzyw.com
 .compressorpld.com
+.comrail.com
 .comsenzservice.com
 .comt56.com
 .comtletv.com
@@ -726,6 +740,7 @@ xivanalysis.com
 .datiainspect.com
 .dayuvalve.com
 .dbcache.com
+.dbmsh.com
 .dbnw.com
 .dbtcoin.com
 .dccn.com
@@ -753,10 +768,12 @@ xivanalysis.com
 .dfylluxgen.com
 .dg360lhx.com
 .dghanxin.com
+.dghuawei.com
 .dgmall.com
 .dgtfactory.com
 .dheaven.com
 .dianai.com
+.dianstable.com
 .dianying.com
 .didifood.com
 .digiuniclick.net
@@ -776,6 +793,7 @@ xivanalysis.com
 .dnsdiy.net
 .dnsdns.net
 .dnssky.com
+.dnsurl.com
 .dnsvip.net
 .dollleaves.com
 .dollzone.com
@@ -825,6 +843,7 @@ xivanalysis.com
 .easylinkholiday.com
 .easymock.com
 .eazyteccloud.com
+.ebaby.tw
 .ebidding.org
 .ebind.com
 .ebq.com
@@ -848,8 +867,10 @@ xivanalysis.com
 .edache.com
 .edachina.com
 .edbtech.com
+.edeehoo.com
 .edubook.com
 .educhineseembassyuk.org
+.educj.com
 .edujob.org
 .edunw.com
 .edushanghai.net
@@ -857,6 +878,7 @@ xivanalysis.com
 .eeeeee.com
 .eermail.ru
 .eeway.com
+.efangtong.com
 .efcdn.com
 .effsoft.com
 .eflyinc.com
@@ -871,7 +893,9 @@ xivanalysis.com
 .einvestingguide.com
 .ejjj.com
 .ejlt.com
+.ekawai.com
 .elephantbase.com
+.elextech.net
 .elifemall.com
 .elining.com
 .elock.xin
@@ -923,6 +947,7 @@ xivanalysis.com
 .fanxun.com
 .fanyong.com
 .fanyonline.com
+.fashionvirus.com
 .fatoday.com
 .fawbenteng.com
 .fawmazda.com
@@ -931,6 +956,7 @@ xivanalysis.com
 .fecable.com
 .fecablegz.com
 .fetionportal.com
+.ffpkcdn.xyz
 .fierydata.com
 .finshine.com
 .firstfoodcn.com
@@ -948,6 +974,7 @@ xivanalysis.com
 .fnmart.com
 .fntech.com
 .focuseloan.com
+.focusfusion.com
 .forcompass.com
 .formcreate.com
 .forshe.com
@@ -1021,7 +1048,9 @@ xivanalysis.com
 .gldata.com
 .glinet.com
 .globalharbor.com
+.globalidc.net
 .globaljf.com
+.globalscsl.com
 .gmonlineall.com
 .gmslighting.com
 .gmtchina.org
@@ -1052,12 +1081,14 @@ xivanalysis.com
 .gtjaallianz.com
 .gtma1b2.com
 .gtma1b4.com
+.gtma1b6.com
 .gtma1b7.com
 .gtma2b3.com
 .gtma2b4.com
 .gtma2b6.com
 .gtma2b7.com
 .gtma3b1.com
+.gtma3b5.com
 .gtma3b6.com
 .gtma3b7.com
 .gtma4b1.com
@@ -1091,6 +1122,7 @@ xivanalysis.com
 .gzcube.com
 .gzdata.com
 .gzgz.com
+.gzhongxin.com
 .gzlodihair.com
 .gznotary.com
 .gzoe.com
@@ -1100,20 +1132,25 @@ xivanalysis.com
 .h5share.com
 .h5x.com
 .hacker.net
+.hackgov.com
 .hackinglinux.com
+.haimingcn.com
 .haiwenlaw.com
 .hancang.com
 .handchina.com
 .hangputopsys.com
 .hantang.cc
 .hao123hao123.com
+.haohandata.com
 .haoshengyi.com
 .harbinelectric.com
 .havalglobal.com
 .hbgreen.com
+.hbhengda.com
 .hbly.com
 .hbsnd.com
 .hbws.com
+.hbwtw.com
 .hbzikao.com
 .hc360inc.com
 .hcbyq.com
@@ -1165,7 +1202,9 @@ xivanalysis.com
 .hitevisionsolution.com
 .hjmail.com
 .hjrexchange.com
+.hk46.icu
 .hkisland.hk
+.hkvstart.com
 .hlbrushes.com
 .hldmarathon.com
 .hljaptech.com
@@ -1182,6 +1221,7 @@ xivanalysis.com
 .hongkanglife.com
 .honglawfirm.com
 .hongshitech.com
+.hongshun.com
 .hooparchi.com
 .hopetarsus.com
 .hornyacht.com
@@ -1194,6 +1234,7 @@ xivanalysis.com
 .hrself.com
 .hsea.net
 .hsfe.com
+.hshgroup.com
 .hsoutlets.com
 .htcao.com
 .htcmedia.com
@@ -1212,6 +1253,7 @@ xivanalysis.com
 .huashenedu.com
 .huashuinc.com
 .huataipb.com
+.huawei3com.com
 .huaweiclouddns.com
 .huaweiclouddns.net
 .huaweiclouddns.org
@@ -1234,10 +1276,12 @@ xivanalysis.com
 .hwtm.com
 .hxtsemitech.com
 .hycgp.com
+.hyla.com
 .hyundaihmtc.com
 .hyzr.com
 .hzetest.com
 .hzgn.com
+.hzhospital.com
 .hzwinone.com
 .hzxin.com
 .i27.name
@@ -1261,6 +1305,7 @@ xivanalysis.com
 .icdtconf.com
 .icldo.com
 .iclick.com
+.icvalley.com
 .icycapital.com
 .idbear.com
 .ideaking.org
@@ -1306,6 +1351,7 @@ xivanalysis.com
 .intagri.com
 .intelspace.com
 .internetdns.com
+.intlhzc.com
 .inzoneauto.com
 .ioranges.com
 .iotonline.com
@@ -1401,9 +1447,11 @@ xivanalysis.com
 .jumingxz.com
 .jumpstartech.com
 .juxingedu.com
+.jvbao.com
 .jxbank.com
 .jxnc.com
 .jxsdsz.com
+.jyglighting.com
 .jzcert.com
 .jzjob.com
 .kaiying.com
@@ -1454,6 +1502,7 @@ xivanalysis.com
 .kyexpress.com
 .labz.com
 .laiai.com
+.laimatech.com
 .lairdtek.com
 .lamaisonarting.com
 .lamo.com
@@ -1487,6 +1536,7 @@ xivanalysis.com
 .letsstudy.com
 .lexaproweb.com
 .lexiangasset.com
+.lftools.net
 .lhlx.com
 .lhsarts.org
 .lica.com
@@ -1496,6 +1546,7 @@ xivanalysis.com
 .liexingai.com
 .likesharetech.com
 .lilycollection.com
+.lingbaoe.com
 .linkedf.com
 .linkedinevent.com
 .linkralltrk.com
@@ -1538,6 +1589,7 @@ xivanalysis.com
 .mailqq.com
 .mallbuilder.com
 .mandaotech.com
+.manxiulaw.com
 .maoshen.com
 .maplegame.com
 .marketivaplatform.com
@@ -1546,6 +1598,7 @@ xivanalysis.com
 .mattest.com
 .maxc.com
 .maxentinc.com
+.mayar.com
 .mcccpit.com
 .mctest.com
 .mcuhome.com
@@ -1560,6 +1613,7 @@ xivanalysis.com
 .mekeshanghai.com
 .mercedesbenzarena.com
 .metalmin.com
+.metro3d.com
 .mfinder.com
 .mfy.com
 .mgcdn.com
@@ -1583,6 +1637,7 @@ xivanalysis.com
 .milanbride.com
 .milliwayic.com
 .milostar.com
+.mingmentech.com
 .mini5cn.operamini.net
 .mini5cn1.operamini.net
 .miniaudio.com
@@ -1625,7 +1680,6 @@ xivanalysis.com
 .neatreader.com
 .netadd.com
 .neteaseinc.com
-.netechexpo.com
 .netswift.com
 .neureality.com
 .nevbattery.org
@@ -1654,6 +1708,7 @@ xivanalysis.com
 .nokiasbell.com
 .nomuraoisec.com
 .norincogroupebuy.com
+.norland.com
 .novelsupertv.com
 .nowcn.net
 .nowdo.com
@@ -1695,6 +1750,7 @@ xivanalysis.com
 .oseasy.com
 .oskclean.com
 .osky.com
+.ostar.cc
 .osv.com
 .otpexpress.com
 .oufatravel.com
@@ -1712,6 +1768,7 @@ xivanalysis.com
 .parisbride.com
 .parissengfu.net
 .passerby.com
+.patedu.org
 .patentcn.com
 .pcbhl.com
 .pcbsi.com
@@ -1784,9 +1841,11 @@ xivanalysis.com
 .projectoa.com
 .projectorwindow.com
 .protectfile.com
+.providencechemicals.com
 .proyagroup.com
 .psy1.com
 .ptcasia.com
+.ptlink.com
 .pyaxa.com
 .q5.net
 .qcdds.net
@@ -1811,6 +1870,7 @@ xivanalysis.com
 .qsslb.com
 .qsupreme.com
 .qtly.com
+.quanshenggroup.com
 .quantuminfo.com
 .quickx.com
 .qyoffice.com
@@ -1839,6 +1899,7 @@ xivanalysis.com
 .rerecdn.com
 .respectlab.com
 .rfgsm.com
+.richchang.com
 .richfutures.com
 .richhealthcare.com
 .richina.com
@@ -1881,6 +1942,7 @@ xivanalysis.com
 .sanhescale.com
 .sansheng.net
 .sanxiachina.com
+.saoma.com
 .sapnj.com
 .sbcmcc.com
 .sbrinfo.com
@@ -1893,6 +1955,7 @@ xivanalysis.com
 .scomarathon.com
 .scpwikicn.org
 .scvis.com
+.sdblb.com
 .sdcellbank.com
 .sdex.com
 .sdgchina.com
@@ -1922,12 +1985,14 @@ xivanalysis.com
 .sfcard.com
 .sfcityrush.com
 .sfcompanion.com
+.sfdsc.com
 .sfexpress.com
 .sffinancial.com
 .sfpay.com
 .sfsaas.com
 .sfzs.net
 .sgmicro.com
+.sh3ai.com
 .shacun.com
 .shadowforum.com
 .shan.com
@@ -1946,6 +2011,7 @@ xivanalysis.com
 .shasteel.com
 .shaurora.net
 .shbaolai.com
+.shcchorizon.com
 .shcyclerace.org
 .shdeem.com
 .shdent.com
@@ -1960,6 +2026,7 @@ xivanalysis.com
 .shhenian.com
 .shhilead.com
 .shholiday.com
+.shhuifeng.com
 .shhywin.com
 .shici.com
 .shimanofishchina.com
@@ -1987,6 +2054,7 @@ xivanalysis.com
 .siin.com
 .simapple.com
 .simpleisbetter.com
+.simpodata.com
 .simulchina.com
 .sinocorrugated.com
 .sinocr.com
@@ -1998,7 +2066,6 @@ xivanalysis.com
 .sinorainbow.cc
 .sinouniontrust.com
 .sinous.com
-.sinovotech.com
 .sinoweb.net
 .sipgllcl.com
 .sipogd.com
@@ -2011,6 +2078,7 @@ xivanalysis.com
 .sitedigger.com
 .sjlawyer.com
 .skiplinks.com
+.skmtek.com
 .skydeep.com
 .skyfire.com
 .skypechina.net
@@ -2024,6 +2092,7 @@ xivanalysis.com
 .slwhdfh.com
 .smartfactoryexpo.com
 .smartidc.net
+.smartptt.com
 .smartrise.com
 .smartxcn.com
 .smcheck.com
@@ -2050,10 +2119,10 @@ xivanalysis.com
 .soldierstorytoys.com
 .sololauncher.com
 .solove.com
-.sons.com
 .sot.net
 .souchefin.com
 .soucheinc.com
+.soueastmotor.com
 .souyun.com
 .sovoioe.com
 .sow.com
@@ -2071,10 +2140,12 @@ xivanalysis.com
 .sstic.com
 .sstsd.com
 .starboy.com
+.starlightgenerator.com
 .startuppartner.com
 .starvillageent.com
 .staticssl.imagegmkt.com
 .statnba.com
+.steelsaler.com
 .storage.com
 .strmo.com
 .strongstudy.com
@@ -2083,6 +2154,7 @@ xivanalysis.com
 .stylessys.com
 .suchgame.com
 .sudu67ph.com
+.sudu72ub.com
 .sudukay6.com
 .sudupq2y.com
 .suduq6wk.com
@@ -2095,6 +2167,7 @@ xivanalysis.com
 .sunlifeeverbright.com
 .sunlighttech.com
 .sunlion.com
+.sunriseenv.com
 .sunshinepower.net
 .sunskyonline.com
 .suntalkshftz.com
@@ -2105,6 +2178,7 @@ xivanalysis.com
 .suzukichina.com
 .suzukishanghai.com
 .svwvolkswagen.com
+.swbllp.com
 .swfcshanghai.com
 .swoolecloud.com
 .syhome.com
@@ -2250,6 +2324,7 @@ xivanalysis.com
 .txlivetools.wang
 .txtrans.com
 .tyim.com
+.tytyre.com
 .tzdsp.com
 .tzwf.com
 .uaoonline.com
@@ -2269,6 +2344,7 @@ xivanalysis.com
 .unclead.com
 .unicomspeedtest.com
 .uniconhibar.com
+.union4.com
 .uniongame.com
 .unionrnd.com
 .unionwifi.com
@@ -2281,6 +2357,7 @@ xivanalysis.com
 .urltest.com
 .uroad.com
 .urumqiair.com
+.usagti.com
 .usaidc.com
 .usdcny.com
 .usetrust.com
@@ -2337,6 +2414,7 @@ xivanalysis.com
 .whmx.com
 .whtechsonic.net
 .whucveo.com
+.whuhgi.com
 .whutpx.com
 .whzhcw.com
 .winbondic.com
@@ -2357,6 +2435,7 @@ xivanalysis.com
 .wmimotor.com
 .wmmotor.com
 .wmyad.com
+.womenheart.com
 .wonderfulpr.com
 .worldpass.net
 .worldtrade.org
@@ -2392,6 +2471,7 @@ xivanalysis.com
 .wxdata.com
 .wxyouyan.net
 .xauathqc.com
+.xbows.com
 .xbrlcn.org
 .xcbfamily.com
 .xcfc.com
@@ -2452,6 +2532,7 @@ xivanalysis.com
 .xnnyqx2gbsm8u0b.com
 .xnnyw032beqlm2f.com
 .xnnyw032beqlm2f.net
+.xnq20av2y36ac54a.com
 .xnrhq0kz4zzjc7w9a66k.com
 .xnrss99n.com
 .xns4t325g.com
@@ -2484,6 +2565,7 @@ xivanalysis.com
 .yeschinese.com
 .ygdk.com
 .yidiandiantea.net
+.yidongfood.com
 .yifengmover.com
 .yijiaai.com
 .yijy.com
@@ -2494,6 +2576,7 @@ xivanalysis.com
 .yjfun.com
 .yjscdn.com
 .yjscdn10.com
+.ylwoodcn.com
 .ymtrans.com
 .yntobacco.com
 .ynzytobacco.com
@@ -2576,6 +2659,7 @@ xivanalysis.com
 .zqscm.com
 .zse.com
 .zslzlj.com
+.zsrh.com
 .ztexpress.com
 .ztinfo.com
 .zttxexp.com
@@ -2587,6 +2671,7 @@ xivanalysis.com
 .zxscoffee.com
 .zxtour.com
 .zycam.com
+.zyjzsh.com
 .zypcdn.com
 .zzhuji.com
 .zznews.com

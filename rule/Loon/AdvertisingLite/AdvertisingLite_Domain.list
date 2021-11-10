@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-10 02:08:46
+# UPDATED: 2021-11-11 02:09:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 14069
 # DOMAIN-KEYWORD: 27
@@ -2463,7 +2463,6 @@ befade.com
 befirstcdn.com
 begun.ru
 behavioralengine.com
-beholder.xyz
 beiyu.xin
 bekannt-im-web.de
 belamicash.com
@@ -4114,6 +4113,7 @@ d8rk54i4mohrb.cloudfront.net
 d9etzk30b05yg.cloudfront.net
 d9w.fl1c.com
 da-ads.com
+da303.com
 da3uf5ucdz00u.cloudfront.net
 da60995df247712.com
 dabaoku.com
@@ -6603,6 +6603,7 @@ instore.biz
 instraffic.com
 instreamatic.com
 instreamvideo.ru
+intangibleconcordant.com
 integral-marketing.com
 integration.sharethrough.com
 intelensafrete.stream
@@ -8331,6 +8332,7 @@ mytictac.com
 mytopf.com
 mytrack.pro
 myusersonline.com
+myvads.com
 myvisitors.se
 myvisualiq.net
 myvoicenation.com
@@ -9839,7 +9841,6 @@ pushup.space
 pushvip.ru
 pushwhy.com
 pushwoosh.com
-pussl10.com
 pussl3.com
 pussl32.com
 pussl48.com
@@ -11307,7 +11308,6 @@ speedcount.de
 speedcounter.net
 speedcurve.com
 speednetwork14.com
-speednetwork6.com
 speedshiftmedia.com
 speedtracker.de
 speee-ad.jp

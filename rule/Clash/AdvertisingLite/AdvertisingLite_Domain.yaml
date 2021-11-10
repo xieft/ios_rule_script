@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-10 02:08:47
+# UPDATED: 2021-11-11 02:09:01
 # DOMAIN: 14069
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13216
@@ -2462,7 +2462,6 @@ payload:
   - 'befirstcdn.com'
   - 'begun.ru'
   - 'behavioralengine.com'
-  - 'beholder.xyz'
   - 'beiyu.xin'
   - 'bekannt-im-web.de'
   - 'belamicash.com'
@@ -4113,6 +4112,7 @@ payload:
   - 'd9etzk30b05yg.cloudfront.net'
   - 'd9w.fl1c.com'
   - 'da-ads.com'
+  - 'da303.com'
   - 'da3uf5ucdz00u.cloudfront.net'
   - 'da60995df247712.com'
   - 'dabaoku.com'
@@ -6602,6 +6602,7 @@ payload:
   - 'instraffic.com'
   - 'instreamatic.com'
   - 'instreamvideo.ru'
+  - 'intangibleconcordant.com'
   - 'integral-marketing.com'
   - 'integration.sharethrough.com'
   - 'intelensafrete.stream'
@@ -8330,6 +8331,7 @@ payload:
   - 'mytopf.com'
   - 'mytrack.pro'
   - 'myusersonline.com'
+  - 'myvads.com'
   - 'myvisitors.se'
   - 'myvisualiq.net'
   - 'myvoicenation.com'
@@ -9838,7 +9840,6 @@ payload:
   - 'pushvip.ru'
   - 'pushwhy.com'
   - 'pushwoosh.com'
-  - 'pussl10.com'
   - 'pussl3.com'
   - 'pussl32.com'
   - 'pussl48.com'
@@ -11306,7 +11307,6 @@ payload:
   - 'speedcounter.net'
   - 'speedcurve.com'
   - 'speednetwork14.com'
-  - 'speednetwork6.com'
   - 'speedshiftmedia.com'
   - 'speedtracker.de'
   - 'speee-ad.jp'

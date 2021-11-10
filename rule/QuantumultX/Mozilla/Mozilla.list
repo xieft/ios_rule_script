@@ -1,12 +1,13 @@
 # NAME: Mozilla
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-24 02:08:14
-# HOST-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2021-11-11 02:08:59
+# HOST-SUFFIX: 20
+# TOTAL: 20
 HOST-SUFFIX,bugzilla.org,Mozilla
 HOST-SUFFIX,crates.io,Mozilla
 HOST-SUFFIX,docs.rs,Mozilla
+HOST-SUFFIX,extensionworkshop.com,Mozilla
 HOST-SUFFIX,firefox.com,Mozilla
 HOST-SUFFIX,firefox.com.cn,Mozilla
 HOST-SUFFIX,firefoxusercontent.com,Mozilla

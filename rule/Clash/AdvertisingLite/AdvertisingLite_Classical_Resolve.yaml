@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-10 02:08:47
+# UPDATED: 2021-11-11 02:09:01
 # DOMAIN: 14069
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13216
@@ -2462,7 +2462,6 @@ payload:
   - DOMAIN,befirstcdn.com
   - DOMAIN,begun.ru
   - DOMAIN,behavioralengine.com
-  - DOMAIN,beholder.xyz
   - DOMAIN,beiyu.xin
   - DOMAIN,bekannt-im-web.de
   - DOMAIN,belamicash.com
@@ -4113,6 +4112,7 @@ payload:
   - DOMAIN,d9etzk30b05yg.cloudfront.net
   - DOMAIN,d9w.fl1c.com
   - DOMAIN,da-ads.com
+  - DOMAIN,da303.com
   - DOMAIN,da3uf5ucdz00u.cloudfront.net
   - DOMAIN,da60995df247712.com
   - DOMAIN,dabaoku.com
@@ -6602,6 +6602,7 @@ payload:
   - DOMAIN,instraffic.com
   - DOMAIN,instreamatic.com
   - DOMAIN,instreamvideo.ru
+  - DOMAIN,intangibleconcordant.com
   - DOMAIN,integral-marketing.com
   - DOMAIN,integration.sharethrough.com
   - DOMAIN,intelensafrete.stream
@@ -8330,6 +8331,7 @@ payload:
   - DOMAIN,mytopf.com
   - DOMAIN,mytrack.pro
   - DOMAIN,myusersonline.com
+  - DOMAIN,myvads.com
   - DOMAIN,myvisitors.se
   - DOMAIN,myvisualiq.net
   - DOMAIN,myvoicenation.com
@@ -9838,7 +9840,6 @@ payload:
   - DOMAIN,pushvip.ru
   - DOMAIN,pushwhy.com
   - DOMAIN,pushwoosh.com
-  - DOMAIN,pussl10.com
   - DOMAIN,pussl3.com
   - DOMAIN,pussl32.com
   - DOMAIN,pussl48.com
@@ -11306,7 +11307,6 @@ payload:
   - DOMAIN,speedcounter.net
   - DOMAIN,speedcurve.com
   - DOMAIN,speednetwork14.com
-  - DOMAIN,speednetwork6.com
   - DOMAIN,speedshiftmedia.com
   - DOMAIN,speedtracker.de
   - DOMAIN,speee-ad.jp

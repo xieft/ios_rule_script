@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:52
+# UPDATED: 2021-11-11 02:09:02
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 33966
+# DOMAIN-SUFFIX: 33970
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34161
+# TOTAL: 34165
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -5423,6 +5423,7 @@ payload:
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.us
   - DOMAIN-SUFFIX,binance.vision
   - DOMAIN-SUFFIX,binancecn.com
   - DOMAIN-SUFFIX,binancezh.com
@@ -7989,6 +7990,7 @@ payload:
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbaxa.com
   - DOMAIN-SUFFIX,coinbene.com
+  - DOMAIN-SUFFIX,coincheck.com
   - DOMAIN-SUFFIX,coincola.com
   - DOMAIN-SUFFIX,coinegg.com
   - DOMAIN-SUFFIX,coinex.com
@@ -7996,6 +7998,7 @@ payload:
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coingi.com
   - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,coinone.co.kr
   - DOMAIN-SUFFIX,coinonecore.com
   - DOMAIN-SUFFIX,coinonecorp.com
   - DOMAIN-SUFFIX,coinrail.co.kr
@@ -12468,6 +12471,7 @@ payload:
   - DOMAIN-SUFFIX,gelbooru.com
   - DOMAIN-SUFFIX,gemfire.net
   - DOMAIN-SUFFIX,gemfury.com
+  - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,gen.lib.rus.ec
   - DOMAIN-SUFFIX,genashtim.com
   - DOMAIN-SUFFIX,gendai.net
@@ -16221,6 +16225,7 @@ payload:
   - DOMAIN-SUFFIX,kopp-verlag.de
   - DOMAIN-SUFFIX,koppverlag.de
   - DOMAIN-SUFFIX,koranmandarin.com
+  - DOMAIN-SUFFIX,korbit.co.kr
   - DOMAIN-SUFFIX,koreanfriendfinder.com
   - DOMAIN-SUFFIX,korenan2.com
   - DOMAIN-SUFFIX,korvenmaa.net
@@ -30693,7 +30698,6 @@ payload:
   - DOMAIN-SUFFIX,www.kobenp.co.jp
   - DOMAIN-SUFFIX,www.kollect.com.tw
   - DOMAIN-SUFFIX,www.koraspeak.com
-  - DOMAIN-SUFFIX,www.korbit.co.kr
   - DOMAIN-SUFFIX,www.kore.com
   - DOMAIN-SUFFIX,www.koreapas.com
   - DOMAIN-SUFFIX,www.koryu.or.jp
