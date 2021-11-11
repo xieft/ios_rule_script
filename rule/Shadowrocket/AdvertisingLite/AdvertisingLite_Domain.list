@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:09:02
+# UPDATED: 2021-11-12 02:10:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14069
+# DOMAIN: 14071
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13216
+# DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # URL-REGEX: 295
-# TOTAL: 27765
+# TOTAL: 27769
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -609,7 +609,6 @@ a433.com
 a4b-tracking.com
 a4g.com
 a5020fec1701e9f3.com
-a5a5a.com
 a5e04df959f1af34.com
 a63t9o1azf.com
 a6f845e6c37b2833148.com
@@ -724,6 +723,7 @@ activeprospects.com
 activetracker.activehotels.com
 activity.browser.intl.miui.com
 activity.clotfun.xyz
+activity.tuiapple.com
 actnx.com
 actpx.com
 actuallysheep.com
@@ -753,7 +753,6 @@ ad-srv-track.com
 ad-srv.net
 ad-u.com
 ad-vice.biz
-ad.10010.com
 ad.1ting.com
 ad.21cn.com
 ad.9tv.co.il
@@ -1579,6 +1578,7 @@ aff-jp.dxlive.com
 aff-online.com
 aff.biz
 aff.simibo.net
+affairexcuses.com
 affasi.com
 affbot3.com
 affbuzzads.com
@@ -1848,6 +1848,7 @@ amtracking01.com
 amung.us
 amunx.de
 amxdt.com
+an1.hfyy120.cn
 analights.com
 analitits.com
 analoganalytics.com
@@ -2435,7 +2436,6 @@ beacon2.indieclicktv.com
 beaconads.com
 beaconstreetservices.com
 beampulse.com
-beanscattering.jp
 beanstalkdata.com
 beanstock.com
 beautysafari.com
@@ -4583,6 +4583,7 @@ dreamine.com
 dreyeli.info
 drf8e429z5jzt.cloudfront.net
 drivenetwork.ru
+drowle.com
 drydrum.com
 ds-aksb-a.akamaihd.net
 ds-recommender.styria.hr
@@ -9038,6 +9039,7 @@ pagerank-backlink.eu
 pagerank-linkverzeichnis.de
 pagerank-online.eu
 pagerank-suchmaschine.de
+pagerankfree.com
 pageranking-counter.de
 pages05.net
 pagesense.io
@@ -9222,6 +9224,7 @@ phonespybubble.com
 phonograph2.voxmedia.com
 phoodsom.net
 photo.941ziyuan.cn
+photo.backerbiotech.cn
 photo.domainrank.cn
 photo.epowuxiao.cn
 photo.hhmyi.cn
@@ -13895,7 +13898,6 @@ yt-adv.bn.netease.com
 ytelc.com
 ytsa.net
 yu0123456.com
-yu987.com
 yuanhsu.com
 yucce.com
 yucefa.cn
@@ -19155,6 +19157,7 @@ zzsdtzb.com
 .fpb.51edu.com
 .fpb.kuhou.com
 .fpb.mn586.com
+.fpb1.apple886.com
 .fpbb.aizhan.com
 .fpbbdx1.51240.com
 .fpbjiansuo.mn586.com
@@ -22429,6 +22432,7 @@ zzsdtzb.com
 .ne.1rtb.com
 .ne9377.com
 .nebadu.com
+.ned.itv.com
 .nedinchestw.site
 .nedo96.cn
 .neijh.com

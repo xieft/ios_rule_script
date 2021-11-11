@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:08:59
-# HOST: 14069
+# UPDATED: 2021-11-12 02:10:13
+# HOST: 14071
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 13216
+# HOST-SUFFIX: 13218
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27471
+# TOTAL: 27475
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -608,7 +608,6 @@ HOST,a433.com,AdvertisingLite
 HOST,a4b-tracking.com,AdvertisingLite
 HOST,a4g.com,AdvertisingLite
 HOST,a5020fec1701e9f3.com,AdvertisingLite
-HOST,a5a5a.com,AdvertisingLite
 HOST,a5e04df959f1af34.com,AdvertisingLite
 HOST,a63t9o1azf.com,AdvertisingLite
 HOST,a6f845e6c37b2833148.com,AdvertisingLite
@@ -723,6 +722,7 @@ HOST,activeprospects.com,AdvertisingLite
 HOST,activetracker.activehotels.com,AdvertisingLite
 HOST,activity.browser.intl.miui.com,AdvertisingLite
 HOST,activity.clotfun.xyz,AdvertisingLite
+HOST,activity.tuiapple.com,AdvertisingLite
 HOST,actnx.com,AdvertisingLite
 HOST,actpx.com,AdvertisingLite
 HOST,actuallysheep.com,AdvertisingLite
@@ -752,7 +752,6 @@ HOST,ad-srv-track.com,AdvertisingLite
 HOST,ad-srv.net,AdvertisingLite
 HOST,ad-u.com,AdvertisingLite
 HOST,ad-vice.biz,AdvertisingLite
-HOST,ad.10010.com,AdvertisingLite
 HOST,ad.1ting.com,AdvertisingLite
 HOST,ad.21cn.com,AdvertisingLite
 HOST,ad.9tv.co.il,AdvertisingLite
@@ -1578,6 +1577,7 @@ HOST,aff-jp.dxlive.com,AdvertisingLite
 HOST,aff-online.com,AdvertisingLite
 HOST,aff.biz,AdvertisingLite
 HOST,aff.simibo.net,AdvertisingLite
+HOST,affairexcuses.com,AdvertisingLite
 HOST,affasi.com,AdvertisingLite
 HOST,affbot3.com,AdvertisingLite
 HOST,affbuzzads.com,AdvertisingLite
@@ -1847,6 +1847,7 @@ HOST,amtracking01.com,AdvertisingLite
 HOST,amung.us,AdvertisingLite
 HOST,amunx.de,AdvertisingLite
 HOST,amxdt.com,AdvertisingLite
+HOST,an1.hfyy120.cn,AdvertisingLite
 HOST,analights.com,AdvertisingLite
 HOST,analitits.com,AdvertisingLite
 HOST,analoganalytics.com,AdvertisingLite
@@ -2434,7 +2435,6 @@ HOST,beacon2.indieclicktv.com,AdvertisingLite
 HOST,beaconads.com,AdvertisingLite
 HOST,beaconstreetservices.com,AdvertisingLite
 HOST,beampulse.com,AdvertisingLite
-HOST,beanscattering.jp,AdvertisingLite
 HOST,beanstalkdata.com,AdvertisingLite
 HOST,beanstock.com,AdvertisingLite
 HOST,beautysafari.com,AdvertisingLite
@@ -4582,6 +4582,7 @@ HOST,dreamine.com,AdvertisingLite
 HOST,dreyeli.info,AdvertisingLite
 HOST,drf8e429z5jzt.cloudfront.net,AdvertisingLite
 HOST,drivenetwork.ru,AdvertisingLite
+HOST,drowle.com,AdvertisingLite
 HOST,drydrum.com,AdvertisingLite
 HOST,ds-aksb-a.akamaihd.net,AdvertisingLite
 HOST,ds-recommender.styria.hr,AdvertisingLite
@@ -9037,6 +9038,7 @@ HOST,pagerank-backlink.eu,AdvertisingLite
 HOST,pagerank-linkverzeichnis.de,AdvertisingLite
 HOST,pagerank-online.eu,AdvertisingLite
 HOST,pagerank-suchmaschine.de,AdvertisingLite
+HOST,pagerankfree.com,AdvertisingLite
 HOST,pageranking-counter.de,AdvertisingLite
 HOST,pages05.net,AdvertisingLite
 HOST,pagesense.io,AdvertisingLite
@@ -9221,6 +9223,7 @@ HOST,phonespybubble.com,AdvertisingLite
 HOST,phonograph2.voxmedia.com,AdvertisingLite
 HOST,phoodsom.net,AdvertisingLite
 HOST,photo.941ziyuan.cn,AdvertisingLite
+HOST,photo.backerbiotech.cn,AdvertisingLite
 HOST,photo.domainrank.cn,AdvertisingLite
 HOST,photo.epowuxiao.cn,AdvertisingLite
 HOST,photo.hhmyi.cn,AdvertisingLite
@@ -13894,7 +13897,6 @@ HOST,yt-adv.bn.netease.com,AdvertisingLite
 HOST,ytelc.com,AdvertisingLite
 HOST,ytsa.net,AdvertisingLite
 HOST,yu0123456.com,AdvertisingLite
-HOST,yu987.com,AdvertisingLite
 HOST,yuanhsu.com,AdvertisingLite
 HOST,yucce.com,AdvertisingLite
 HOST,yucefa.cn,AdvertisingLite
@@ -19154,6 +19156,7 @@ HOST-SUFFIX,fp.nanrenwo.net,AdvertisingLite
 HOST-SUFFIX,fpb.51edu.com,AdvertisingLite
 HOST-SUFFIX,fpb.kuhou.com,AdvertisingLite
 HOST-SUFFIX,fpb.mn586.com,AdvertisingLite
+HOST-SUFFIX,fpb1.apple886.com,AdvertisingLite
 HOST-SUFFIX,fpbb.aizhan.com,AdvertisingLite
 HOST-SUFFIX,fpbbdx1.51240.com,AdvertisingLite
 HOST-SUFFIX,fpbjiansuo.mn586.com,AdvertisingLite
@@ -22428,6 +22431,7 @@ HOST-SUFFIX,ndy.code.weddingeeos.com,AdvertisingLite
 HOST-SUFFIX,ne.1rtb.com,AdvertisingLite
 HOST-SUFFIX,ne9377.com,AdvertisingLite
 HOST-SUFFIX,nebadu.com,AdvertisingLite
+HOST-SUFFIX,ned.itv.com,AdvertisingLite
 HOST-SUFFIX,nedinchestw.site,AdvertisingLite
 HOST-SUFFIX,nedo96.cn,AdvertisingLite
 HOST-SUFFIX,neijh.com,AdvertisingLite
