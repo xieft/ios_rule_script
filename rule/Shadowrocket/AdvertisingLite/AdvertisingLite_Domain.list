@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-12 02:10:15
+# UPDATED: 2021-11-13 02:10:18
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14071
+# DOMAIN: 14067
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # URL-REGEX: 295
-# TOTAL: 27769
+# TOTAL: 27765
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -534,7 +534,6 @@
 9718.com
 97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 97d73lsi.com
-97ff623306ff4c26996.com
 980th.com
 98bf9h8jbg.com
 98hx.cn
@@ -2545,7 +2544,6 @@ bfoleyinteractive.com
 bg6s0.com
 bgmtracker.com
 bgpng.me
-bh100.com.cn
 bh3.net
 bhcumsc.com
 bibblio.org
@@ -4100,7 +4098,6 @@ d59fa492f75f520.com
 d5k6iufjynyu8.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d63a3au5lqmtu.cloudfront.net
-d6e9d7d57085c0.com
 d6jkenny8w8yo.cloudfront.net
 d6sav80kktzcx.cloudfront.net
 d71e6dd31a026d45.com
@@ -13461,7 +13458,6 @@ www.geakr.com
 www.gennaroespositomilano.it
 www.gmcjjh.org
 www.gold-city.it
-www.grjs01.com
 www.guanyitanggy.com
 www.hausnet.ru
 www.hitekshop.vn
