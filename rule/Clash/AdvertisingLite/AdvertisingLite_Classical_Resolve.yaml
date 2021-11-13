@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-13 02:10:17
-# DOMAIN: 14067
+# UPDATED: 2021-11-14 02:09:48
+# DOMAIN: 14059
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27471
+# TOTAL: 27463
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -1000,7 +1000,6 @@ payload:
   - DOMAIN,adklip.com
   - DOMAIN,adknock.com
   - DOMAIN,adknowledge.com
-  - DOMAIN,adkonekt.com
   - DOMAIN,adkova.com
   - DOMAIN,adku.co
   - DOMAIN,adku.com
@@ -1315,7 +1314,6 @@ payload:
   - DOMAIN,adspruce.com
   - DOMAIN,adspsp.com
   - DOMAIN,adspyglass.com
-  - DOMAIN,adspynet.com
   - DOMAIN,adsrevenue.net
   - DOMAIN,adsring.com
   - DOMAIN,adsrv.bangbros.com
@@ -4685,7 +4683,6 @@ payload:
   - DOMAIN,e.8of9hd.cn
   - DOMAIN,e.funnymel.com
   - DOMAIN,e.gomev.cn
-  - DOMAIN,e.hpcat.cn
   - DOMAIN,e.ldsfh.cn
   - DOMAIN,e.tapdb.net
   - DOMAIN,e.weather.com.cn
@@ -6761,7 +6758,6 @@ payload:
   - DOMAIN,iwebtrack.com
   - DOMAIN,iwinnersadvantage.com
   - DOMAIN,iwlnzreu5vlx.com
-  - DOMAIN,iwstats.com
   - DOMAIN,ixiaa.com
   - DOMAIN,ixnp.com
   - DOMAIN,ixoox.csheaven.com
@@ -7428,6 +7424,7 @@ payload:
   - DOMAIN,log.51wnl-cq.com
   - DOMAIN,log.cmpassport.com
   - DOMAIN,log.daqi.com
+  - DOMAIN,log.droid4x.cn
   - DOMAIN,log.event.hunantv.com
   - DOMAIN,log.go.com
   - DOMAIN,log.kajicam.com
@@ -7500,7 +7497,6 @@ payload:
   - DOMAIN,lp.ncdownloader.com
   - DOMAIN,lp.titanpoker.com
   - DOMAIN,lp4.io
-  - DOMAIN,lpbeta.com
   - DOMAIN,lporirxe.com
   - DOMAIN,lpqhkj.cn
   - DOMAIN,lqcdn.com
@@ -7610,7 +7606,6 @@ payload:
   - DOMAIN,m.gomev.cn
   - DOMAIN,m.h0x.cn
   - DOMAIN,m.hdjy999.com
-  - DOMAIN,m.hpcat.cn
   - DOMAIN,m.j5s9b.cn
   - DOMAIN,m.jdhq188.cn
   - DOMAIN,m.jinhuizhibo.com
@@ -8221,6 +8216,7 @@ payload:
   - DOMAIN,mtburn.com
   - DOMAIN,mtl.xtpxw.com
   - DOMAIN,mtldesigns.ca
+  - DOMAIN,mtlog.droid4x.cn
   - DOMAIN,mto.mediatakeout.com
   - DOMAIN,mto.multiopen.cn
   - DOMAIN,mtoor.com
@@ -8569,6 +8565,7 @@ payload:
   - DOMAIN,nkredir.com
   - DOMAIN,nl-rcd.iqiyi.com
   - DOMAIN,nlmrjnew.oss-cn-shanghai.aliyuncs.com
+  - DOMAIN,nlog.droid4x.cn
   - DOMAIN,nlwy0.com
   - DOMAIN,nmcdn.us
   - DOMAIN,nmrlcnuok.com
@@ -9227,7 +9224,6 @@ payload:
   - DOMAIN,photo.hhmyi.cn
   - DOMAIN,photo.jiaxiyuan.cn
   - DOMAIN,photo.njlymyd.cn
-  - DOMAIN,photo.yxslt.cn
   - DOMAIN,photographpan.com
   - DOMAIN,photorank.me
   - DOMAIN,photoscape.ch
@@ -10601,7 +10597,6 @@ payload:
   - DOMAIN,sdkauth.hpplay.cn
   - DOMAIN,sdksp.video.qq.com
   - DOMAIN,sdlzmm.cn
-  - DOMAIN,sdn.scset.com.cn
   - DOMAIN,sdtld.net
   - DOMAIN,sdyongyan.com.cn
   - DOMAIN,sea-nov-1.com
@@ -12993,7 +12988,6 @@ payload:
   - DOMAIN,vpn.tuodupingguomiao.com
   - DOMAIN,vpn.yike0515.com
   - DOMAIN,vpn.youyisheng.net
-  - DOMAIN,vpnaffiliates.hidester.com
   - DOMAIN,vpnfortorrents.cc
   - DOMAIN,vptbn.com
   - DOMAIN,vriwjpzvh.com
@@ -13332,7 +13326,6 @@ payload:
   - DOMAIN,woopra-ns.com
   - DOMAIN,wootmedia.net
   - DOMAIN,wordego.com
-  - DOMAIN,worldflagcounter.com
   - DOMAIN,worldgravity.com
   - DOMAIN,worldlogger.com
   - DOMAIN,worldpush.co
@@ -13380,7 +13373,6 @@ payload:
   - DOMAIN,wudr.net
   - DOMAIN,wufel.ml
   - DOMAIN,wundercounter.com
-  - DOMAIN,wv-law.com
   - DOMAIN,wwbn.com
   - DOMAIN,wwclicknews.club
   - DOMAIN,wwgate.ru
@@ -13564,7 +13556,6 @@ payload:
   - DOMAIN,www.ttyyuuoo.com
   - DOMAIN,www.tvnews.or.kr
   - DOMAIN,www.two-of-us.at
-  - DOMAIN,www.unicaitaly.it
   - DOMAIN,www.uriyuri.com
   - DOMAIN,www.usaenterprise.com
   - DOMAIN,www.vinyljazzrecords.com
@@ -14046,6 +14037,7 @@ payload:
   - DOMAIN,zpjkvuyqxu.com
   - DOMAIN,zq-hk.cn
   - DOMAIN,zq2.leixjun.com
+  - DOMAIN,zqiknimzmcoedq.com
   - DOMAIN,zqzuiomba.com
   - DOMAIN,zrav2wkbrs.com
   - DOMAIN,zrosbqwecw.com

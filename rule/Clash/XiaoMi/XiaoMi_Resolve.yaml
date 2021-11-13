@@ -1,10 +1,10 @@
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:52
-# DOMAIN-SUFFIX: 112
+# UPDATED: 2021-11-14 02:09:49
+# DOMAIN-SUFFIX: 118
 # IP-CIDR: 2
-# TOTAL: 114
+# TOTAL: 120
 payload:
   - DOMAIN-SUFFIX,408399.com
   - DOMAIN-SUFFIX,408399.net
@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,growth.ai.srv
   - DOMAIN-SUFFIX,heihei.com
   - DOMAIN-SUFFIX,hongmi.cn
+  - DOMAIN-SUFFIX,kewucool.com
   - DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
   - DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
   - DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
@@ -39,6 +40,10 @@ payload:
   - DOMAIN-SUFFIX,mgslb.com
   - DOMAIN-SUFFIX,mgslb.net
   - DOMAIN-SUFFIX,mgslb.org
+  - DOMAIN-SUFFIX,mi-ae.cn
+  - DOMAIN-SUFFIX,mi-ae.com
+  - DOMAIN-SUFFIX,mi-ae.com.cn
+  - DOMAIN-SUFFIX,mi-ae.net
   - DOMAIN-SUFFIX,mi-cache.com
   - DOMAIN-SUFFIX,mi-cdn.com
   - DOMAIN-SUFFIX,mi-customer.com
@@ -53,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,mi.cn
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,mi0.cc
+  - DOMAIN-SUFFIX,mi1.cc
   - DOMAIN-SUFFIX,micoce.com.cn
   - DOMAIN-SUFFIX,micode.cn
   - DOMAIN-SUFFIX,micode.com.cn

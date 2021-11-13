@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-13 02:10:16
-# HOST: 14067
+# UPDATED: 2021-11-14 02:09:47
+# HOST: 14059
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13218
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27471
+# TOTAL: 27463
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -999,7 +999,6 @@ HOST,adkernel.com,AdvertisingLite
 HOST,adklip.com,AdvertisingLite
 HOST,adknock.com,AdvertisingLite
 HOST,adknowledge.com,AdvertisingLite
-HOST,adkonekt.com,AdvertisingLite
 HOST,adkova.com,AdvertisingLite
 HOST,adku.co,AdvertisingLite
 HOST,adku.com,AdvertisingLite
@@ -1314,7 +1313,6 @@ HOST,adsplex.com,AdvertisingLite
 HOST,adspruce.com,AdvertisingLite
 HOST,adspsp.com,AdvertisingLite
 HOST,adspyglass.com,AdvertisingLite
-HOST,adspynet.com,AdvertisingLite
 HOST,adsrevenue.net,AdvertisingLite
 HOST,adsring.com,AdvertisingLite
 HOST,adsrv.bangbros.com,AdvertisingLite
@@ -4684,7 +4682,6 @@ HOST,e.53trya.cn,AdvertisingLite
 HOST,e.8of9hd.cn,AdvertisingLite
 HOST,e.funnymel.com,AdvertisingLite
 HOST,e.gomev.cn,AdvertisingLite
-HOST,e.hpcat.cn,AdvertisingLite
 HOST,e.ldsfh.cn,AdvertisingLite
 HOST,e.tapdb.net,AdvertisingLite
 HOST,e.weather.com.cn,AdvertisingLite
@@ -6760,7 +6757,6 @@ HOST,iwantuonly.com,AdvertisingLite
 HOST,iwebtrack.com,AdvertisingLite
 HOST,iwinnersadvantage.com,AdvertisingLite
 HOST,iwlnzreu5vlx.com,AdvertisingLite
-HOST,iwstats.com,AdvertisingLite
 HOST,ixiaa.com,AdvertisingLite
 HOST,ixnp.com,AdvertisingLite
 HOST,ixoox.csheaven.com,AdvertisingLite
@@ -7427,6 +7423,7 @@ HOST,log.120ask.com,AdvertisingLite
 HOST,log.51wnl-cq.com,AdvertisingLite
 HOST,log.cmpassport.com,AdvertisingLite
 HOST,log.daqi.com,AdvertisingLite
+HOST,log.droid4x.cn,AdvertisingLite
 HOST,log.event.hunantv.com,AdvertisingLite
 HOST,log.go.com,AdvertisingLite
 HOST,log.kajicam.com,AdvertisingLite
@@ -7499,7 +7496,6 @@ HOST,lp.musicboxnewtab.com,AdvertisingLite
 HOST,lp.ncdownloader.com,AdvertisingLite
 HOST,lp.titanpoker.com,AdvertisingLite
 HOST,lp4.io,AdvertisingLite
-HOST,lpbeta.com,AdvertisingLite
 HOST,lporirxe.com,AdvertisingLite
 HOST,lpqhkj.cn,AdvertisingLite
 HOST,lqcdn.com,AdvertisingLite
@@ -7609,7 +7605,6 @@ HOST,m.gexings.com,AdvertisingLite
 HOST,m.gomev.cn,AdvertisingLite
 HOST,m.h0x.cn,AdvertisingLite
 HOST,m.hdjy999.com,AdvertisingLite
-HOST,m.hpcat.cn,AdvertisingLite
 HOST,m.j5s9b.cn,AdvertisingLite
 HOST,m.jdhq188.cn,AdvertisingLite
 HOST,m.jinhuizhibo.com,AdvertisingLite
@@ -8220,6 +8215,7 @@ HOST,mt.sellingrealestatemalta.com,AdvertisingLite
 HOST,mtburn.com,AdvertisingLite
 HOST,mtl.xtpxw.com,AdvertisingLite
 HOST,mtldesigns.ca,AdvertisingLite
+HOST,mtlog.droid4x.cn,AdvertisingLite
 HOST,mto.mediatakeout.com,AdvertisingLite
 HOST,mto.multiopen.cn,AdvertisingLite
 HOST,mtoor.com,AdvertisingLite
@@ -8568,6 +8564,7 @@ HOST,njtgsd.attackthethrone.com,AdvertisingLite
 HOST,nkredir.com,AdvertisingLite
 HOST,nl-rcd.iqiyi.com,AdvertisingLite
 HOST,nlmrjnew.oss-cn-shanghai.aliyuncs.com,AdvertisingLite
+HOST,nlog.droid4x.cn,AdvertisingLite
 HOST,nlwy0.com,AdvertisingLite
 HOST,nmcdn.us,AdvertisingLite
 HOST,nmrlcnuok.com,AdvertisingLite
@@ -9226,7 +9223,6 @@ HOST,photo.epowuxiao.cn,AdvertisingLite
 HOST,photo.hhmyi.cn,AdvertisingLite
 HOST,photo.jiaxiyuan.cn,AdvertisingLite
 HOST,photo.njlymyd.cn,AdvertisingLite
-HOST,photo.yxslt.cn,AdvertisingLite
 HOST,photographpan.com,AdvertisingLite
 HOST,photorank.me,AdvertisingLite
 HOST,photoscape.ch,AdvertisingLite
@@ -10600,7 +10596,6 @@ HOST,sdk.zsdfm.com,AdvertisingLite
 HOST,sdkauth.hpplay.cn,AdvertisingLite
 HOST,sdksp.video.qq.com,AdvertisingLite
 HOST,sdlzmm.cn,AdvertisingLite
-HOST,sdn.scset.com.cn,AdvertisingLite
 HOST,sdtld.net,AdvertisingLite
 HOST,sdyongyan.com.cn,AdvertisingLite
 HOST,sea-nov-1.com,AdvertisingLite
@@ -12992,7 +12987,6 @@ HOST,vpn.szdatayj.com,AdvertisingLite
 HOST,vpn.tuodupingguomiao.com,AdvertisingLite
 HOST,vpn.yike0515.com,AdvertisingLite
 HOST,vpn.youyisheng.net,AdvertisingLite
-HOST,vpnaffiliates.hidester.com,AdvertisingLite
 HOST,vpnfortorrents.cc,AdvertisingLite
 HOST,vptbn.com,AdvertisingLite
 HOST,vriwjpzvh.com,AdvertisingLite
@@ -13331,7 +13325,6 @@ HOST,woobox.com,AdvertisingLite
 HOST,woopra-ns.com,AdvertisingLite
 HOST,wootmedia.net,AdvertisingLite
 HOST,wordego.com,AdvertisingLite
-HOST,worldflagcounter.com,AdvertisingLite
 HOST,worldgravity.com,AdvertisingLite
 HOST,worldlogger.com,AdvertisingLite
 HOST,worldpush.co,AdvertisingLite
@@ -13379,7 +13372,6 @@ HOST,wucheng.info,AdvertisingLite
 HOST,wudr.net,AdvertisingLite
 HOST,wufel.ml,AdvertisingLite
 HOST,wundercounter.com,AdvertisingLite
-HOST,wv-law.com,AdvertisingLite
 HOST,wwbn.com,AdvertisingLite
 HOST,wwclicknews.club,AdvertisingLite
 HOST,wwgate.ru,AdvertisingLite
@@ -13563,7 +13555,6 @@ HOST,www.tpt.edu.in,AdvertisingLite
 HOST,www.ttyyuuoo.com,AdvertisingLite
 HOST,www.tvnews.or.kr,AdvertisingLite
 HOST,www.two-of-us.at,AdvertisingLite
-HOST,www.unicaitaly.it,AdvertisingLite
 HOST,www.uriyuri.com,AdvertisingLite
 HOST,www.usaenterprise.com,AdvertisingLite
 HOST,www.vinyljazzrecords.com,AdvertisingLite
@@ -14045,6 +14036,7 @@ HOST,zp265.com,AdvertisingLite
 HOST,zpjkvuyqxu.com,AdvertisingLite
 HOST,zq-hk.cn,AdvertisingLite
 HOST,zq2.leixjun.com,AdvertisingLite
+HOST,zqiknimzmcoedq.com,AdvertisingLite
 HOST,zqzuiomba.com,AdvertisingLite
 HOST,zrav2wkbrs.com,AdvertisingLite
 HOST,zrosbqwecw.com,AdvertisingLite

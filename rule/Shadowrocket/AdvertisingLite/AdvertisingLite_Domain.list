@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-13 02:10:18
+# UPDATED: 2021-11-14 02:09:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14067
+# DOMAIN: 14059
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # URL-REGEX: 295
-# TOTAL: 27765
+# TOTAL: 27757
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -1000,7 +1000,6 @@ adkernel.com
 adklip.com
 adknock.com
 adknowledge.com
-adkonekt.com
 adkova.com
 adku.co
 adku.com
@@ -1315,7 +1314,6 @@ adsplex.com
 adspruce.com
 adspsp.com
 adspyglass.com
-adspynet.com
 adsrevenue.net
 adsring.com
 adsrv.bangbros.com
@@ -4685,7 +4683,6 @@ e.53trya.cn
 e.8of9hd.cn
 e.funnymel.com
 e.gomev.cn
-e.hpcat.cn
 e.ldsfh.cn
 e.tapdb.net
 e.weather.com.cn
@@ -6761,7 +6758,6 @@ iwantuonly.com
 iwebtrack.com
 iwinnersadvantage.com
 iwlnzreu5vlx.com
-iwstats.com
 ixiaa.com
 ixnp.com
 ixoox.csheaven.com
@@ -7428,6 +7424,7 @@ log.120ask.com
 log.51wnl-cq.com
 log.cmpassport.com
 log.daqi.com
+log.droid4x.cn
 log.event.hunantv.com
 log.go.com
 log.kajicam.com
@@ -7500,7 +7497,6 @@ lp.musicboxnewtab.com
 lp.ncdownloader.com
 lp.titanpoker.com
 lp4.io
-lpbeta.com
 lporirxe.com
 lpqhkj.cn
 lqcdn.com
@@ -7610,7 +7606,6 @@ m.gexings.com
 m.gomev.cn
 m.h0x.cn
 m.hdjy999.com
-m.hpcat.cn
 m.j5s9b.cn
 m.jdhq188.cn
 m.jinhuizhibo.com
@@ -8221,6 +8216,7 @@ mt.sellingrealestatemalta.com
 mtburn.com
 mtl.xtpxw.com
 mtldesigns.ca
+mtlog.droid4x.cn
 mto.mediatakeout.com
 mto.multiopen.cn
 mtoor.com
@@ -8569,6 +8565,7 @@ njtgsd.attackthethrone.com
 nkredir.com
 nl-rcd.iqiyi.com
 nlmrjnew.oss-cn-shanghai.aliyuncs.com
+nlog.droid4x.cn
 nlwy0.com
 nmcdn.us
 nmrlcnuok.com
@@ -9227,7 +9224,6 @@ photo.epowuxiao.cn
 photo.hhmyi.cn
 photo.jiaxiyuan.cn
 photo.njlymyd.cn
-photo.yxslt.cn
 photographpan.com
 photorank.me
 photoscape.ch
@@ -10601,7 +10597,6 @@ sdk.zsdfm.com
 sdkauth.hpplay.cn
 sdksp.video.qq.com
 sdlzmm.cn
-sdn.scset.com.cn
 sdtld.net
 sdyongyan.com.cn
 sea-nov-1.com
@@ -12993,7 +12988,6 @@ vpn.szdatayj.com
 vpn.tuodupingguomiao.com
 vpn.yike0515.com
 vpn.youyisheng.net
-vpnaffiliates.hidester.com
 vpnfortorrents.cc
 vptbn.com
 vriwjpzvh.com
@@ -13332,7 +13326,6 @@ woobox.com
 woopra-ns.com
 wootmedia.net
 wordego.com
-worldflagcounter.com
 worldgravity.com
 worldlogger.com
 worldpush.co
@@ -13380,7 +13373,6 @@ wucheng.info
 wudr.net
 wufel.ml
 wundercounter.com
-wv-law.com
 wwbn.com
 wwclicknews.club
 wwgate.ru
@@ -13564,7 +13556,6 @@ www.tpt.edu.in
 www.ttyyuuoo.com
 www.tvnews.or.kr
 www.two-of-us.at
-www.unicaitaly.it
 www.uriyuri.com
 www.usaenterprise.com
 www.vinyljazzrecords.com
@@ -14046,6 +14037,7 @@ zp265.com
 zpjkvuyqxu.com
 zq-hk.cn
 zq2.leixjun.com
+zqiknimzmcoedq.com
 zqzuiomba.com
 zrav2wkbrs.com
 zrosbqwecw.com
