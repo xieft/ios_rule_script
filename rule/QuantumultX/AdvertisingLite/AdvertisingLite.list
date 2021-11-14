@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-14 02:09:47
-# HOST: 14059
+# UPDATED: 2021-11-15 02:09:47
+# HOST: 14050
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13218
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27463
+# TOTAL: 27454
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -219,7 +219,6 @@ HOST,303marketplace.com,AdvertisingLite
 HOST,30b9e3a7d7e2b.com,AdvertisingLite
 HOST,30daychange.co,AdvertisingLite
 HOST,315gg.com,AdvertisingLite
-HOST,31a5610ce3a8a2.com,AdvertisingLite
 HOST,31xiaoshuo.org,AdvertisingLite
 HOST,321tui.cn,AdvertisingLite
 HOST,321tui.com,AdvertisingLite
@@ -538,7 +537,6 @@ HOST,98bf9h8jbg.com,AdvertisingLite
 HOST,98hx.cn,AdvertisingLite
 HOST,999d.com,AdvertisingLite
 HOST,999fitness.com,AdvertisingLite
-HOST,99a9339abed56.com,AdvertisingLite
 HOST,99counters.com,AdvertisingLite
 HOST,99stats.com,AdvertisingLite
 HOST,9a24a1b3dcd5f4.com,AdvertisingLite
@@ -2295,6 +2293,7 @@ HOST,bagbeam.com,AdvertisingLite
 HOST,baichuan-sdk.alicdn.com,AdvertisingLite
 HOST,baid1.okooo.com,AdvertisingLite
 HOST,baidu-taobao-av.com,AdvertisingLite
+HOST,baidu.tlssyg.com,AdvertisingLite
 HOST,baidu1.weather.com.cn,AdvertisingLite
 HOST,baidua1.cardbaobao.com,AdvertisingLite
 HOST,baidua2.cardbaobao.com,AdvertisingLite
@@ -3094,7 +3093,6 @@ HOST,cdntrf.com,AdvertisingLite
 HOST,cdp.cloud.unity3d.com,AdvertisingLite
 HOST,cdshusen.cn,AdvertisingLite
 HOST,ce62e0d222bc5aca.com,AdvertisingLite
-HOST,ce9c00f41ae8cdd.com,AdvertisingLite
 HOST,cedexis.com,AdvertisingLite
 HOST,ceeglagu.net,AdvertisingLite
 HOST,ceeglousaud.com,AdvertisingLite
@@ -3326,7 +3324,6 @@ HOST,clicktrace.info,AdvertisingLite
 HOST,clicktrack1.com,AdvertisingLite
 HOST,clicktripz.co,AdvertisingLite
 HOST,clicktripz.com,AdvertisingLite
-HOST,clicktrkservices.com,AdvertisingLite
 HOST,clickupto.com,AdvertisingLite
 HOST,clickwinks.com,AdvertisingLite
 HOST,clickx.autohome.com.cn,AdvertisingLite
@@ -3368,7 +3365,6 @@ HOST,cloudtracked.com,AdvertisingLite
 HOST,clrstm.com,AdvertisingLite
 HOST,clubcollector.com,AdvertisingLite
 HOST,clxgmlpfkoj.com,AdvertisingLite
-HOST,clz3.net,AdvertisingLite
 HOST,cm.dmp.360.cn,AdvertisingLite
 HOST,cmbestsrv.com,AdvertisingLite
 HOST,cmfads.com,AdvertisingLite
@@ -4534,7 +4530,6 @@ HOST,doumaibiji.cn,AdvertisingLite
 HOST,doupuer.com,AdvertisingLite
 HOST,dowages.com,AdvertisingLite
 HOST,down.feiyang163.com,AdvertisingLite
-HOST,down.mykings.pw,AdvertisingLite
 HOST,down.unadnet.com.cn,AdvertisingLite
 HOST,down1oads.com,AdvertisingLite
 HOST,down2.feiyang163.com,AdvertisingLite
@@ -6484,7 +6479,6 @@ HOST,impore.com,AdvertisingLite
 HOST,importedincrease.com,AdvertisingLite
 HOST,importedinsect.com,AdvertisingLite
 HOST,impresionesweb.com,AdvertisingLite
-HOST,impresix.com,AdvertisingLite
 HOST,impressiondesk.com,AdvertisingLite
 HOST,impressionmonster.com,AdvertisingLite
 HOST,impressoras-cartoes.com.pt,AdvertisingLite
@@ -8404,6 +8398,7 @@ HOST,ndg.io,AdvertisingLite
 HOST,ndikvccwz.com,AdvertisingLite
 HOST,neads.delivery,AdvertisingLite
 HOST,neatstats.com,AdvertisingLite
+HOST,neblotech.com,AdvertisingLite
 HOST,nedstatbasic.net,AdvertisingLite
 HOST,neechuce.net,AdvertisingLite
 HOST,neepaips.com,AdvertisingLite
@@ -8494,7 +8489,6 @@ HOST,newscurve.com,AdvertisingLite
 HOST,newsepads.com,AdvertisingLite
 HOST,newsexbook.com,AdvertisingLite
 HOST,newsgator.com,AdvertisingLite
-HOST,newsharecounts.com,AdvertisingLite
 HOST,newsletter.bdnews24.com,AdvertisingLite
 HOST,newsletter2go.com,AdvertisingLite
 HOST,newsletters.nationalgeographic.com,AdvertisingLite
@@ -11702,7 +11696,6 @@ HOST,synapsys.us,AdvertisingLite
 HOST,sync.tv,AdvertisingLite
 HOST,syncedvision.com,AdvertisingLite
 HOST,syndicate.payloadz.com,AdvertisingLite
-HOST,syndicatedsearchresults.com,AdvertisingLite
 HOST,synergy-e.com,AdvertisingLite
 HOST,synerise.com,AdvertisingLite
 HOST,synovite-scripts.com,AdvertisingLite
@@ -12627,7 +12620,6 @@ HOST,uod2quk646.com,AdvertisingLite
 HOST,uol.com.br,AdvertisingLite
 HOST,up-dates.to,AdvertisingLite
 HOST,up-rank.com,AdvertisingLite
-HOST,up.mykings.pw,AdvertisingLite
 HOST,upage.imtt.qq.com,AdvertisingLite
 HOST,upapi.net,AdvertisingLite
 HOST,updat120.clanteam.com,AdvertisingLite
@@ -13728,7 +13720,6 @@ HOST,xxlink.net,AdvertisingLite
 HOST,xxltr.com,AdvertisingLite
 HOST,xxtu.be,AdvertisingLite
 HOST,xxxadv.com,AdvertisingLite
-HOST,xxxallaccesspass.com,AdvertisingLite
 HOST,xxxbannerswap.com,AdvertisingLite
 HOST,xxxblackbook.com,AdvertisingLite
 HOST,xxxcounter.com,AdvertisingLite

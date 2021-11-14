@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-14 02:09:46
+# UPDATED: 2021-11-15 02:09:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14059
+# DOMAIN: 14050
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27758
+# TOTAL: 27749
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -221,7 +221,6 @@
 30b9e3a7d7e2b.com
 30daychange.co
 315gg.com
-31a5610ce3a8a2.com
 31xiaoshuo.org
 321tui.cn
 321tui.com
@@ -540,7 +539,6 @@
 98hx.cn
 999d.com
 999fitness.com
-99a9339abed56.com
 99counters.com
 99stats.com
 9a24a1b3dcd5f4.com
@@ -2297,6 +2295,7 @@ bagbeam.com
 baichuan-sdk.alicdn.com
 baid1.okooo.com
 baidu-taobao-av.com
+baidu.tlssyg.com
 baidu1.weather.com.cn
 baidua1.cardbaobao.com
 baidua2.cardbaobao.com
@@ -3096,7 +3095,6 @@ cdntrf.com
 cdp.cloud.unity3d.com
 cdshusen.cn
 ce62e0d222bc5aca.com
-ce9c00f41ae8cdd.com
 cedexis.com
 ceeglagu.net
 ceeglousaud.com
@@ -3328,7 +3326,6 @@ clicktrace.info
 clicktrack1.com
 clicktripz.co
 clicktripz.com
-clicktrkservices.com
 clickupto.com
 clickwinks.com
 clickx.autohome.com.cn
@@ -3370,7 +3367,6 @@ cloudtracked.com
 clrstm.com
 clubcollector.com
 clxgmlpfkoj.com
-clz3.net
 cm.dmp.360.cn
 cmbestsrv.com
 cmfads.com
@@ -4536,7 +4532,6 @@ doumaibiji.cn
 doupuer.com
 dowages.com
 down.feiyang163.com
-down.mykings.pw
 down.unadnet.com.cn
 down1oads.com
 down2.feiyang163.com
@@ -6486,7 +6481,6 @@ impore.com
 importedincrease.com
 importedinsect.com
 impresionesweb.com
-impresix.com
 impressiondesk.com
 impressionmonster.com
 impressoras-cartoes.com.pt
@@ -8406,6 +8400,7 @@ ndg.io
 ndikvccwz.com
 neads.delivery
 neatstats.com
+neblotech.com
 nedstatbasic.net
 neechuce.net
 neepaips.com
@@ -8496,7 +8491,6 @@ newscurve.com
 newsepads.com
 newsexbook.com
 newsgator.com
-newsharecounts.com
 newsletter.bdnews24.com
 newsletter2go.com
 newsletters.nationalgeographic.com
@@ -11704,7 +11698,6 @@ synapsys.us
 sync.tv
 syncedvision.com
 syndicate.payloadz.com
-syndicatedsearchresults.com
 synergy-e.com
 synerise.com
 synovite-scripts.com
@@ -12629,7 +12622,6 @@ uod2quk646.com
 uol.com.br
 up-dates.to
 up-rank.com
-up.mykings.pw
 upage.imtt.qq.com
 upapi.net
 updat120.clanteam.com
@@ -13730,7 +13722,6 @@ xxlink.net
 xxltr.com
 xxtu.be
 xxxadv.com
-xxxallaccesspass.com
 xxxbannerswap.com
 xxxblackbook.com
 xxxcounter.com
