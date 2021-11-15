@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-15 02:09:47
-# HOST: 14050
+# UPDATED: 2021-11-16 02:08:00
+# HOST: 14047
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13218
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27454
+# TOTAL: 27451
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -1868,7 +1868,6 @@ HOST,analytics.techweb.com.cn,AdvertisingLite
 HOST,analytics.tv189.cn,AdvertisingLite
 HOST,analytics.woozooo.com,AdvertisingLite
 HOST,analytics3.dopool.com,AdvertisingLite
-HOST,analyticschecker.com,AdvertisingLite
 HOST,analyticsip.net,AdvertisingLite
 HOST,analyticson.com,AdvertisingLite
 HOST,analyticswizard.com,AdvertisingLite
@@ -2440,7 +2439,6 @@ HOST,bebi.com,AdvertisingLite
 HOST,become.successfultogether.co.uk,AdvertisingLite
 HOST,becomedebtfree.com.au,AdvertisingLite
 HOST,becoquin.com,AdvertisingLite
-HOST,bedorm.com,AdvertisingLite
 HOST,bedsbreath.com,AdvertisingLite
 HOST,bee.kascend.com,AdvertisingLite
 HOST,beead.co.uk,AdvertisingLite
@@ -6292,7 +6290,6 @@ HOST,hypestat.com,AdvertisingLite
 HOST,hyphenatedion.com,AdvertisingLite
 HOST,hyphenion.com,AdvertisingLite
 HOST,hz1.lanmei80.com,AdvertisingLite
-HOST,hz3137.com,AdvertisingLite
 HOST,hzdaye.m.zwdu.com,AdvertisingLite
 HOST,hzdhr.cn,AdvertisingLite
 HOST,hzkachqd.com,AdvertisingLite
@@ -7457,7 +7454,6 @@ HOST,lokvel.ru,AdvertisingLite
 HOST,loldata.top,AdvertisingLite
 HOST,loldyttw.com,AdvertisingLite
 HOST,loldyttw.net,AdvertisingLite
-HOST,loltrk.com,AdvertisingLite
 HOST,lonedol.info,AdvertisingLite
 HOST,lookery.com,AdvertisingLite
 HOST,lookit.cz,AdvertisingLite
@@ -7502,6 +7498,7 @@ HOST,ltg69t.com,AdvertisingLite
 HOST,lucidcommerce.com,AdvertisingLite
 HOST,lucidel.com,AdvertisingLite
 HOST,lucidmedia.com,AdvertisingLite
+HOST,lucklayed.info,AdvertisingLite
 HOST,luckyblank.info,AdvertisingLite
 HOST,luckyhalo.info,AdvertisingLite
 HOST,luckyorange.com,AdvertisingLite
@@ -7743,6 +7740,7 @@ HOST,marvedesderef.info,AdvertisingLite
 HOST,marvin.pw,AdvertisingLite
 HOST,marx-brothers.mhwang.com,AdvertisingLite
 HOST,masdkv6.3g.qq.com,AdvertisingLite
+HOST,masdsmt.com,AdvertisingLite
 HOST,massivemark.com,AdvertisingLite
 HOST,massrelevance.com,AdvertisingLite
 HOST,master-push.com,AdvertisingLite
@@ -8058,7 +8056,6 @@ HOST,mo.zdceaa.cn,AdvertisingLite
 HOST,mo8mwxi1.com,AdvertisingLite
 HOST,moafoche.com,AdvertisingLite
 HOST,mob26.jnjszl.com,AdvertisingLite
-HOST,mobalives.com,AdvertisingLite
 HOST,mobappconfig.securities.eastmoney.com,AdvertisingLite
 HOST,mobday.com,AdvertisingLite
 HOST,mobgold.com,AdvertisingLite
@@ -8244,6 +8241,7 @@ HOST,muyoozrkkyr.com,AdvertisingLite
 HOST,mvilivestats.com,AdvertisingLite
 HOST,mvimzkmondb.com,AdvertisingLite
 HOST,mvo.myt7th.xyz,AdvertisingLite
+HOST,mvtracker.com,AdvertisingLite
 HOST,mwstats.net,AdvertisingLite
 HOST,mxapis.com,AdvertisingLite
 HOST,mxcdn.net,AdvertisingLite
@@ -13592,7 +13590,6 @@ HOST,x-ssp.com,AdvertisingLite
 HOST,x-stat.de,AdvertisingLite
 HOST,x-traceur.com,AdvertisingLite
 HOST,x.allabout.co.jp,AdvertisingLite
-HOST,x.fidelity-media.com,AdvertisingLite
 HOST,x.mochiads.com,AdvertisingLite
 HOST,x.mtrend.cn,AdvertisingLite
 HOST,x.niuliyan.cn,AdvertisingLite

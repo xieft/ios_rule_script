@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-15 02:09:48
-# DOMAIN: 14050
+# UPDATED: 2021-11-16 02:08:01
+# DOMAIN: 14047
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27454
+# TOTAL: 27451
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -1869,7 +1869,6 @@ payload:
   - DOMAIN,analytics.tv189.cn
   - DOMAIN,analytics.woozooo.com
   - DOMAIN,analytics3.dopool.com
-  - DOMAIN,analyticschecker.com
   - DOMAIN,analyticsip.net
   - DOMAIN,analyticson.com
   - DOMAIN,analyticswizard.com
@@ -2441,7 +2440,6 @@ payload:
   - DOMAIN,become.successfultogether.co.uk
   - DOMAIN,becomedebtfree.com.au
   - DOMAIN,becoquin.com
-  - DOMAIN,bedorm.com
   - DOMAIN,bedsbreath.com
   - DOMAIN,bee.kascend.com
   - DOMAIN,beead.co.uk
@@ -6293,7 +6291,6 @@ payload:
   - DOMAIN,hyphenatedion.com
   - DOMAIN,hyphenion.com
   - DOMAIN,hz1.lanmei80.com
-  - DOMAIN,hz3137.com
   - DOMAIN,hzdaye.m.zwdu.com
   - DOMAIN,hzdhr.cn
   - DOMAIN,hzkachqd.com
@@ -7458,7 +7455,6 @@ payload:
   - DOMAIN,loldata.top
   - DOMAIN,loldyttw.com
   - DOMAIN,loldyttw.net
-  - DOMAIN,loltrk.com
   - DOMAIN,lonedol.info
   - DOMAIN,lookery.com
   - DOMAIN,lookit.cz
@@ -7503,6 +7499,7 @@ payload:
   - DOMAIN,lucidcommerce.com
   - DOMAIN,lucidel.com
   - DOMAIN,lucidmedia.com
+  - DOMAIN,lucklayed.info
   - DOMAIN,luckyblank.info
   - DOMAIN,luckyhalo.info
   - DOMAIN,luckyorange.com
@@ -7744,6 +7741,7 @@ payload:
   - DOMAIN,marvin.pw
   - DOMAIN,marx-brothers.mhwang.com
   - DOMAIN,masdkv6.3g.qq.com
+  - DOMAIN,masdsmt.com
   - DOMAIN,massivemark.com
   - DOMAIN,massrelevance.com
   - DOMAIN,master-push.com
@@ -8059,7 +8057,6 @@ payload:
   - DOMAIN,mo8mwxi1.com
   - DOMAIN,moafoche.com
   - DOMAIN,mob26.jnjszl.com
-  - DOMAIN,mobalives.com
   - DOMAIN,mobappconfig.securities.eastmoney.com
   - DOMAIN,mobday.com
   - DOMAIN,mobgold.com
@@ -8245,6 +8242,7 @@ payload:
   - DOMAIN,mvilivestats.com
   - DOMAIN,mvimzkmondb.com
   - DOMAIN,mvo.myt7th.xyz
+  - DOMAIN,mvtracker.com
   - DOMAIN,mwstats.net
   - DOMAIN,mxapis.com
   - DOMAIN,mxcdn.net
@@ -13593,7 +13591,6 @@ payload:
   - DOMAIN,x-stat.de
   - DOMAIN,x-traceur.com
   - DOMAIN,x.allabout.co.jp
-  - DOMAIN,x.fidelity-media.com
   - DOMAIN,x.mochiads.com
   - DOMAIN,x.mtrend.cn
   - DOMAIN,x.niuliyan.cn

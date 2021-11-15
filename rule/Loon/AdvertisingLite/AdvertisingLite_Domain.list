@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-15 02:09:47
+# UPDATED: 2021-11-16 02:08:01
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14050
+# DOMAIN: 14047
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27749
+# TOTAL: 27746
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -1870,7 +1870,6 @@ analytics.techweb.com.cn
 analytics.tv189.cn
 analytics.woozooo.com
 analytics3.dopool.com
-analyticschecker.com
 analyticsip.net
 analyticson.com
 analyticswizard.com
@@ -2442,7 +2441,6 @@ bebi.com
 become.successfultogether.co.uk
 becomedebtfree.com.au
 becoquin.com
-bedorm.com
 bedsbreath.com
 bee.kascend.com
 beead.co.uk
@@ -6294,7 +6292,6 @@ hypestat.com
 hyphenatedion.com
 hyphenion.com
 hz1.lanmei80.com
-hz3137.com
 hzdaye.m.zwdu.com
 hzdhr.cn
 hzkachqd.com
@@ -7459,7 +7456,6 @@ lokvel.ru
 loldata.top
 loldyttw.com
 loldyttw.net
-loltrk.com
 lonedol.info
 lookery.com
 lookit.cz
@@ -7504,6 +7500,7 @@ ltg69t.com
 lucidcommerce.com
 lucidel.com
 lucidmedia.com
+lucklayed.info
 luckyblank.info
 luckyhalo.info
 luckyorange.com
@@ -7745,6 +7742,7 @@ marvedesderef.info
 marvin.pw
 marx-brothers.mhwang.com
 masdkv6.3g.qq.com
+masdsmt.com
 massivemark.com
 massrelevance.com
 master-push.com
@@ -8060,7 +8058,6 @@ mo.zdceaa.cn
 mo8mwxi1.com
 moafoche.com
 mob26.jnjszl.com
-mobalives.com
 mobappconfig.securities.eastmoney.com
 mobday.com
 mobgold.com
@@ -8246,6 +8243,7 @@ muyoozrkkyr.com
 mvilivestats.com
 mvimzkmondb.com
 mvo.myt7th.xyz
+mvtracker.com
 mwstats.net
 mxapis.com
 mxcdn.net
@@ -13594,7 +13592,6 @@ x-ssp.com
 x-stat.de
 x-traceur.com
 x.allabout.co.jp
-x.fidelity-media.com
 x.mochiads.com
 x.mtrend.cn
 x.niuliyan.cn
