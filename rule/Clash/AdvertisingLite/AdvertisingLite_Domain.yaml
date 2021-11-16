@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-16 02:08:01
-# DOMAIN: 14047
+# UPDATED: 2021-11-17 02:08:39
+# DOMAIN: 14050
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27451
+# TOTAL: 27454
 payload:
   - '00-gov.cn'
   - '0024aadd.com'
@@ -579,6 +579,7 @@ payload:
   - 'a.slsbc.cn'
   - 'a.umilu.com'
   - 'a.update.51edm.net'
+  - 'a.ut8d8.com'
   - 'a.vserv.mobi'
   - 'a.xmdly.com'
   - 'a.yiyuancq.com'
@@ -1303,6 +1304,7 @@ payload:
   - 'adsonar.com'
   - 'adsoptimal.com'
   - 'adsovo.com'
+  - 'adsp.com'
   - 'adspaces.ero-advertising.com'
   - 'adsparc.net'
   - 'adspdbl.com'
@@ -1549,7 +1551,6 @@ payload:
   - 'adzonk.com'
   - 'adzouk.com'
   - 'adzouk1tag.com'
-  - 'adzpower.com'
   - 'adzs.com'
   - 'adzs.nl'
   - 'adzyou.com'
@@ -4955,7 +4956,6 @@ payload:
   - 'essayads.com'
   - 'essaycoupons.com'
   - 'estadisticasgratis.com'
-  - 'estadisticasgratis.es'
   - 'estafair.com'
   - 'estara.com'
   - 'estat.com'
@@ -7468,6 +7468,7 @@ payload:
   - 'looyu.com'
   - 'lopley.com'
   - 'losecounter.de'
+  - 'losital.ru'
   - 'losstrack.com'
   - 'lostun.com'
   - 'lotteryaffiliates.com'
@@ -7535,6 +7536,7 @@ payload:
   - 'luxupcdna.com'
   - 'luxupcdnb.com'
   - 'luxupcdnc.com'
+  - 'lv711.net'
   - 'lvecygampj.com'
   - 'lvntekpejrmtb.com'
   - 'lvodomo.info'
@@ -8107,6 +8109,7 @@ payload:
   - 'mon-gbr-1.inf.nimiq.network'
   - 'mon.snssdk.com'
   - 'monad-rtb.com'
+  - 'monditomasks.co'
   - 'monerise.com'
   - 'monerominer.rocks'
   - 'moneroocean.stream'
@@ -8888,6 +8891,7 @@ payload:
   - 'optimizesrv.com'
   - 'optimonk.com'
   - 'optimost.com'
+  - 'optin-machine.com'
   - 'optinemailpro.com'
   - 'optinmonster.com'
   - 'optkit.com'
@@ -9211,7 +9215,6 @@ payload:
   - 'phoodsom.net'
   - 'photo.941ziyuan.cn'
   - 'photo.backerbiotech.cn'
-  - 'photo.domainrank.cn'
   - 'photo.epowuxiao.cn'
   - 'photo.hhmyi.cn'
   - 'photo.jiaxiyuan.cn'
@@ -10534,6 +10537,7 @@ payload:
   - 'sba.about.co.kr'
   - 'sbaffiliates.com'
   - 'sbcpower.com'
+  - 'sbdtds.com'
   - 'sbfsdvc.com'
   - 'sbhc.portalhc.com'
   - 'sblcjzjp.com'
@@ -12702,7 +12706,6 @@ payload:
   - 'uujdthyg.com'
   - 'uulvtpbx.com'
   - 'uunak.cn'
-  - 'uux79.com'
   - 'uuxnwoevyb.com'
   - 'uvertauh.com'
   - 'uvimage.56.com'
@@ -12947,6 +12950,7 @@ payload:
   - 'vogo-vogo.ru'
   - 'vogopita.com'
   - 'vogorana.ru'
+  - 'vogosita.com'
   - 'vogotita.com'
   - 'vogozae.ru'
   - 'voipnewswire.net'
@@ -13640,7 +13644,6 @@ payload:
   - 'xindalawyer.com'
   - 'xineday.com'
   - 'xing-share.com'
-  - 'xingmengxia.cn'
   - 'xinkuaiyu.com'
   - 'xinshengchuanmei.cn'
   - 'xiongyin.com'
@@ -13743,6 +13746,7 @@ payload:
   - 'y.cgtte.com'
   - 'y.one.impact-ad.jp'
   - 'y.pzclw.cn'
+  - 'y.zp22.cn'
   - 'y71.ylems.club'
   - 'y72yuyr9.com'
   - 'y76.ylems.club'
@@ -13910,7 +13914,6 @@ payload:
   - 'z2blog.com'
   - 'z444o.com'
   - 'z888.izhufu.net'
-  - 'zafrc.5780.site'
   - 'zaloapp.com'
   - 'zampda.net'
   - 'zangocash.com'

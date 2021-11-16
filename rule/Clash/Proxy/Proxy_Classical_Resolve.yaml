@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-09 02:09:50
+# UPDATED: 2021-11-17 02:08:39
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 34216
+# DOMAIN-SUFFIX: 34217
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34356
+# TOTAL: 34357
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -4322,6 +4322,7 @@ payload:
   - DOMAIN-SUFFIX,authorizeddns.org
   - DOMAIN-SUFFIX,authorizeddns.us
   - DOMAIN-SUFFIX,authorxml.com
+  - DOMAIN-SUFFIX,authy.com
   - DOMAIN-SUFFIX,auto-aufladen.de
   - DOMAIN-SUFFIX,auto.freev2.top
   - DOMAIN-SUFFIX,auto0391.com

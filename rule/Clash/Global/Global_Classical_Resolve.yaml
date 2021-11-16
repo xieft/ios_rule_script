@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:09:02
+# UPDATED: 2021-11-17 02:08:40
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 33970
+# DOMAIN-SUFFIX: 33971
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34165
+# TOTAL: 34166
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -4271,6 +4271,7 @@ payload:
   - DOMAIN-SUFFIX,authorizeddns.org
   - DOMAIN-SUFFIX,authorizeddns.us
   - DOMAIN-SUFFIX,authorxml.com
+  - DOMAIN-SUFFIX,authy.com
   - DOMAIN-SUFFIX,auto-aufladen.de
   - DOMAIN-SUFFIX,auto.freev2.top
   - DOMAIN-SUFFIX,auto0391.com

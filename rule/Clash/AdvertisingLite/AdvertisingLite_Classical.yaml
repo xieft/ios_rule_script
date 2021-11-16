@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-16 02:08:01
-# DOMAIN: 14047
+# UPDATED: 2021-11-17 02:08:39
+# DOMAIN: 14050
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27451
+# TOTAL: 27454
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -579,6 +579,7 @@ payload:
   - DOMAIN,a.slsbc.cn
   - DOMAIN,a.umilu.com
   - DOMAIN,a.update.51edm.net
+  - DOMAIN,a.ut8d8.com
   - DOMAIN,a.vserv.mobi
   - DOMAIN,a.xmdly.com
   - DOMAIN,a.yiyuancq.com
@@ -1303,6 +1304,7 @@ payload:
   - DOMAIN,adsonar.com
   - DOMAIN,adsoptimal.com
   - DOMAIN,adsovo.com
+  - DOMAIN,adsp.com
   - DOMAIN,adspaces.ero-advertising.com
   - DOMAIN,adsparc.net
   - DOMAIN,adspdbl.com
@@ -1549,7 +1551,6 @@ payload:
   - DOMAIN,adzonk.com
   - DOMAIN,adzouk.com
   - DOMAIN,adzouk1tag.com
-  - DOMAIN,adzpower.com
   - DOMAIN,adzs.com
   - DOMAIN,adzs.nl
   - DOMAIN,adzyou.com
@@ -4955,7 +4956,6 @@ payload:
   - DOMAIN,essayads.com
   - DOMAIN,essaycoupons.com
   - DOMAIN,estadisticasgratis.com
-  - DOMAIN,estadisticasgratis.es
   - DOMAIN,estafair.com
   - DOMAIN,estara.com
   - DOMAIN,estat.com
@@ -7468,6 +7468,7 @@ payload:
   - DOMAIN,looyu.com
   - DOMAIN,lopley.com
   - DOMAIN,losecounter.de
+  - DOMAIN,losital.ru
   - DOMAIN,losstrack.com
   - DOMAIN,lostun.com
   - DOMAIN,lotteryaffiliates.com
@@ -7535,6 +7536,7 @@ payload:
   - DOMAIN,luxupcdna.com
   - DOMAIN,luxupcdnb.com
   - DOMAIN,luxupcdnc.com
+  - DOMAIN,lv711.net
   - DOMAIN,lvecygampj.com
   - DOMAIN,lvntekpejrmtb.com
   - DOMAIN,lvodomo.info
@@ -8107,6 +8109,7 @@ payload:
   - DOMAIN,mon-gbr-1.inf.nimiq.network
   - DOMAIN,mon.snssdk.com
   - DOMAIN,monad-rtb.com
+  - DOMAIN,monditomasks.co
   - DOMAIN,monerise.com
   - DOMAIN,monerominer.rocks
   - DOMAIN,moneroocean.stream
@@ -8888,6 +8891,7 @@ payload:
   - DOMAIN,optimizesrv.com
   - DOMAIN,optimonk.com
   - DOMAIN,optimost.com
+  - DOMAIN,optin-machine.com
   - DOMAIN,optinemailpro.com
   - DOMAIN,optinmonster.com
   - DOMAIN,optkit.com
@@ -9211,7 +9215,6 @@ payload:
   - DOMAIN,phoodsom.net
   - DOMAIN,photo.941ziyuan.cn
   - DOMAIN,photo.backerbiotech.cn
-  - DOMAIN,photo.domainrank.cn
   - DOMAIN,photo.epowuxiao.cn
   - DOMAIN,photo.hhmyi.cn
   - DOMAIN,photo.jiaxiyuan.cn
@@ -10534,6 +10537,7 @@ payload:
   - DOMAIN,sba.about.co.kr
   - DOMAIN,sbaffiliates.com
   - DOMAIN,sbcpower.com
+  - DOMAIN,sbdtds.com
   - DOMAIN,sbfsdvc.com
   - DOMAIN,sbhc.portalhc.com
   - DOMAIN,sblcjzjp.com
@@ -12702,7 +12706,6 @@ payload:
   - DOMAIN,uujdthyg.com
   - DOMAIN,uulvtpbx.com
   - DOMAIN,uunak.cn
-  - DOMAIN,uux79.com
   - DOMAIN,uuxnwoevyb.com
   - DOMAIN,uvertauh.com
   - DOMAIN,uvimage.56.com
@@ -12947,6 +12950,7 @@ payload:
   - DOMAIN,vogo-vogo.ru
   - DOMAIN,vogopita.com
   - DOMAIN,vogorana.ru
+  - DOMAIN,vogosita.com
   - DOMAIN,vogotita.com
   - DOMAIN,vogozae.ru
   - DOMAIN,voipnewswire.net
@@ -13640,7 +13644,6 @@ payload:
   - DOMAIN,xindalawyer.com
   - DOMAIN,xineday.com
   - DOMAIN,xing-share.com
-  - DOMAIN,xingmengxia.cn
   - DOMAIN,xinkuaiyu.com
   - DOMAIN,xinshengchuanmei.cn
   - DOMAIN,xiongyin.com
@@ -13743,6 +13746,7 @@ payload:
   - DOMAIN,y.cgtte.com
   - DOMAIN,y.one.impact-ad.jp
   - DOMAIN,y.pzclw.cn
+  - DOMAIN,y.zp22.cn
   - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
   - DOMAIN,y76.ylems.club
@@ -13910,7 +13914,6 @@ payload:
   - DOMAIN,z2blog.com
   - DOMAIN,z444o.com
   - DOMAIN,z888.izhufu.net
-  - DOMAIN,zafrc.5780.site
   - DOMAIN,zaloapp.com
   - DOMAIN,zampda.net
   - DOMAIN,zangocash.com

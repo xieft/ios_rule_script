@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-16 02:08:01
+# UPDATED: 2021-11-17 02:08:38
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14047
+# DOMAIN: 14050
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27746
+# TOTAL: 27749
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -580,6 +580,7 @@ a.raasnet.com
 a.slsbc.cn
 a.umilu.com
 a.update.51edm.net
+a.ut8d8.com
 a.vserv.mobi
 a.xmdly.com
 a.yiyuancq.com
@@ -1304,6 +1305,7 @@ adsniper.ru
 adsonar.com
 adsoptimal.com
 adsovo.com
+adsp.com
 adspaces.ero-advertising.com
 adsparc.net
 adspdbl.com
@@ -1550,7 +1552,6 @@ adzmob.com
 adzonk.com
 adzouk.com
 adzouk1tag.com
-adzpower.com
 adzs.com
 adzs.nl
 adzyou.com
@@ -4956,7 +4957,6 @@ esoad.frost-electric-supply.com
 essayads.com
 essaycoupons.com
 estadisticasgratis.com
-estadisticasgratis.es
 estafair.com
 estara.com
 estat.com
@@ -7469,6 +7469,7 @@ loopr.co
 looyu.com
 lopley.com
 losecounter.de
+losital.ru
 losstrack.com
 lostun.com
 lotteryaffiliates.com
@@ -7536,6 +7537,7 @@ luxupadva.com
 luxupcdna.com
 luxupcdnb.com
 luxupcdnc.com
+lv711.net
 lvecygampj.com
 lvntekpejrmtb.com
 lvodomo.info
@@ -8108,6 +8110,7 @@ mon-fra-2.inf.nimiq.network
 mon-gbr-1.inf.nimiq.network
 mon.snssdk.com
 monad-rtb.com
+monditomasks.co
 monerise.com
 monerominer.rocks
 moneroocean.stream
@@ -8889,6 +8892,7 @@ optimizesocial.com
 optimizesrv.com
 optimonk.com
 optimost.com
+optin-machine.com
 optinemailpro.com
 optinmonster.com
 optkit.com
@@ -9212,7 +9216,6 @@ phonograph2.voxmedia.com
 phoodsom.net
 photo.941ziyuan.cn
 photo.backerbiotech.cn
-photo.domainrank.cn
 photo.epowuxiao.cn
 photo.hhmyi.cn
 photo.jiaxiyuan.cn
@@ -10535,6 +10538,7 @@ sayyac.net
 sba.about.co.kr
 sbaffiliates.com
 sbcpower.com
+sbdtds.com
 sbfsdvc.com
 sbhc.portalhc.com
 sblcjzjp.com
@@ -12703,7 +12707,6 @@ uufbvpidyn.com
 uujdthyg.com
 uulvtpbx.com
 uunak.cn
-uux79.com
 uuxnwoevyb.com
 uvertauh.com
 uvimage.56.com
@@ -12948,6 +12951,7 @@ vodp-e-streamingmagentamusic360.tls1.yospace.com
 vogo-vogo.ru
 vogopita.com
 vogorana.ru
+vogosita.com
 vogotita.com
 vogozae.ru
 voipnewswire.net
@@ -13641,7 +13645,6 @@ xilbalar.com
 xindalawyer.com
 xineday.com
 xing-share.com
-xingmengxia.cn
 xinkuaiyu.com
 xinshengchuanmei.cn
 xiongyin.com
@@ -13744,6 +13747,7 @@ y-track.com
 y.cgtte.com
 y.one.impact-ad.jp
 y.pzclw.cn
+y.zp22.cn
 y71.ylems.club
 y72yuyr9.com
 y76.ylems.club
@@ -13911,7 +13915,6 @@ z2.zhishidu.com
 z2blog.com
 z444o.com
 z888.izhufu.net
-zafrc.5780.site
 zaloapp.com
 zampda.net
 zangocash.com
