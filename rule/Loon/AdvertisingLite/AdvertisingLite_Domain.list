@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-17 02:08:38
+# UPDATED: 2021-11-18 02:09:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14050
+# DOMAIN: 14048
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27749
+# TOTAL: 27747
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -348,7 +348,6 @@
 59hi.com
 5advertise.com
 5b5a93686577c13.com
-5d02977f6511aa.com
 5dabf928ad9ad4.com
 5dimes.com
 5e1fcb75b6d662d.com
@@ -398,7 +397,6 @@
 6a9102689db8e.com
 6af461b907c5b.com
 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
-6e2f1d2ae033.com
 6ea56485aed0c.com
 6f2tjr26.top
 6kup12tgxx.com
@@ -421,7 +419,6 @@
 72b8869dfc34690.com
 736f35dde67b7da2976.com
 739c49a8c68917.com
-73c6c063b238097.com
 743e6b34be13fb105e0.com
 746fyw2v.com
 7676.com
@@ -541,7 +538,6 @@
 999fitness.com
 99counters.com
 99stats.com
-9a24a1b3dcd5f4.com
 9ads.mobi
 9c40a04e9732e6a6.com
 9cd76b4462bb.com
@@ -592,7 +588,6 @@ a0food.top
 a1.aluntan.com
 a1.firstgw.com
 a1.mingyihui.net
-a157ad075fcb34c.com
 a15c5009bcbe272.com
 a22f0d8201ade09fa3.com
 a26d31d5d6986cbe.com
@@ -2701,6 +2696,7 @@ bonuscounter.de
 bonzai.ad
 bonzuna.com
 boo-box.com
+boodlewrite.com
 book9.net
 bookbudd.com
 bookingdragon.com
@@ -4688,7 +4684,6 @@ e13085e58935e6.com
 e18a97eee94d0f2519.com
 e331ff4e674c083.com
 e347bb14dc71778.com
-e350570881272e.com
 e376ef28103177cc.com
 e77lmzbqou0n-a.akamaihd.net
 e7e776c1a8bf677.com
@@ -5202,7 +5197,6 @@ feefo.com
 feegozoa.com
 feelophe.net
 feewoajy.net
-fehsnwiem.com
 feidhartaime.pro
 felixflow.com
 feljack.com
@@ -5839,6 +5833,7 @@ grand-ads.com
 granify.com
 grapeshot.co.uk
 grapheffect.com
+graphinsider.com
 gratis-besucherzaehler.de
 gratis-counter-gratis.de
 gratisnetwork.com
@@ -6811,6 +6806,7 @@ jeisl.com
 jeksffryglas.com
 jemmgroup.com
 jeqixokniyny.com
+jerrcotch.com
 jerredsite.pro
 jewishcontentnetwork.com
 jf71qh5v14.com
@@ -7694,7 +7690,6 @@ mainroll.com
 mairdumont.com
 maka.im
 makecashtakingsurveys.biz
-makemyvids.com
 malest.com
 mall0.qiyipic.com
 mallcom.com
@@ -8056,6 +8051,7 @@ mo.bsxr.com.cn
 mo.grqf.com.cn
 mo.oneshouyou.cn
 mo.qitouch.cn
+mo.rltk.com.cn
 mo.zdceaa.cn
 mo8mwxi1.com
 moafoche.com
@@ -8146,6 +8142,7 @@ moreshare.com
 morgdm.ru
 mosaiq.io
 moshouba.top
+mostviewed.xyz
 motominer.com
 motorpresse-statistik.de
 motosal.net
@@ -9552,7 +9549,6 @@ prmobiles.com
 prnetwork.de
 prnx.net
 pro-advert.de
-pro-advertising.com
 pro-market.net
 pro-pro-go.com
 pro.baidu.com
@@ -10740,6 +10736,7 @@ sellpoints.com
 selsin.net
 selwrite.com
 semantic-finder.com
+semanticrep.com
 semanticverses.com
 semantiqo.com
 semasio.net
@@ -11161,6 +11158,7 @@ smi.today
 smi2.ru
 smigro.info
 smiinformeri.online
+smilered.com
 smilewanted.com
 smileycentral.com
 smileyhost.net
@@ -12487,7 +12485,6 @@ tweetmeme.com
 tweetriver.com
 tweetup.com
 tweowhvrim.review
-twfilnym.com
 twinpinenetwork.com
 twistads.com
 twistyscash.com
@@ -12564,7 +12561,6 @@ uigruwtql.com
 uim.tifbs.net
 ujccccb.com
 uk8866.cn
-ukbanners.com
 ukw.jp
 ularunicalrep.info
 ulmdb.cn
@@ -12656,6 +12652,7 @@ urlcash.net
 urldelivery.com
 urlself.com
 urmilan.info
+urnuvssumlrb.com
 urstats.de
 usa.cc
 usabilitytools.com
@@ -12707,6 +12704,7 @@ uufbvpidyn.com
 uujdthyg.com
 uulvtpbx.com
 uunak.cn
+uux79.com
 uuxnwoevyb.com
 uvertauh.com
 uvimage.56.com

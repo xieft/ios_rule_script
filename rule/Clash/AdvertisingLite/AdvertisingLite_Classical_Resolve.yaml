@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-17 02:08:39
-# DOMAIN: 14050
+# UPDATED: 2021-11-18 02:09:17
+# DOMAIN: 14048
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27454
+# TOTAL: 27452
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -347,7 +347,6 @@ payload:
   - DOMAIN,59hi.com
   - DOMAIN,5advertise.com
   - DOMAIN,5b5a93686577c13.com
-  - DOMAIN,5d02977f6511aa.com
   - DOMAIN,5dabf928ad9ad4.com
   - DOMAIN,5dimes.com
   - DOMAIN,5e1fcb75b6d662d.com
@@ -397,7 +396,6 @@ payload:
   - DOMAIN,6a9102689db8e.com
   - DOMAIN,6af461b907c5b.com
   - DOMAIN,6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
-  - DOMAIN,6e2f1d2ae033.com
   - DOMAIN,6ea56485aed0c.com
   - DOMAIN,6f2tjr26.top
   - DOMAIN,6kup12tgxx.com
@@ -420,7 +418,6 @@ payload:
   - DOMAIN,72b8869dfc34690.com
   - DOMAIN,736f35dde67b7da2976.com
   - DOMAIN,739c49a8c68917.com
-  - DOMAIN,73c6c063b238097.com
   - DOMAIN,743e6b34be13fb105e0.com
   - DOMAIN,746fyw2v.com
   - DOMAIN,7676.com
@@ -540,7 +537,6 @@ payload:
   - DOMAIN,999fitness.com
   - DOMAIN,99counters.com
   - DOMAIN,99stats.com
-  - DOMAIN,9a24a1b3dcd5f4.com
   - DOMAIN,9ads.mobi
   - DOMAIN,9c40a04e9732e6a6.com
   - DOMAIN,9cd76b4462bb.com
@@ -591,7 +587,6 @@ payload:
   - DOMAIN,a1.aluntan.com
   - DOMAIN,a1.firstgw.com
   - DOMAIN,a1.mingyihui.net
-  - DOMAIN,a157ad075fcb34c.com
   - DOMAIN,a15c5009bcbe272.com
   - DOMAIN,a22f0d8201ade09fa3.com
   - DOMAIN,a26d31d5d6986cbe.com
@@ -2700,6 +2695,7 @@ payload:
   - DOMAIN,bonzai.ad
   - DOMAIN,bonzuna.com
   - DOMAIN,boo-box.com
+  - DOMAIN,boodlewrite.com
   - DOMAIN,book9.net
   - DOMAIN,bookbudd.com
   - DOMAIN,bookingdragon.com
@@ -4687,7 +4683,6 @@ payload:
   - DOMAIN,e18a97eee94d0f2519.com
   - DOMAIN,e331ff4e674c083.com
   - DOMAIN,e347bb14dc71778.com
-  - DOMAIN,e350570881272e.com
   - DOMAIN,e376ef28103177cc.com
   - DOMAIN,e77lmzbqou0n-a.akamaihd.net
   - DOMAIN,e7e776c1a8bf677.com
@@ -5201,7 +5196,6 @@ payload:
   - DOMAIN,feegozoa.com
   - DOMAIN,feelophe.net
   - DOMAIN,feewoajy.net
-  - DOMAIN,fehsnwiem.com
   - DOMAIN,feidhartaime.pro
   - DOMAIN,felixflow.com
   - DOMAIN,feljack.com
@@ -5838,6 +5832,7 @@ payload:
   - DOMAIN,granify.com
   - DOMAIN,grapeshot.co.uk
   - DOMAIN,grapheffect.com
+  - DOMAIN,graphinsider.com
   - DOMAIN,gratis-besucherzaehler.de
   - DOMAIN,gratis-counter-gratis.de
   - DOMAIN,gratisnetwork.com
@@ -6810,6 +6805,7 @@ payload:
   - DOMAIN,jeksffryglas.com
   - DOMAIN,jemmgroup.com
   - DOMAIN,jeqixokniyny.com
+  - DOMAIN,jerrcotch.com
   - DOMAIN,jerredsite.pro
   - DOMAIN,jewishcontentnetwork.com
   - DOMAIN,jf71qh5v14.com
@@ -7693,7 +7689,6 @@ payload:
   - DOMAIN,mairdumont.com
   - DOMAIN,maka.im
   - DOMAIN,makecashtakingsurveys.biz
-  - DOMAIN,makemyvids.com
   - DOMAIN,malest.com
   - DOMAIN,mall0.qiyipic.com
   - DOMAIN,mallcom.com
@@ -8055,6 +8050,7 @@ payload:
   - DOMAIN,mo.grqf.com.cn
   - DOMAIN,mo.oneshouyou.cn
   - DOMAIN,mo.qitouch.cn
+  - DOMAIN,mo.rltk.com.cn
   - DOMAIN,mo.zdceaa.cn
   - DOMAIN,mo8mwxi1.com
   - DOMAIN,moafoche.com
@@ -8145,6 +8141,7 @@ payload:
   - DOMAIN,morgdm.ru
   - DOMAIN,mosaiq.io
   - DOMAIN,moshouba.top
+  - DOMAIN,mostviewed.xyz
   - DOMAIN,motominer.com
   - DOMAIN,motorpresse-statistik.de
   - DOMAIN,motosal.net
@@ -9551,7 +9548,6 @@ payload:
   - DOMAIN,prnetwork.de
   - DOMAIN,prnx.net
   - DOMAIN,pro-advert.de
-  - DOMAIN,pro-advertising.com
   - DOMAIN,pro-market.net
   - DOMAIN,pro-pro-go.com
   - DOMAIN,pro.baidu.com
@@ -10739,6 +10735,7 @@ payload:
   - DOMAIN,selsin.net
   - DOMAIN,selwrite.com
   - DOMAIN,semantic-finder.com
+  - DOMAIN,semanticrep.com
   - DOMAIN,semanticverses.com
   - DOMAIN,semantiqo.com
   - DOMAIN,semasio.net
@@ -11160,6 +11157,7 @@ payload:
   - DOMAIN,smi2.ru
   - DOMAIN,smigro.info
   - DOMAIN,smiinformeri.online
+  - DOMAIN,smilered.com
   - DOMAIN,smilewanted.com
   - DOMAIN,smileycentral.com
   - DOMAIN,smileyhost.net
@@ -12486,7 +12484,6 @@ payload:
   - DOMAIN,tweetriver.com
   - DOMAIN,tweetup.com
   - DOMAIN,tweowhvrim.review
-  - DOMAIN,twfilnym.com
   - DOMAIN,twinpinenetwork.com
   - DOMAIN,twistads.com
   - DOMAIN,twistyscash.com
@@ -12563,7 +12560,6 @@ payload:
   - DOMAIN,uim.tifbs.net
   - DOMAIN,ujccccb.com
   - DOMAIN,uk8866.cn
-  - DOMAIN,ukbanners.com
   - DOMAIN,ukw.jp
   - DOMAIN,ularunicalrep.info
   - DOMAIN,ulmdb.cn
@@ -12655,6 +12651,7 @@ payload:
   - DOMAIN,urldelivery.com
   - DOMAIN,urlself.com
   - DOMAIN,urmilan.info
+  - DOMAIN,urnuvssumlrb.com
   - DOMAIN,urstats.de
   - DOMAIN,usa.cc
   - DOMAIN,usabilitytools.com
@@ -12706,6 +12703,7 @@ payload:
   - DOMAIN,uujdthyg.com
   - DOMAIN,uulvtpbx.com
   - DOMAIN,uunak.cn
+  - DOMAIN,uux79.com
   - DOMAIN,uuxnwoevyb.com
   - DOMAIN,uvertauh.com
   - DOMAIN,uvimage.56.com
