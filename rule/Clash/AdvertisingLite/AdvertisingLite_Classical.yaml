@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-18 02:09:17
-# DOMAIN: 14048
+# UPDATED: 2021-11-19 02:09:56
+# DOMAIN: 14042
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13218
+# DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27452
+# TOTAL: 27444
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -503,7 +503,6 @@ payload:
   - DOMAIN,8cnd.com
   - DOMAIN,8dfaa2dc76855.com
   - DOMAIN,8ff01bde37db289d5.com
-  - DOMAIN,8ixrxa2tnr.com
   - DOMAIN,8s32e590un.com
   - DOMAIN,8s8.eu
   - DOMAIN,8ue9q7i.com
@@ -544,7 +543,6 @@ payload:
   - DOMAIN,9e5420f6be48ccc.com
   - DOMAIN,9ead.com
   - DOMAIN,9eb10b7a3d04a.com
-  - DOMAIN,9ehy8a8u6b.com
   - DOMAIN,9nl.eu
   - DOMAIN,9ts3tpia.com
   - DOMAIN,9utwbj08.top
@@ -716,7 +714,6 @@ payload:
   - DOMAIN,activetracker.activehotels.com
   - DOMAIN,activity.browser.intl.miui.com
   - DOMAIN,activity.clotfun.xyz
-  - DOMAIN,activity.tuiapple.com
   - DOMAIN,actnx.com
   - DOMAIN,actpx.com
   - DOMAIN,actuallysheep.com
@@ -746,6 +743,7 @@ payload:
   - DOMAIN,ad-srv.net
   - DOMAIN,ad-u.com
   - DOMAIN,ad-vice.biz
+  - DOMAIN,ad.10010.com
   - DOMAIN,ad.1ting.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
@@ -2245,7 +2243,6 @@ payload:
   - DOMAIN,b18a21ab3c9cb53.com
   - DOMAIN,b1f6fe5e3f0c3c8ba6.com
   - DOMAIN,b1fb813dc806b7d.com
-  - DOMAIN,b1g1w7wic0.com
   - DOMAIN,b1img.com
   - DOMAIN,b1js.com
   - DOMAIN,b2.0430.com
@@ -4485,6 +4482,7 @@ payload:
   - DOMAIN,domainbuyingservices.com
   - DOMAIN,domainsponsor.com
   - DOMAIN,domdex.com
+  - DOMAIN,dominoad.com
   - DOMAIN,dominocounter.net
   - DOMAIN,domodomain.com
   - DOMAIN,domslc.com
@@ -4637,7 +4635,6 @@ payload:
   - DOMAIN,dxwgpw0lkcum5.cloudfront.net
   - DOMAIN,dy2xcjk8s1dbz.cloudfront.net
   - DOMAIN,dybxezbel1g44.cloudfront.net
-  - DOMAIN,dyhs52.com
   - DOMAIN,dyino.com
   - DOMAIN,dymlo6ffhj97l.cloudfront.net
   - DOMAIN,dyn.primecdn.net
@@ -5162,7 +5159,6 @@ payload:
   - DOMAIN,fbmjc.39yst.com
   - DOMAIN,fbooksluts.com
   - DOMAIN,fbsvu.com
-  - DOMAIN,fbufrl15br.com
   - DOMAIN,fc.webmasterpro.de
   - DOMAIN,fc2b9b7ce3165.com
   - DOMAIN,fc3tn.baidu.com
@@ -5465,6 +5461,7 @@ payload:
   - DOMAIN,fuelx.com
   - DOMAIN,fugetech.com
   - DOMAIN,fugger.ipage.com
+  - DOMAIN,fuk.xckxjtbg.com
   - DOMAIN,fun-hits.com
   - DOMAIN,funchill.com
   - DOMAIN,fungus.online
@@ -6263,7 +6260,6 @@ payload:
   - DOMAIN,husky.sogou.com
   - DOMAIN,hvato.info
   - DOMAIN,hwad.zuimeitianqi.com
-  - DOMAIN,hwekl8dz1d.com
   - DOMAIN,hwmwin.com
   - DOMAIN,hwpub.com
   - DOMAIN,hxqu.com
@@ -7659,7 +7655,6 @@ payload:
   - DOMAIN,madnet.ru
   - DOMAIN,madsabs.com
   - DOMAIN,madsabz.com
-  - DOMAIN,madsats.com
   - DOMAIN,madsimz.com
   - DOMAIN,madskis.com
   - DOMAIN,madskiz.com
@@ -9215,7 +9210,6 @@ payload:
   - DOMAIN,photo.epowuxiao.cn
   - DOMAIN,photo.hhmyi.cn
   - DOMAIN,photo.jiaxiyuan.cn
-  - DOMAIN,photo.njlymyd.cn
   - DOMAIN,photographpan.com
   - DOMAIN,photorank.me
   - DOMAIN,photoscape.ch
@@ -12519,7 +12513,6 @@ payload:
   - DOMAIN,u.oppomobile.com
   - DOMAIN,u1trkqf.com
   - DOMAIN,u26u.com
-  - DOMAIN,u4ghzfb.com
   - DOMAIN,u51.me
   - DOMAIN,u595sebqih.com
   - DOMAIN,u5e.com
@@ -13593,6 +13586,7 @@ payload:
   - DOMAIN,x-stat.de
   - DOMAIN,x-traceur.com
   - DOMAIN,x.allabout.co.jp
+  - DOMAIN,x.fidelity-media.com
   - DOMAIN,x.mochiads.com
   - DOMAIN,x.mtrend.cn
   - DOMAIN,x.niuliyan.cn
@@ -13746,7 +13740,6 @@ payload:
   - DOMAIN,y.pzclw.cn
   - DOMAIN,y.zp22.cn
   - DOMAIN,y71.ylems.club
-  - DOMAIN,y72yuyr9.com
   - DOMAIN,y76.ylems.club
   - DOMAIN,ya-counter.ru
   - DOMAIN,yallarec.com
@@ -13898,6 +13891,7 @@ payload:
   - DOMAIN,yvzgazds6d.com
   - DOMAIN,yw78.cn
   - DOMAIN,ywywjrlbsuv.com
+  - DOMAIN,yxdyk.com
   - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yxyhtea.com
   - DOMAIN,yy32.com
@@ -19134,7 +19128,6 @@ payload:
   - DOMAIN-SUFFIX,fpb.51edu.com
   - DOMAIN-SUFFIX,fpb.kuhou.com
   - DOMAIN-SUFFIX,fpb.mn586.com
-  - DOMAIN-SUFFIX,fpb1.apple886.com
   - DOMAIN-SUFFIX,fpbb.aizhan.com
   - DOMAIN-SUFFIX,fpbbdx1.51240.com
   - DOMAIN-SUFFIX,fpbjiansuo.mn586.com
@@ -22409,7 +22402,6 @@ payload:
   - DOMAIN-SUFFIX,ne.1rtb.com
   - DOMAIN-SUFFIX,ne9377.com
   - DOMAIN-SUFFIX,nebadu.com
-  - DOMAIN-SUFFIX,ned.itv.com
   - DOMAIN-SUFFIX,nedinchestw.site
   - DOMAIN-SUFFIX,nedo96.cn
   - DOMAIN-SUFFIX,neijh.com

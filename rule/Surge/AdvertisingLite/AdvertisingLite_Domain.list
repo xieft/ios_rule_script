@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-18 02:09:15
+# UPDATED: 2021-11-19 02:09:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14048
+# DOMAIN: 14042
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13218
+# DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27747
+# TOTAL: 27739
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -504,7 +504,6 @@
 8cnd.com
 8dfaa2dc76855.com
 8ff01bde37db289d5.com
-8ixrxa2tnr.com
 8s32e590un.com
 8s8.eu
 8ue9q7i.com
@@ -545,7 +544,6 @@
 9e5420f6be48ccc.com
 9ead.com
 9eb10b7a3d04a.com
-9ehy8a8u6b.com
 9nl.eu
 9ts3tpia.com
 9utwbj08.top
@@ -717,7 +715,6 @@ activeprospects.com
 activetracker.activehotels.com
 activity.browser.intl.miui.com
 activity.clotfun.xyz
-activity.tuiapple.com
 actnx.com
 actpx.com
 actuallysheep.com
@@ -747,6 +744,7 @@ ad-srv-track.com
 ad-srv.net
 ad-u.com
 ad-vice.biz
+ad.10010.com
 ad.1ting.com
 ad.21cn.com
 ad.9tv.co.il
@@ -2246,7 +2244,6 @@ b17.wenjutv.com
 b18a21ab3c9cb53.com
 b1f6fe5e3f0c3c8ba6.com
 b1fb813dc806b7d.com
-b1g1w7wic0.com
 b1img.com
 b1js.com
 b2.0430.com
@@ -4486,6 +4483,7 @@ domainadvertising.com
 domainbuyingservices.com
 domainsponsor.com
 domdex.com
+dominoad.com
 dominocounter.net
 domodomain.com
 domslc.com
@@ -4638,7 +4636,6 @@ dxprljqoay4rt.cloudfront.net
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dybxezbel1g44.cloudfront.net
-dyhs52.com
 dyino.com
 dymlo6ffhj97l.cloudfront.net
 dyn.primecdn.net
@@ -5163,7 +5160,6 @@ fbku.com
 fbmjc.39yst.com
 fbooksluts.com
 fbsvu.com
-fbufrl15br.com
 fc.webmasterpro.de
 fc2b9b7ce3165.com
 fc3tn.baidu.com
@@ -5466,6 +5462,7 @@ fueldeck.com
 fuelx.com
 fugetech.com
 fugger.ipage.com
+fuk.xckxjtbg.com
 fun-hits.com
 funchill.com
 fungus.online
@@ -6264,7 +6261,6 @@ hurra.com
 husky.sogou.com
 hvato.info
 hwad.zuimeitianqi.com
-hwekl8dz1d.com
 hwmwin.com
 hwpub.com
 hxqu.com
@@ -7660,7 +7656,6 @@ madisonlogic.com
 madnet.ru
 madsabs.com
 madsabz.com
-madsats.com
 madsimz.com
 madskis.com
 madskiz.com
@@ -9216,7 +9211,6 @@ photo.backerbiotech.cn
 photo.epowuxiao.cn
 photo.hhmyi.cn
 photo.jiaxiyuan.cn
-photo.njlymyd.cn
 photographpan.com
 photorank.me
 photoscape.ch
@@ -12520,7 +12514,6 @@ u.ctrip.com
 u.oppomobile.com
 u1trkqf.com
 u26u.com
-u4ghzfb.com
 u51.me
 u595sebqih.com
 u5e.com
@@ -13594,6 +13587,7 @@ x-ssp.com
 x-stat.de
 x-traceur.com
 x.allabout.co.jp
+x.fidelity-media.com
 x.mochiads.com
 x.mtrend.cn
 x.niuliyan.cn
@@ -13747,7 +13741,6 @@ y.one.impact-ad.jp
 y.pzclw.cn
 y.zp22.cn
 y71.ylems.club
-y72yuyr9.com
 y76.ylems.club
 ya-counter.ru
 yallarec.com
@@ -13899,6 +13892,7 @@ yvsystem.com
 yvzgazds6d.com
 yw78.cn
 ywywjrlbsuv.com
+yxdyk.com
 yxhd.hori-gz.com
 yxyhtea.com
 yy32.com
@@ -19135,7 +19129,6 @@ zzsdtzb.com
 .fpb.51edu.com
 .fpb.kuhou.com
 .fpb.mn586.com
-.fpb1.apple886.com
 .fpbb.aizhan.com
 .fpbbdx1.51240.com
 .fpbjiansuo.mn586.com
@@ -22410,7 +22403,6 @@ zzsdtzb.com
 .ne.1rtb.com
 .ne9377.com
 .nebadu.com
-.ned.itv.com
 .nedinchestw.site
 .nedo96.cn
 .neijh.com

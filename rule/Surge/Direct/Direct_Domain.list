@@ -1,14 +1,14 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:08:58
+# UPDATED: 2021-11-19 02:09:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 2664
+# DOMAIN-SUFFIX: 2656
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
 # URL-REGEX: 2
 # USER-AGENT: 4
-# TOTAL: 2675
+# TOTAL: 2667
 app.adjust.com
 bdtj.tagtic.cn
 picanalysis.vivo.com.cn
@@ -85,6 +85,7 @@ xivanalysis.com
 .8btcops.com
 .8host.com
 .955118.com
+.977.com
 .99ss.com
 .9daygame.com
 .9zhuce.com
@@ -93,7 +94,6 @@ xivanalysis.com
 .abcca.com
 .abetech.com
 .ableelec.com
-.absworld.net
 .accuratechina.com
 .acepow.com
 .acgmoe.com
@@ -115,7 +115,6 @@ xivanalysis.com
 .adyoung.com
 .aeocctv.com
 .aepeople.com
-.aera51.com
 .agespa.com
 .agilechina.com
 .ahinter.com
@@ -197,7 +196,6 @@ xivanalysis.com
 .appstore.name
 .appwebseoaso.com
 .appzh.com
-.aptblog.net
 .aquacitytj.com
 .arcasda.com
 .archimotive.com
@@ -781,7 +779,6 @@ xivanalysis.com
 .dingxianginc.com
 .discoursestudies.com
 .ditiantech.com
-.dlmec.com
 .dlrc.com
 .dmeng.com
 .dnsabca.com
@@ -808,7 +805,6 @@ xivanalysis.com
 .dongfenghondaurv.com
 .dongfenghondaxrv.com
 .dongfengnissan.com
-.dongfengrenault.net
 .dongxu.com
 .doorexpo.com
 .doracontrol.cdnetworks.com
@@ -965,7 +961,6 @@ xivanalysis.com
 .fitstart.co
 .fittime.com
 .fjatfz.com
-.fjci.com
 .fjjm.com
 .flgame.net
 .flowermed.com
@@ -1080,6 +1075,7 @@ xivanalysis.com
 .gstchina.net
 .gtjaallianz.com
 .gtma1b2.com
+.gtma1b3.com
 .gtma1b4.com
 .gtma1b6.com
 .gtma1b7.com
@@ -1476,6 +1472,7 @@ xivanalysis.com
 .kjpcb.com
 .kkhglobal.com
 .kmgjd.com
+.knowhowchina.com
 .kongminginc.com
 .kongsunhldgs.com
 .koteiinfo.com
@@ -1797,11 +1794,11 @@ xivanalysis.com
 .phpnote.com
 .phpoa.com
 .phpz.com
-.picrere.com
 .pilizz.net
 .pinad.com
 .pincolor.net
 .pingapple.com
+.pinghuicn.com
 .pingjia.net
 .pingqu.com
 .pinqu.com
@@ -1881,7 +1878,6 @@ xivanalysis.com
 .rakindaxm.com
 .ramadaplazaovwh.com
 .ranwen.com
-.ranzyleak.hk
 .ratacatering.com
 .raycominv.com
 .raymxmicro.com
@@ -1896,7 +1892,6 @@ xivanalysis.com
 .refinedx.com
 .remaxbj.com
 .renreninc.com
-.rerecdn.com
 .respectlab.com
 .rfgsm.com
 .richchang.com
@@ -2036,9 +2031,7 @@ xivanalysis.com
 .shryjx.com
 .shservice.com
 .shsurface.com
-.shsyh.org
 .shtangfeng.com
-.shuanghaocn.com
 .shuimai.com
 .shwarwick.com
 .shxinao.com
@@ -2119,6 +2112,7 @@ xivanalysis.com
 .soldierstorytoys.com
 .sololauncher.com
 .solove.com
+.sonaver.com
 .sot.net
 .souchefin.com
 .soucheinc.com
@@ -2145,7 +2139,6 @@ xivanalysis.com
 .starvillageent.com
 .staticssl.imagegmkt.com
 .statnba.com
-.steelsaler.com
 .storage.com
 .strmo.com
 .strongstudy.com
@@ -2217,6 +2210,7 @@ xivanalysis.com
 .taojiujiu.com
 .taostar.com
 .taostudio.net
+.taowu.com
 .taoyisupport.com
 .taptapapi.com
 .taxedu.net
@@ -2308,7 +2302,6 @@ xivanalysis.com
 .tsgonline.net
 .tsinghuagetinfo.com
 .tsjuheng.com
-.ttbeian.com
 .ttbike.com
 .ttly.com
 .tui8.com
@@ -2439,7 +2432,6 @@ xivanalysis.com
 .wonderfulpr.com
 .worldpass.net
 .worldtrade.org
-.worldtrader.com
 .wosaiinc.com
 .wowclassic.com
 .woxa.com

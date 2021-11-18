@@ -1,11 +1,11 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:09:00
-# DOMAIN-SUFFIX: 2664
+# UPDATED: 2021-11-19 02:09:56
+# DOMAIN-SUFFIX: 2656
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
-# TOTAL: 2669
+# TOTAL: 2661
 payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,8btcops.com
   - DOMAIN-SUFFIX,8host.com
   - DOMAIN-SUFFIX,955118.com
+  - DOMAIN-SUFFIX,977.com
   - DOMAIN-SUFFIX,99ss.com
   - DOMAIN-SUFFIX,9daygame.com
   - DOMAIN-SUFFIX,9zhuce.com
@@ -91,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,abcca.com
   - DOMAIN-SUFFIX,abetech.com
   - DOMAIN-SUFFIX,ableelec.com
-  - DOMAIN-SUFFIX,absworld.net
   - DOMAIN-SUFFIX,accuratechina.com
   - DOMAIN-SUFFIX,acepow.com
   - DOMAIN-SUFFIX,acgmoe.com
@@ -113,7 +113,6 @@ payload:
   - DOMAIN-SUFFIX,adyoung.com
   - DOMAIN-SUFFIX,aeocctv.com
   - DOMAIN-SUFFIX,aepeople.com
-  - DOMAIN-SUFFIX,aera51.com
   - DOMAIN-SUFFIX,agespa.com
   - DOMAIN-SUFFIX,agilechina.com
   - DOMAIN-SUFFIX,ahinter.com
@@ -195,7 +194,6 @@ payload:
   - DOMAIN-SUFFIX,appstore.name
   - DOMAIN-SUFFIX,appwebseoaso.com
   - DOMAIN-SUFFIX,appzh.com
-  - DOMAIN-SUFFIX,aptblog.net
   - DOMAIN-SUFFIX,aquacitytj.com
   - DOMAIN-SUFFIX,arcasda.com
   - DOMAIN-SUFFIX,archimotive.com
@@ -779,7 +777,6 @@ payload:
   - DOMAIN-SUFFIX,dingxianginc.com
   - DOMAIN-SUFFIX,discoursestudies.com
   - DOMAIN-SUFFIX,ditiantech.com
-  - DOMAIN-SUFFIX,dlmec.com
   - DOMAIN-SUFFIX,dlrc.com
   - DOMAIN-SUFFIX,dmeng.com
   - DOMAIN-SUFFIX,dnsabca.com
@@ -806,7 +803,6 @@ payload:
   - DOMAIN-SUFFIX,dongfenghondaurv.com
   - DOMAIN-SUFFIX,dongfenghondaxrv.com
   - DOMAIN-SUFFIX,dongfengnissan.com
-  - DOMAIN-SUFFIX,dongfengrenault.net
   - DOMAIN-SUFFIX,dongxu.com
   - DOMAIN-SUFFIX,doorexpo.com
   - DOMAIN-SUFFIX,doracontrol.cdnetworks.com
@@ -963,7 +959,6 @@ payload:
   - DOMAIN-SUFFIX,fitstart.co
   - DOMAIN-SUFFIX,fittime.com
   - DOMAIN-SUFFIX,fjatfz.com
-  - DOMAIN-SUFFIX,fjci.com
   - DOMAIN-SUFFIX,fjjm.com
   - DOMAIN-SUFFIX,flgame.net
   - DOMAIN-SUFFIX,flowermed.com
@@ -1078,6 +1073,7 @@ payload:
   - DOMAIN-SUFFIX,gstchina.net
   - DOMAIN-SUFFIX,gtjaallianz.com
   - DOMAIN-SUFFIX,gtma1b2.com
+  - DOMAIN-SUFFIX,gtma1b3.com
   - DOMAIN-SUFFIX,gtma1b4.com
   - DOMAIN-SUFFIX,gtma1b6.com
   - DOMAIN-SUFFIX,gtma1b7.com
@@ -1474,6 +1470,7 @@ payload:
   - DOMAIN-SUFFIX,kjpcb.com
   - DOMAIN-SUFFIX,kkhglobal.com
   - DOMAIN-SUFFIX,kmgjd.com
+  - DOMAIN-SUFFIX,knowhowchina.com
   - DOMAIN-SUFFIX,kongminginc.com
   - DOMAIN-SUFFIX,kongsunhldgs.com
   - DOMAIN-SUFFIX,koteiinfo.com
@@ -1795,11 +1792,11 @@ payload:
   - DOMAIN-SUFFIX,phpnote.com
   - DOMAIN-SUFFIX,phpoa.com
   - DOMAIN-SUFFIX,phpz.com
-  - DOMAIN-SUFFIX,picrere.com
   - DOMAIN-SUFFIX,pilizz.net
   - DOMAIN-SUFFIX,pinad.com
   - DOMAIN-SUFFIX,pincolor.net
   - DOMAIN-SUFFIX,pingapple.com
+  - DOMAIN-SUFFIX,pinghuicn.com
   - DOMAIN-SUFFIX,pingjia.net
   - DOMAIN-SUFFIX,pingqu.com
   - DOMAIN-SUFFIX,pinqu.com
@@ -1879,7 +1876,6 @@ payload:
   - DOMAIN-SUFFIX,rakindaxm.com
   - DOMAIN-SUFFIX,ramadaplazaovwh.com
   - DOMAIN-SUFFIX,ranwen.com
-  - DOMAIN-SUFFIX,ranzyleak.hk
   - DOMAIN-SUFFIX,ratacatering.com
   - DOMAIN-SUFFIX,raycominv.com
   - DOMAIN-SUFFIX,raymxmicro.com
@@ -1894,7 +1890,6 @@ payload:
   - DOMAIN-SUFFIX,refinedx.com
   - DOMAIN-SUFFIX,remaxbj.com
   - DOMAIN-SUFFIX,renreninc.com
-  - DOMAIN-SUFFIX,rerecdn.com
   - DOMAIN-SUFFIX,respectlab.com
   - DOMAIN-SUFFIX,rfgsm.com
   - DOMAIN-SUFFIX,richchang.com
@@ -2034,9 +2029,7 @@ payload:
   - DOMAIN-SUFFIX,shryjx.com
   - DOMAIN-SUFFIX,shservice.com
   - DOMAIN-SUFFIX,shsurface.com
-  - DOMAIN-SUFFIX,shsyh.org
   - DOMAIN-SUFFIX,shtangfeng.com
-  - DOMAIN-SUFFIX,shuanghaocn.com
   - DOMAIN-SUFFIX,shuimai.com
   - DOMAIN-SUFFIX,shwarwick.com
   - DOMAIN-SUFFIX,shxinao.com
@@ -2117,6 +2110,7 @@ payload:
   - DOMAIN-SUFFIX,soldierstorytoys.com
   - DOMAIN-SUFFIX,sololauncher.com
   - DOMAIN-SUFFIX,solove.com
+  - DOMAIN-SUFFIX,sonaver.com
   - DOMAIN-SUFFIX,sot.net
   - DOMAIN-SUFFIX,souchefin.com
   - DOMAIN-SUFFIX,soucheinc.com
@@ -2143,7 +2137,6 @@ payload:
   - DOMAIN-SUFFIX,starvillageent.com
   - DOMAIN-SUFFIX,staticssl.imagegmkt.com
   - DOMAIN-SUFFIX,statnba.com
-  - DOMAIN-SUFFIX,steelsaler.com
   - DOMAIN-SUFFIX,storage.com
   - DOMAIN-SUFFIX,strmo.com
   - DOMAIN-SUFFIX,strongstudy.com
@@ -2215,6 +2208,7 @@ payload:
   - DOMAIN-SUFFIX,taojiujiu.com
   - DOMAIN-SUFFIX,taostar.com
   - DOMAIN-SUFFIX,taostudio.net
+  - DOMAIN-SUFFIX,taowu.com
   - DOMAIN-SUFFIX,taoyisupport.com
   - DOMAIN-SUFFIX,taptapapi.com
   - DOMAIN-SUFFIX,taxedu.net
@@ -2306,7 +2300,6 @@ payload:
   - DOMAIN-SUFFIX,tsgonline.net
   - DOMAIN-SUFFIX,tsinghuagetinfo.com
   - DOMAIN-SUFFIX,tsjuheng.com
-  - DOMAIN-SUFFIX,ttbeian.com
   - DOMAIN-SUFFIX,ttbike.com
   - DOMAIN-SUFFIX,ttly.com
   - DOMAIN-SUFFIX,tui8.com
@@ -2437,7 +2430,6 @@ payload:
   - DOMAIN-SUFFIX,wonderfulpr.com
   - DOMAIN-SUFFIX,worldpass.net
   - DOMAIN-SUFFIX,worldtrade.org
-  - DOMAIN-SUFFIX,worldtrader.com
   - DOMAIN-SUFFIX,wosaiinc.com
   - DOMAIN-SUFFIX,wowclassic.com
   - DOMAIN-SUFFIX,woxa.com

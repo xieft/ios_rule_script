@@ -1,12 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:08:59
-# HOST-SUFFIX: 2664
+# UPDATED: 2021-11-19 02:09:55
+# HOST-SUFFIX: 2656
 # HOST-KEYWORD: 1
 # HOST: 4
 # USER-AGENT: 4
-# TOTAL: 2673
+# TOTAL: 2665
 HOST,app.adjust.com,Direct
 HOST,bdtj.tagtic.cn,Direct
 HOST,picanalysis.vivo.com.cn,Direct
@@ -83,6 +83,7 @@ HOST-SUFFIX,88z.com,Direct
 HOST-SUFFIX,8btcops.com,Direct
 HOST-SUFFIX,8host.com,Direct
 HOST-SUFFIX,955118.com,Direct
+HOST-SUFFIX,977.com,Direct
 HOST-SUFFIX,99ss.com,Direct
 HOST-SUFFIX,9daygame.com,Direct
 HOST-SUFFIX,9zhuce.com,Direct
@@ -91,7 +92,6 @@ HOST-SUFFIX,abardeenonline.com,Direct
 HOST-SUFFIX,abcca.com,Direct
 HOST-SUFFIX,abetech.com,Direct
 HOST-SUFFIX,ableelec.com,Direct
-HOST-SUFFIX,absworld.net,Direct
 HOST-SUFFIX,accuratechina.com,Direct
 HOST-SUFFIX,acepow.com,Direct
 HOST-SUFFIX,acgmoe.com,Direct
@@ -113,7 +113,6 @@ HOST-SUFFIX,adu.net,Direct
 HOST-SUFFIX,adyoung.com,Direct
 HOST-SUFFIX,aeocctv.com,Direct
 HOST-SUFFIX,aepeople.com,Direct
-HOST-SUFFIX,aera51.com,Direct
 HOST-SUFFIX,agespa.com,Direct
 HOST-SUFFIX,agilechina.com,Direct
 HOST-SUFFIX,ahinter.com,Direct
@@ -195,7 +194,6 @@ HOST-SUFFIX,appsage.com,Direct
 HOST-SUFFIX,appstore.name,Direct
 HOST-SUFFIX,appwebseoaso.com,Direct
 HOST-SUFFIX,appzh.com,Direct
-HOST-SUFFIX,aptblog.net,Direct
 HOST-SUFFIX,aquacitytj.com,Direct
 HOST-SUFFIX,arcasda.com,Direct
 HOST-SUFFIX,archimotive.com,Direct
@@ -779,7 +777,6 @@ HOST-SUFFIX,digiwo.com,Direct
 HOST-SUFFIX,dingxianginc.com,Direct
 HOST-SUFFIX,discoursestudies.com,Direct
 HOST-SUFFIX,ditiantech.com,Direct
-HOST-SUFFIX,dlmec.com,Direct
 HOST-SUFFIX,dlrc.com,Direct
 HOST-SUFFIX,dmeng.com,Direct
 HOST-SUFFIX,dnsabca.com,Direct
@@ -806,7 +803,6 @@ HOST-SUFFIX,dongfenghondajade.com,Direct
 HOST-SUFFIX,dongfenghondaurv.com,Direct
 HOST-SUFFIX,dongfenghondaxrv.com,Direct
 HOST-SUFFIX,dongfengnissan.com,Direct
-HOST-SUFFIX,dongfengrenault.net,Direct
 HOST-SUFFIX,dongxu.com,Direct
 HOST-SUFFIX,doorexpo.com,Direct
 HOST-SUFFIX,doracontrol.cdnetworks.com,Direct
@@ -963,7 +959,6 @@ HOST-SUFFIX,fishingsinkers.com,Direct
 HOST-SUFFIX,fitstart.co,Direct
 HOST-SUFFIX,fittime.com,Direct
 HOST-SUFFIX,fjatfz.com,Direct
-HOST-SUFFIX,fjci.com,Direct
 HOST-SUFFIX,fjjm.com,Direct
 HOST-SUFFIX,flgame.net,Direct
 HOST-SUFFIX,flowermed.com,Direct
@@ -1078,6 +1073,7 @@ HOST-SUFFIX,grtchina.com,Direct
 HOST-SUFFIX,gstchina.net,Direct
 HOST-SUFFIX,gtjaallianz.com,Direct
 HOST-SUFFIX,gtma1b2.com,Direct
+HOST-SUFFIX,gtma1b3.com,Direct
 HOST-SUFFIX,gtma1b4.com,Direct
 HOST-SUFFIX,gtma1b6.com,Direct
 HOST-SUFFIX,gtma1b7.com,Direct
@@ -1474,6 +1470,7 @@ HOST-SUFFIX,kjhospital.com,Direct
 HOST-SUFFIX,kjpcb.com,Direct
 HOST-SUFFIX,kkhglobal.com,Direct
 HOST-SUFFIX,kmgjd.com,Direct
+HOST-SUFFIX,knowhowchina.com,Direct
 HOST-SUFFIX,kongminginc.com,Direct
 HOST-SUFFIX,kongsunhldgs.com,Direct
 HOST-SUFFIX,koteiinfo.com,Direct
@@ -1795,11 +1792,11 @@ HOST-SUFFIX,phpmaster.com,Direct
 HOST-SUFFIX,phpnote.com,Direct
 HOST-SUFFIX,phpoa.com,Direct
 HOST-SUFFIX,phpz.com,Direct
-HOST-SUFFIX,picrere.com,Direct
 HOST-SUFFIX,pilizz.net,Direct
 HOST-SUFFIX,pinad.com,Direct
 HOST-SUFFIX,pincolor.net,Direct
 HOST-SUFFIX,pingapple.com,Direct
+HOST-SUFFIX,pinghuicn.com,Direct
 HOST-SUFFIX,pingjia.net,Direct
 HOST-SUFFIX,pingqu.com,Direct
 HOST-SUFFIX,pinqu.com,Direct
@@ -1879,7 +1876,6 @@ HOST-SUFFIX,railtransit.com,Direct
 HOST-SUFFIX,rakindaxm.com,Direct
 HOST-SUFFIX,ramadaplazaovwh.com,Direct
 HOST-SUFFIX,ranwen.com,Direct
-HOST-SUFFIX,ranzyleak.hk,Direct
 HOST-SUFFIX,ratacatering.com,Direct
 HOST-SUFFIX,raycominv.com,Direct
 HOST-SUFFIX,raymxmicro.com,Direct
@@ -1894,7 +1890,6 @@ HOST-SUFFIX,redsunrp.com,Direct
 HOST-SUFFIX,refinedx.com,Direct
 HOST-SUFFIX,remaxbj.com,Direct
 HOST-SUFFIX,renreninc.com,Direct
-HOST-SUFFIX,rerecdn.com,Direct
 HOST-SUFFIX,respectlab.com,Direct
 HOST-SUFFIX,rfgsm.com,Direct
 HOST-SUFFIX,richchang.com,Direct
@@ -2034,9 +2029,7 @@ HOST-SUFFIX,shouji56img.com,Direct
 HOST-SUFFIX,shryjx.com,Direct
 HOST-SUFFIX,shservice.com,Direct
 HOST-SUFFIX,shsurface.com,Direct
-HOST-SUFFIX,shsyh.org,Direct
 HOST-SUFFIX,shtangfeng.com,Direct
-HOST-SUFFIX,shuanghaocn.com,Direct
 HOST-SUFFIX,shuimai.com,Direct
 HOST-SUFFIX,shwarwick.com,Direct
 HOST-SUFFIX,shxinao.com,Direct
@@ -2117,6 +2110,7 @@ HOST-SUFFIX,sohuinc.com,Direct
 HOST-SUFFIX,soldierstorytoys.com,Direct
 HOST-SUFFIX,sololauncher.com,Direct
 HOST-SUFFIX,solove.com,Direct
+HOST-SUFFIX,sonaver.com,Direct
 HOST-SUFFIX,sot.net,Direct
 HOST-SUFFIX,souchefin.com,Direct
 HOST-SUFFIX,soucheinc.com,Direct
@@ -2143,7 +2137,6 @@ HOST-SUFFIX,startuppartner.com,Direct
 HOST-SUFFIX,starvillageent.com,Direct
 HOST-SUFFIX,staticssl.imagegmkt.com,Direct
 HOST-SUFFIX,statnba.com,Direct
-HOST-SUFFIX,steelsaler.com,Direct
 HOST-SUFFIX,storage.com,Direct
 HOST-SUFFIX,strmo.com,Direct
 HOST-SUFFIX,strongstudy.com,Direct
@@ -2215,6 +2208,7 @@ HOST-SUFFIX,tannetinformation.com,Direct
 HOST-SUFFIX,taojiujiu.com,Direct
 HOST-SUFFIX,taostar.com,Direct
 HOST-SUFFIX,taostudio.net,Direct
+HOST-SUFFIX,taowu.com,Direct
 HOST-SUFFIX,taoyisupport.com,Direct
 HOST-SUFFIX,taptapapi.com,Direct
 HOST-SUFFIX,taxedu.net,Direct
@@ -2306,7 +2300,6 @@ HOST-SUFFIX,tscooling.com,Direct
 HOST-SUFFIX,tsgonline.net,Direct
 HOST-SUFFIX,tsinghuagetinfo.com,Direct
 HOST-SUFFIX,tsjuheng.com,Direct
-HOST-SUFFIX,ttbeian.com,Direct
 HOST-SUFFIX,ttbike.com,Direct
 HOST-SUFFIX,ttly.com,Direct
 HOST-SUFFIX,tui8.com,Direct
@@ -2437,7 +2430,6 @@ HOST-SUFFIX,womenheart.com,Direct
 HOST-SUFFIX,wonderfulpr.com,Direct
 HOST-SUFFIX,worldpass.net,Direct
 HOST-SUFFIX,worldtrade.org,Direct
-HOST-SUFFIX,worldtrader.com,Direct
 HOST-SUFFIX,wosaiinc.com,Direct
 HOST-SUFFIX,wowclassic.com,Direct
 HOST-SUFFIX,woxa.com,Direct
