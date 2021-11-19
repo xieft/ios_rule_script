@@ -1,9 +1,9 @@
 # NAME: Mozilla
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-11 02:08:59
-# DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# UPDATED: 2021-11-20 02:09:49
+# DOMAIN-SUFFIX: 21
+# TOTAL: 21
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,docs.rs
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,seamonkey-project.org

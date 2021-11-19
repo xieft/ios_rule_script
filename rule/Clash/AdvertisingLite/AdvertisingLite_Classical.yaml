@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-19 02:09:56
-# DOMAIN: 14042
+# UPDATED: 2021-11-20 02:09:50
+# DOMAIN: 14018
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13216
+# DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27444
+# TOTAL: 27422
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -122,7 +122,6 @@ payload:
   - DOMAIN,18naked.com
   - DOMAIN,19869.com
   - DOMAIN,198game.com
-  - DOMAIN,1b6a637cbe7bb65ac.com
   - DOMAIN,1bcde.com
   - DOMAIN,1ccbt.com
   - DOMAIN,1dmp.io
@@ -163,7 +162,6 @@ payload:
   - DOMAIN,21sexturycash.com
   - DOMAIN,22pixx.xyz
   - DOMAIN,23205523023daea6.com
-  - DOMAIN,2334ea708ab6d79.com
   - DOMAIN,2345.com
   - DOMAIN,23kmm.com
   - DOMAIN,23txt.com
@@ -230,7 +228,6 @@ payload:
   - DOMAIN,34c2f22e9503ace.com
   - DOMAIN,350media.com
   - DOMAIN,3585656d9351553f.com
-  - DOMAIN,35d59588f15966.com
   - DOMAIN,35kds.com
   - DOMAIN,360366.net
   - DOMAIN,360ads.com
@@ -256,7 +253,6 @@ payload:
   - DOMAIN,3alian.net
   - DOMAIN,3b0b68c876376f7311.com
   - DOMAIN,3ca28642b714623b2.com
-  - DOMAIN,3d0da2373af57.com
   - DOMAIN,3dlivestats.com
   - DOMAIN,3dstats.com
   - DOMAIN,3enm.com
@@ -284,8 +280,6 @@ payload:
   - DOMAIN,44-trk-srv.com
   - DOMAIN,45f2373b26b8e2.com
   - DOMAIN,45i73jv6.com
-  - DOMAIN,4702fb341ddf276d.com
-  - DOMAIN,473863a8ef28.com
   - DOMAIN,48331375c351e.com
   - DOMAIN,4936.cn
   - DOMAIN,49453k0l.vr.loveota.com
@@ -312,7 +306,6 @@ payload:
   - DOMAIN,4wnet.com
   - DOMAIN,4wnetwork.com
   - DOMAIN,5.5ppt.net
-  - DOMAIN,500969adcf7ae838.com
   - DOMAIN,50258bd2b243b24df.com
   - DOMAIN,51experience.cn
   - DOMAIN,51gugu.com
@@ -377,7 +370,6 @@ payload:
   - DOMAIN,63kc.com
   - DOMAIN,640f94e47dc41c.com
   - DOMAIN,641198810fae7.com
-  - DOMAIN,64aa81cd247ea32d.com
   - DOMAIN,6548579f50dc08be9.com
   - DOMAIN,65a29ceed813bbca61.com
   - DOMAIN,65e750617ae8f0421.com
@@ -415,7 +407,6 @@ payload:
   - DOMAIN,71d7511a4861068.com
   - DOMAIN,720-trail.co.uk
   - DOMAIN,729dcbaa57e80c1e.com
-  - DOMAIN,72b8869dfc34690.com
   - DOMAIN,736f35dde67b7da2976.com
   - DOMAIN,739c49a8c68917.com
   - DOMAIN,743e6b34be13fb105e0.com
@@ -444,7 +435,6 @@ payload:
   - DOMAIN,7bwan.com
   - DOMAIN,7cjsh.cn
   - DOMAIN,7db0b2a0ee95f557904.com
-  - DOMAIN,7dee28afeb8c939d8.com
   - DOMAIN,7dlm.cn
   - DOMAIN,7e625f490775b155.com
   - DOMAIN,7eer.net
@@ -476,8 +466,6 @@ payload:
   - DOMAIN,8233fa03a40c92d.com
   - DOMAIN,823bc1a6cd3f1657.com
   - DOMAIN,8315.cn
-  - DOMAIN,84544232a4185d6.com
-  - DOMAIN,8462d0b3cc90c90.com
   - DOMAIN,8547459af5da02.com
   - DOMAIN,857yx.com
   - DOMAIN,85un.com
@@ -497,7 +485,6 @@ payload:
   - DOMAIN,8910ad.com
   - DOMAIN,89kvh.cn
   - DOMAIN,89tmolir.top
-  - DOMAIN,8b0b17dc1f9f8010.com
   - DOMAIN,8c9cc6d2b0e13.com
   - DOMAIN,8cce6d834ab4e80c7.com
   - DOMAIN,8cnd.com
@@ -540,7 +527,6 @@ payload:
   - DOMAIN,9c40a04e9732e6a6.com
   - DOMAIN,9cd76b4462bb.com
   - DOMAIN,9content.com
-  - DOMAIN,9e5420f6be48ccc.com
   - DOMAIN,9ead.com
   - DOMAIN,9eb10b7a3d04a.com
   - DOMAIN,9nl.eu
@@ -714,6 +700,7 @@ payload:
   - DOMAIN,activetracker.activehotels.com
   - DOMAIN,activity.browser.intl.miui.com
   - DOMAIN,activity.clotfun.xyz
+  - DOMAIN,activity.tuiapple.com
   - DOMAIN,actnx.com
   - DOMAIN,actpx.com
   - DOMAIN,actuallysheep.com
@@ -743,7 +730,6 @@ payload:
   - DOMAIN,ad-srv.net
   - DOMAIN,ad-u.com
   - DOMAIN,ad-vice.biz
-  - DOMAIN,ad.10010.com
   - DOMAIN,ad.1ting.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
@@ -2248,13 +2234,10 @@ payload:
   - DOMAIN,b2.0430.com
   - DOMAIN,b2c.com
   - DOMAIN,b3.jandan.net
-  - DOMAIN,b3ff2cfeb6f49e.com
   - DOMAIN,b3z29k1uxb.com
   - DOMAIN,b400393baba7cd476a3.com
   - DOMAIN,b59812ee54afcabd.com
-  - DOMAIN,b6aa6257a22451c.com
   - DOMAIN,b8cf0fd3179ef.com
-  - DOMAIN,b9ba73f1cd9b6.com
   - DOMAIN,babator.com
   - DOMAIN,babbnrs.com
   - DOMAIN,babsedrinhi.info
@@ -4038,7 +4021,6 @@ payload:
   - DOMAIN,d3anogn3pbtk4v.cloudfront.net
   - DOMAIN,d3asksgk2foh5m.cloudfront.net
   - DOMAIN,d3b2hhehkqd158.cloudfront.net
-  - DOMAIN,d3b75cfc88a9.com
   - DOMAIN,d3c3uihon9kmp.cloudfront.net
   - DOMAIN,d3cxv97fi8q177.cloudfront.net
   - DOMAIN,d3dytsf4vrjn5x.cloudfront.net
@@ -4080,7 +4062,6 @@ payload:
   - DOMAIN,d4ax0r5detcsu.cloudfront.net
   - DOMAIN,d4ngwggzm3w7j.cloudfront.net
   - DOMAIN,d58bf31082fa97.com
-  - DOMAIN,d59fa492f75f520.com
   - DOMAIN,d5k6iufjynyu8.cloudfront.net
   - DOMAIN,d5pb47xzjz3fc.cloudfront.net
   - DOMAIN,d63a3au5lqmtu.cloudfront.net
@@ -4299,7 +4280,6 @@ payload:
   - DOMAIN,dexplatform.com
   - DOMAIN,df-srv.de
   - DOMAIN,df8c5028a1fad1.com
-  - DOMAIN,df931f2841ac729.com
   - DOMAIN,df9377.com
   - DOMAIN,dfb79196408612f1.com
   - DOMAIN,dfdjilnzqgtow.com
@@ -4679,7 +4659,6 @@ payload:
   - DOMAIN,e13085e58935e6.com
   - DOMAIN,e18a97eee94d0f2519.com
   - DOMAIN,e331ff4e674c083.com
-  - DOMAIN,e347bb14dc71778.com
   - DOMAIN,e376ef28103177cc.com
   - DOMAIN,e77lmzbqou0n-a.akamaihd.net
   - DOMAIN,e7e776c1a8bf677.com
@@ -4795,7 +4774,6 @@ payload:
   - DOMAIN,eeroo.frost-electric-supply.com
   - DOMAIN,eetseemp.net
   - DOMAIN,eeyy.com
-  - DOMAIN,ef867a1be4f83922.com
   - DOMAIN,efatik.me
   - DOMAIN,efd3b86a5fbddda.com
   - DOMAIN,efugl.iptvdeals.com
@@ -5090,7 +5068,6 @@ payload:
   - DOMAIN,f1.lutouwang.net
   - DOMAIN,f11w.com
   - DOMAIN,f1zd.com
-  - DOMAIN,f35c5dba3b0b5b017.com
   - DOMAIN,f4906b7c15ba.com
   - DOMAIN,f5080f5cee5a00.com
   - DOMAIN,f5v1x3kgv5.com
@@ -5160,7 +5137,6 @@ payload:
   - DOMAIN,fbooksluts.com
   - DOMAIN,fbsvu.com
   - DOMAIN,fc.webmasterpro.de
-  - DOMAIN,fc2b9b7ce3165.com
   - DOMAIN,fc3tn.baidu.com
   - DOMAIN,fc5tn.baidu.com
   - DOMAIN,fcgadgets.blogspot.com
@@ -7454,7 +7430,6 @@ payload:
   - DOMAIN,looksmart.com
   - DOMAIN,looneyads.com
   - DOMAIN,loopa.net.au
-  - DOMAIN,loopfuse.net
   - DOMAIN,loopme.me
   - DOMAIN,loopr.co
   - DOMAIN,looyu.com
@@ -9194,6 +9169,7 @@ payload:
   - DOMAIN,pheersie.com
   - DOMAIN,phekrimp.com
   - DOMAIN,phengung.net
+  - DOMAIN,philbardre.com
   - DOMAIN,philosophere.com
   - DOMAIN,philstraffic.com
   - DOMAIN,phitenmy.com
@@ -11707,7 +11683,6 @@ payload:
   - DOMAIN,szvr.com
   - DOMAIN,szwsesc.cn
   - DOMAIN,t-analytics.com
-  - DOMAIN,t.58xs.com
   - DOMAIN,t.dgm-au.com
   - DOMAIN,t.geedai.com
   - DOMAIN,t.h5data.com
@@ -11824,7 +11799,6 @@ payload:
   - DOMAIN,tec-tec-boom.com
   - DOMAIN,tech-board.com
   - DOMAIN,techain.baidu.com
-  - DOMAIN,techclicks.net
   - DOMAIN,techkey.com.cn
   - DOMAIN,technical-service.net
   - DOMAIN,technorati.com
@@ -13493,6 +13467,7 @@ payload:
   - DOMAIN,www.pgathailand.com
   - DOMAIN,www.pj39330.bet
   - DOMAIN,www.predictivadvertising.com
+  - DOMAIN,www.professionalblackbook.com
   - DOMAIN,www.profill-smd.com
   - DOMAIN,www.propan.ru
   - DOMAIN,www.purplehorses.net
@@ -13541,6 +13516,7 @@ payload:
   - DOMAIN,www.ttyyuuoo.com
   - DOMAIN,www.tvnews.or.kr
   - DOMAIN,www.two-of-us.at
+  - DOMAIN,www.unicaitaly.it
   - DOMAIN,www.uriyuri.com
   - DOMAIN,www.usaenterprise.com
   - DOMAIN,www.vinyljazzrecords.com
@@ -19128,6 +19104,7 @@ payload:
   - DOMAIN-SUFFIX,fpb.51edu.com
   - DOMAIN-SUFFIX,fpb.kuhou.com
   - DOMAIN-SUFFIX,fpb.mn586.com
+  - DOMAIN-SUFFIX,fpb1.apple886.com
   - DOMAIN-SUFFIX,fpbb.aizhan.com
   - DOMAIN-SUFFIX,fpbbdx1.51240.com
   - DOMAIN-SUFFIX,fpbjiansuo.mn586.com
@@ -22402,6 +22379,7 @@ payload:
   - DOMAIN-SUFFIX,ne.1rtb.com
   - DOMAIN-SUFFIX,ne9377.com
   - DOMAIN-SUFFIX,nebadu.com
+  - DOMAIN-SUFFIX,ned.itv.com
   - DOMAIN-SUFFIX,nedinchestw.site
   - DOMAIN-SUFFIX,nedo96.cn
   - DOMAIN-SUFFIX,neijh.com

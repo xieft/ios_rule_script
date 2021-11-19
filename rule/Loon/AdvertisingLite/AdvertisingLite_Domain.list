@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-19 02:09:55
+# UPDATED: 2021-11-20 02:09:49
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14042
+# DOMAIN: 14018
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13216
+# DOMAIN-SUFFIX: 13218
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27739
+# TOTAL: 27717
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -123,7 +123,6 @@
 18naked.com
 19869.com
 198game.com
-1b6a637cbe7bb65ac.com
 1bcde.com
 1ccbt.com
 1dmp.io
@@ -164,7 +163,6 @@
 21sexturycash.com
 22pixx.xyz
 23205523023daea6.com
-2334ea708ab6d79.com
 2345.com
 23kmm.com
 23txt.com
@@ -231,7 +229,6 @@
 34c2f22e9503ace.com
 350media.com
 3585656d9351553f.com
-35d59588f15966.com
 35kds.com
 360366.net
 360ads.com
@@ -257,7 +254,6 @@
 3alian.net
 3b0b68c876376f7311.com
 3ca28642b714623b2.com
-3d0da2373af57.com
 3dlivestats.com
 3dstats.com
 3enm.com
@@ -285,8 +281,6 @@
 44-trk-srv.com
 45f2373b26b8e2.com
 45i73jv6.com
-4702fb341ddf276d.com
-473863a8ef28.com
 48331375c351e.com
 4936.cn
 49453k0l.vr.loveota.com
@@ -313,7 +307,6 @@
 4wnet.com
 4wnetwork.com
 5.5ppt.net
-500969adcf7ae838.com
 50258bd2b243b24df.com
 51experience.cn
 51gugu.com
@@ -378,7 +371,6 @@
 63kc.com
 640f94e47dc41c.com
 641198810fae7.com
-64aa81cd247ea32d.com
 6548579f50dc08be9.com
 65a29ceed813bbca61.com
 65e750617ae8f0421.com
@@ -416,7 +408,6 @@
 71d7511a4861068.com
 720-trail.co.uk
 729dcbaa57e80c1e.com
-72b8869dfc34690.com
 736f35dde67b7da2976.com
 739c49a8c68917.com
 743e6b34be13fb105e0.com
@@ -445,7 +436,6 @@
 7bwan.com
 7cjsh.cn
 7db0b2a0ee95f557904.com
-7dee28afeb8c939d8.com
 7dlm.cn
 7e625f490775b155.com
 7eer.net
@@ -477,8 +467,6 @@
 8233fa03a40c92d.com
 823bc1a6cd3f1657.com
 8315.cn
-84544232a4185d6.com
-8462d0b3cc90c90.com
 8547459af5da02.com
 857yx.com
 85un.com
@@ -498,7 +486,6 @@
 8910ad.com
 89kvh.cn
 89tmolir.top
-8b0b17dc1f9f8010.com
 8c9cc6d2b0e13.com
 8cce6d834ab4e80c7.com
 8cnd.com
@@ -541,7 +528,6 @@
 9c40a04e9732e6a6.com
 9cd76b4462bb.com
 9content.com
-9e5420f6be48ccc.com
 9ead.com
 9eb10b7a3d04a.com
 9nl.eu
@@ -715,6 +701,7 @@ activeprospects.com
 activetracker.activehotels.com
 activity.browser.intl.miui.com
 activity.clotfun.xyz
+activity.tuiapple.com
 actnx.com
 actpx.com
 actuallysheep.com
@@ -744,7 +731,6 @@ ad-srv-track.com
 ad-srv.net
 ad-u.com
 ad-vice.biz
-ad.10010.com
 ad.1ting.com
 ad.21cn.com
 ad.9tv.co.il
@@ -2249,13 +2235,10 @@ b1js.com
 b2.0430.com
 b2c.com
 b3.jandan.net
-b3ff2cfeb6f49e.com
 b3z29k1uxb.com
 b400393baba7cd476a3.com
 b59812ee54afcabd.com
-b6aa6257a22451c.com
 b8cf0fd3179ef.com
-b9ba73f1cd9b6.com
 babator.com
 babbnrs.com
 babsedrinhi.info
@@ -4039,7 +4022,6 @@ d3al52d8cojds7.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
 d3b2hhehkqd158.cloudfront.net
-d3b75cfc88a9.com
 d3c3uihon9kmp.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3dytsf4vrjn5x.cloudfront.net
@@ -4081,7 +4063,6 @@ d41.co
 d4ax0r5detcsu.cloudfront.net
 d4ngwggzm3w7j.cloudfront.net
 d58bf31082fa97.com
-d59fa492f75f520.com
 d5k6iufjynyu8.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d63a3au5lqmtu.cloudfront.net
@@ -4300,7 +4281,6 @@ deximedia.com
 dexplatform.com
 df-srv.de
 df8c5028a1fad1.com
-df931f2841ac729.com
 df9377.com
 dfb79196408612f1.com
 dfdjilnzqgtow.com
@@ -4680,7 +4660,6 @@ e0a42e1a21669b.com
 e13085e58935e6.com
 e18a97eee94d0f2519.com
 e331ff4e674c083.com
-e347bb14dc71778.com
 e376ef28103177cc.com
 e77lmzbqou0n-a.akamaihd.net
 e7e776c1a8bf677.com
@@ -4796,7 +4775,6 @@ eergaroa.com
 eeroo.frost-electric-supply.com
 eetseemp.net
 eeyy.com
-ef867a1be4f83922.com
 efatik.me
 efd3b86a5fbddda.com
 efugl.iptvdeals.com
@@ -5091,7 +5069,6 @@ f01ed651eca.com
 f1.lutouwang.net
 f11w.com
 f1zd.com
-f35c5dba3b0b5b017.com
 f4906b7c15ba.com
 f5080f5cee5a00.com
 f5v1x3kgv5.com
@@ -5161,7 +5138,6 @@ fbmjc.39yst.com
 fbooksluts.com
 fbsvu.com
 fc.webmasterpro.de
-fc2b9b7ce3165.com
 fc3tn.baidu.com
 fc5tn.baidu.com
 fcgadgets.blogspot.com
@@ -7455,7 +7431,6 @@ lookmy.info
 looksmart.com
 looneyads.com
 loopa.net.au
-loopfuse.net
 loopme.me
 loopr.co
 looyu.com
@@ -9195,6 +9170,7 @@ pheergar.com
 pheersie.com
 phekrimp.com
 phengung.net
+philbardre.com
 philosophere.com
 philstraffic.com
 phitenmy.com
@@ -11708,7 +11684,6 @@ szinhaz.hu
 szvr.com
 szwsesc.cn
 t-analytics.com
-t.58xs.com
 t.dgm-au.com
 t.geedai.com
 t.h5data.com
@@ -11825,7 +11800,6 @@ tebo0o2xw4.com
 tec-tec-boom.com
 tech-board.com
 techain.baidu.com
-techclicks.net
 techkey.com.cn
 technical-service.net
 technorati.com
@@ -13494,6 +13468,7 @@ www.pflexads.com
 www.pgathailand.com
 www.pj39330.bet
 www.predictivadvertising.com
+www.professionalblackbook.com
 www.profill-smd.com
 www.propan.ru
 www.purplehorses.net
@@ -13542,6 +13517,7 @@ www.tpt.edu.in
 www.ttyyuuoo.com
 www.tvnews.or.kr
 www.two-of-us.at
+www.unicaitaly.it
 www.uriyuri.com
 www.usaenterprise.com
 www.vinyljazzrecords.com
@@ -19129,6 +19105,7 @@ zzsdtzb.com
 .fpb.51edu.com
 .fpb.kuhou.com
 .fpb.mn586.com
+.fpb1.apple886.com
 .fpbb.aizhan.com
 .fpbbdx1.51240.com
 .fpbjiansuo.mn586.com
@@ -22403,6 +22380,7 @@ zzsdtzb.com
 .ne.1rtb.com
 .ne9377.com
 .nebadu.com
+.ned.itv.com
 .nedinchestw.site
 .nedo96.cn
 .neijh.com
