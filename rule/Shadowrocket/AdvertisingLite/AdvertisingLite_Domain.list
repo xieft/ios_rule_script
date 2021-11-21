@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-21 02:09:38
+# UPDATED: 2021-11-22 02:09:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 13880
+# DOMAIN: 13878
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13218
+# DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # URL-REGEX: 295
-# TOTAL: 27578
+# TOTAL: 27574
 00-gov.cn
 0024aadd.com
 006a039c957c142bb.com
@@ -701,7 +701,6 @@ activeprospects.com
 activetracker.activehotels.com
 activity.browser.intl.miui.com
 activity.clotfun.xyz
-activity.tuiapple.com
 actnx.com
 actpx.com
 actuallysheep.com
@@ -731,6 +730,7 @@ ad-srv-track.com
 ad-srv.net
 ad-u.com
 ad-vice.biz
+ad.10010.com
 ad.1ting.com
 ad.21cn.com
 ad.9tv.co.il
@@ -3010,7 +3010,6 @@ cb-content.com
 cba-fed-igh.com
 cbclickbank.com
 cbjg.cqnews.net
-cbleads.com
 cbtrk.net
 cc-dt.com
 cc3.ifeng.com
@@ -4685,6 +4684,7 @@ easyresearch.se
 easysol.net
 easytomessage.com
 easytracking.de
+eat-travel.com.tw
 eazyleads.com
 ebahpya.com
 ebannertraffic.com
@@ -7190,7 +7190,6 @@ lijit.com
 likebtn.com
 likecontrol.com
 likemore-go.imgsmail.ru
-lilangdianqi.cn
 limbik.io
 lindawei.cn
 lindon-pool.win
@@ -7994,6 +7993,7 @@ modzj.net
 moengage.com
 mogointeractive.com
 mohini-ger.com
+mojoaffiliates.com
 mokonocdn.com
 mokuz.ru
 mollnia.com
@@ -8783,7 +8783,6 @@ optmnstr.com
 optmstr.com
 optnmnstr.com
 optnmstr.com
-opto-22.com.cn
 optorb.com
 opyyykrdyuum.com
 oracleinfinity.io
@@ -8805,7 +8804,6 @@ orts.wixawin.com
 os-data.com
 os.tc
 osdata.solutions
-oset-api.open-adx.com
 oshoa.iptvdeals.com
 oshoo.iptvdeals.com
 osiaffiliate.com
@@ -9082,7 +9080,6 @@ pheersie.com
 phengung.net
 philbardre.com
 philosophere.com
-philstraffic.com
 phitenmy.com
 phjml.cn
 phoenix-widget.com
@@ -9271,6 +9268,7 @@ popander.com
 popclck.net
 popcornvod.com
 popcpm.com
+popearn.com
 popmajor.com
 popmarker.com
 popmog.com
@@ -9355,6 +9353,7 @@ powerjobs.com
 powermarketing.com
 poxcldtepiulo.com
 poyang.cn
+pp.wayqq.com
 pp8.com
 ppbvmesssyacij.com
 ppc-direct.com
@@ -12344,7 +12343,6 @@ twrank.com
 twtad.com
 txkjad.com
 txt.eu
-txtxz.org.cn
 tydd.hunterwish.cn
 tynt.com
 typeofmarijuana.com
@@ -12844,6 +12842,7 @@ vzsuiuamhuozw.com
 w.uptolike.com
 w00tmedia.net
 w1.jinyueya.net
+w1.wayqq.com
 w3counter.com
 w3exit.com
 w4.com
@@ -13592,7 +13591,6 @@ yaxujiancai.cn
 yazcash.com
 ybotvisit.com
 yceml.net
-ych168.cn
 ydcpc.com
 ydgaopinlu.com
 ydtqlmsvocjp.com
@@ -18966,7 +18964,6 @@ zzsdtzb.com
 .fpb.51edu.com
 .fpb.kuhou.com
 .fpb.mn586.com
-.fpb1.apple886.com
 .fpbb.aizhan.com
 .fpbbdx1.51240.com
 .fpbjiansuo.mn586.com
@@ -22241,7 +22238,6 @@ zzsdtzb.com
 .ne.1rtb.com
 .ne9377.com
 .nebadu.com
-.ned.itv.com
 .nedinchestw.site
 .nedo96.cn
 .neijh.com

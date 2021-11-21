@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-21 02:09:37
-# DOMAIN: 13880
+# UPDATED: 2021-11-22 02:09:14
+# DOMAIN: 13878
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13218
+# DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27284
+# TOTAL: 27280
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -701,7 +701,6 @@ payload:
   - DOMAIN,activetracker.activehotels.com
   - DOMAIN,activity.browser.intl.miui.com
   - DOMAIN,activity.clotfun.xyz
-  - DOMAIN,activity.tuiapple.com
   - DOMAIN,actnx.com
   - DOMAIN,actpx.com
   - DOMAIN,actuallysheep.com
@@ -731,6 +730,7 @@ payload:
   - DOMAIN,ad-srv.net
   - DOMAIN,ad-u.com
   - DOMAIN,ad-vice.biz
+  - DOMAIN,ad.10010.com
   - DOMAIN,ad.1ting.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
@@ -3010,7 +3010,6 @@ payload:
   - DOMAIN,cba-fed-igh.com
   - DOMAIN,cbclickbank.com
   - DOMAIN,cbjg.cqnews.net
-  - DOMAIN,cbleads.com
   - DOMAIN,cbtrk.net
   - DOMAIN,cc-dt.com
   - DOMAIN,cc3.ifeng.com
@@ -4685,6 +4684,7 @@ payload:
   - DOMAIN,easysol.net
   - DOMAIN,easytomessage.com
   - DOMAIN,easytracking.de
+  - DOMAIN,eat-travel.com.tw
   - DOMAIN,eazyleads.com
   - DOMAIN,ebahpya.com
   - DOMAIN,ebannertraffic.com
@@ -7190,7 +7190,6 @@ payload:
   - DOMAIN,likebtn.com
   - DOMAIN,likecontrol.com
   - DOMAIN,likemore-go.imgsmail.ru
-  - DOMAIN,lilangdianqi.cn
   - DOMAIN,limbik.io
   - DOMAIN,lindawei.cn
   - DOMAIN,lindon-pool.win
@@ -7994,6 +7993,7 @@ payload:
   - DOMAIN,moengage.com
   - DOMAIN,mogointeractive.com
   - DOMAIN,mohini-ger.com
+  - DOMAIN,mojoaffiliates.com
   - DOMAIN,mokonocdn.com
   - DOMAIN,mokuz.ru
   - DOMAIN,mollnia.com
@@ -8783,7 +8783,6 @@ payload:
   - DOMAIN,optmstr.com
   - DOMAIN,optnmnstr.com
   - DOMAIN,optnmstr.com
-  - DOMAIN,opto-22.com.cn
   - DOMAIN,optorb.com
   - DOMAIN,opyyykrdyuum.com
   - DOMAIN,oracleinfinity.io
@@ -8805,7 +8804,6 @@ payload:
   - DOMAIN,os-data.com
   - DOMAIN,os.tc
   - DOMAIN,osdata.solutions
-  - DOMAIN,oset-api.open-adx.com
   - DOMAIN,oshoa.iptvdeals.com
   - DOMAIN,oshoo.iptvdeals.com
   - DOMAIN,osiaffiliate.com
@@ -9082,7 +9080,6 @@ payload:
   - DOMAIN,phengung.net
   - DOMAIN,philbardre.com
   - DOMAIN,philosophere.com
-  - DOMAIN,philstraffic.com
   - DOMAIN,phitenmy.com
   - DOMAIN,phjml.cn
   - DOMAIN,phoenix-widget.com
@@ -9271,6 +9268,7 @@ payload:
   - DOMAIN,popclck.net
   - DOMAIN,popcornvod.com
   - DOMAIN,popcpm.com
+  - DOMAIN,popearn.com
   - DOMAIN,popmajor.com
   - DOMAIN,popmarker.com
   - DOMAIN,popmog.com
@@ -9355,6 +9353,7 @@ payload:
   - DOMAIN,powermarketing.com
   - DOMAIN,poxcldtepiulo.com
   - DOMAIN,poyang.cn
+  - DOMAIN,pp.wayqq.com
   - DOMAIN,pp8.com
   - DOMAIN,ppbvmesssyacij.com
   - DOMAIN,ppc-direct.com
@@ -12344,7 +12343,6 @@ payload:
   - DOMAIN,twtad.com
   - DOMAIN,txkjad.com
   - DOMAIN,txt.eu
-  - DOMAIN,txtxz.org.cn
   - DOMAIN,tydd.hunterwish.cn
   - DOMAIN,tynt.com
   - DOMAIN,typeofmarijuana.com
@@ -12844,6 +12842,7 @@ payload:
   - DOMAIN,w.uptolike.com
   - DOMAIN,w00tmedia.net
   - DOMAIN,w1.jinyueya.net
+  - DOMAIN,w1.wayqq.com
   - DOMAIN,w3counter.com
   - DOMAIN,w3exit.com
   - DOMAIN,w4.com
@@ -13592,7 +13591,6 @@ payload:
   - DOMAIN,yazcash.com
   - DOMAIN,ybotvisit.com
   - DOMAIN,yceml.net
-  - DOMAIN,ych168.cn
   - DOMAIN,ydcpc.com
   - DOMAIN,ydgaopinlu.com
   - DOMAIN,ydtqlmsvocjp.com
@@ -18966,7 +18964,6 @@ payload:
   - DOMAIN-SUFFIX,fpb.51edu.com
   - DOMAIN-SUFFIX,fpb.kuhou.com
   - DOMAIN-SUFFIX,fpb.mn586.com
-  - DOMAIN-SUFFIX,fpb1.apple886.com
   - DOMAIN-SUFFIX,fpbb.aizhan.com
   - DOMAIN-SUFFIX,fpbbdx1.51240.com
   - DOMAIN-SUFFIX,fpbjiansuo.mn586.com
@@ -22241,7 +22238,6 @@ payload:
   - DOMAIN-SUFFIX,ne.1rtb.com
   - DOMAIN-SUFFIX,ne9377.com
   - DOMAIN-SUFFIX,nebadu.com
-  - DOMAIN-SUFFIX,ned.itv.com
   - DOMAIN-SUFFIX,nedinchestw.site
   - DOMAIN-SUFFIX,nedo96.cn
   - DOMAIN-SUFFIX,neijh.com
