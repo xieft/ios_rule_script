@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 11:02:15
-# HOST: 15126
+# UPDATED: 2021-11-22 16:06:55
+# HOST: 15127
 # HOST-KEYWORD: 87
 # HOST-SUFFIX: 76423
 # IP-CIDR: 256
 # IP6-CIDR: 1
-# TOTAL: 91893
+# TOTAL: 91894
 HOST,0001.2waky.com,Advertising
 HOST,000lk3v.wcomhost.com,Advertising
 HOST,000lkub.rcomhost.com,Advertising
@@ -14511,6 +14511,7 @@ HOST,www.hitekshop.vn,Advertising
 HOST,www.infra.by,Advertising
 HOST,www.jcmarcadolib.com,Advertising
 HOST,www.joomlalivechat.com,Advertising
+HOST,www.kanjiantu.com,Advertising
 HOST,www.kcta.or.kr,Advertising
 HOST,www.kjbbc.net,Advertising
 HOST,www.lccl.org.uk,Advertising

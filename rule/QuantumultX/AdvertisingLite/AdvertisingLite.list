@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:12
-# HOST: 13878
+# UPDATED: 2021-11-22 16:06:55
+# HOST: 13884
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13216
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27280
+# TOTAL: 27286
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -3269,6 +3269,7 @@ HOST,clickpartoffon.xyz,AdvertisingLite
 HOST,clickpathmedia.com,AdvertisingLite
 HOST,clickperks.info,AdvertisingLite
 HOST,clickpoint.com,AdvertisingLite
+HOST,clickprotector.com,AdvertisingLite
 HOST,clickr.xyz,AdvertisingLite
 HOST,clickredirection.com,AdvertisingLite
 HOST,clickreport.com,AdvertisingLite
@@ -5275,6 +5276,7 @@ HOST,fonderredd.info,AdvertisingLite
 HOST,foocheeb.net,AdvertisingLite
 HOST,food5.net,AdvertisingLite
 HOST,foodieblogroll.com,AdvertisingLite
+HOST,footar.com,AdvertisingLite
 HOST,footnote.com,AdvertisingLite
 HOST,footprintdns.com,AdvertisingLite
 HOST,footprintlive.com,AdvertisingLite
@@ -8803,6 +8805,7 @@ HOST,orts.wixawin.com,AdvertisingLite
 HOST,os-data.com,AdvertisingLite
 HOST,os.tc,AdvertisingLite
 HOST,osdata.solutions,AdvertisingLite
+HOST,oset-api.open-adx.com,AdvertisingLite
 HOST,oshoa.iptvdeals.com,AdvertisingLite
 HOST,oshoo.iptvdeals.com,AdvertisingLite
 HOST,osiaffiliate.com,AdvertisingLite
@@ -11092,6 +11095,7 @@ HOST,sofire.baidu.com,AdvertisingLite
 HOST,sofire.bdstatic.com,AdvertisingLite
 HOST,soflopxl.com,AdvertisingLite
 HOST,soft.jiegeng.com,AdvertisingLite
+HOST,soft4dle.com,AdvertisingLite
 HOST,softonic-analytics.net,AdvertisingLite
 HOST,softonicads.com,AdvertisingLite
 HOST,softpopads.com,AdvertisingLite
@@ -13288,6 +13292,7 @@ HOST,www.joomlalivechat.com,AdvertisingLite
 HOST,www.jqassets.download,AdvertisingLite
 HOST,www.jquery-cdn.download,AdvertisingLite
 HOST,www.jshonghuadq.com,AdvertisingLite
+HOST,www.kanjiantu.com,AdvertisingLite
 HOST,www.kanshuapp.com,AdvertisingLite
 HOST,www.kcta.or.kr,AdvertisingLite
 HOST,www.kjbbc.net,AdvertisingLite
@@ -13786,6 +13791,7 @@ HOST,zetamm.com,AdvertisingLite
 HOST,zfacts.com,AdvertisingLite
 HOST,zfds1.tianya999.com,AdvertisingLite
 HOST,zferral.com,AdvertisingLite
+HOST,zfgn.hyxsoft.com,AdvertisingLite
 HOST,zg40c.cn,AdvertisingLite
 HOST,zgczjw.com,AdvertisingLite
 HOST,zghs.net.cn,AdvertisingLite

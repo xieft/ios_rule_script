@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 11:02:16
-# DOMAIN: 15126
+# UPDATED: 2021-11-22 16:06:57
+# DOMAIN: 15127
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 76423
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 91893
+# TOTAL: 91894
 payload:
   - '0001.2waky.com'
   - '000lk3v.wcomhost.com'
@@ -14512,6 +14512,7 @@ payload:
   - 'www.infra.by'
   - 'www.jcmarcadolib.com'
   - 'www.joomlalivechat.com'
+  - 'www.kanjiantu.com'
   - 'www.kcta.or.kr'
   - 'www.kjbbc.net'
   - 'www.lccl.org.uk'

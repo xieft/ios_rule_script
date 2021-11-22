@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-17 02:08:39
+# UPDATED: 2021-11-22 16:06:57
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 34217
+# DOMAIN-SUFFIX: 34218
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34357
+# TOTAL: 34358
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -27201,6 +27201,7 @@ payload:
   - DOMAIN-SUFFIX,vmw.com
   - DOMAIN-SUFFIX,vmware-cloudmanagement.com
   - DOMAIN-SUFFIX,vmware-techcenter.com
+  - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,vmware20mosaic.com
   - DOMAIN-SUFFIX,vmwareausnews.com
   - DOMAIN-SUFFIX,vmwarecertificationvideos.com

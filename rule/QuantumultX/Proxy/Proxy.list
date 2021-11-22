@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-17 02:08:37
+# UPDATED: 2021-11-22 16:06:55
 # HOST: 20
-# HOST-SUFFIX: 34217
+# HOST-SUFFIX: 34218
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 34368
+# TOTAL: 34369
 HOST,api-p.videomarket.jp,Proxy
 HOST,apip.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -27201,6 +27201,7 @@ HOST-SUFFIX,vmtestdrive.com,Proxy
 HOST-SUFFIX,vmw.com,Proxy
 HOST-SUFFIX,vmware-cloudmanagement.com,Proxy
 HOST-SUFFIX,vmware-techcenter.com,Proxy
+HOST-SUFFIX,vmware.com,Proxy
 HOST-SUFFIX,vmware20mosaic.com,Proxy
 HOST-SUFFIX,vmwareausnews.com,Proxy
 HOST-SUFFIX,vmwarecertificationvideos.com,Proxy

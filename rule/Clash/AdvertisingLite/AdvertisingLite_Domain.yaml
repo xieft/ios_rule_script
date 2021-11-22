@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:14
-# DOMAIN: 13878
+# UPDATED: 2021-11-22 16:06:57
+# DOMAIN: 13884
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13216
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27280
+# TOTAL: 27286
 payload:
   - '00-gov.cn'
   - '0024aadd.com'
@@ -3270,6 +3270,7 @@ payload:
   - 'clickpathmedia.com'
   - 'clickperks.info'
   - 'clickpoint.com'
+  - 'clickprotector.com'
   - 'clickr.xyz'
   - 'clickredirection.com'
   - 'clickreport.com'
@@ -5276,6 +5277,7 @@ payload:
   - 'foocheeb.net'
   - 'food5.net'
   - 'foodieblogroll.com'
+  - 'footar.com'
   - 'footnote.com'
   - 'footprintdns.com'
   - 'footprintlive.com'
@@ -8804,6 +8806,7 @@ payload:
   - 'os-data.com'
   - 'os.tc'
   - 'osdata.solutions'
+  - 'oset-api.open-adx.com'
   - 'oshoa.iptvdeals.com'
   - 'oshoo.iptvdeals.com'
   - 'osiaffiliate.com'
@@ -11093,6 +11096,7 @@ payload:
   - 'sofire.bdstatic.com'
   - 'soflopxl.com'
   - 'soft.jiegeng.com'
+  - 'soft4dle.com'
   - 'softonic-analytics.net'
   - 'softonicads.com'
   - 'softpopads.com'
@@ -13289,6 +13293,7 @@ payload:
   - 'www.jqassets.download'
   - 'www.jquery-cdn.download'
   - 'www.jshonghuadq.com'
+  - 'www.kanjiantu.com'
   - 'www.kanshuapp.com'
   - 'www.kcta.or.kr'
   - 'www.kjbbc.net'
@@ -13787,6 +13792,7 @@ payload:
   - 'zfacts.com'
   - 'zfds1.tianya999.com'
   - 'zferral.com'
+  - 'zfgn.hyxsoft.com'
   - 'zg40c.cn'
   - 'zgczjw.com'
   - 'zghs.net.cn'

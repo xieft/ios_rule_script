@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 11:02:18
-# DOMAIN-SUFFIX: 69249
+# UPDATED: 2021-11-22 16:06:59
+# DOMAIN-SUFFIX: 69248
 # USER-AGENT: 32
 # DOMAIN: 80
 # IP-CIDR: 14
 # DOMAIN-KEYWORD: 10
-# TOTAL: 69385
+# TOTAL: 69384
 265.com
 2mdn.net
 adservice.google.com
@@ -57511,7 +57511,6 @@ www4-static.gog-statics.com
 .vmoviercdn.com
 .vmsky.com
 .vmvps.com
-.vmware.com
 .vnet.mobi
 .vnnox.com
 .vnoke.com
