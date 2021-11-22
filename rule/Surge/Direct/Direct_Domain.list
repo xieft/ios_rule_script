@@ -1,14 +1,14 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:11
+# UPDATED: 2021-11-22 11:02:14
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 2656
+# DOMAIN-SUFFIX: 2649
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
 # URL-REGEX: 2
 # USER-AGENT: 4
-# TOTAL: 2667
+# TOTAL: 2660
 app.adjust.com
 bdtj.tagtic.cn
 picanalysis.vivo.com.cn
@@ -392,7 +392,6 @@ xivanalysis.com
 .ccpitsx.org
 .ccpittga.org
 .cctrip.com
-.cctv119.com
 .cctv19.com
 .cctv22.com
 .cctvstar.com
@@ -662,10 +661,6 @@ xivanalysis.com
 .comdy1youku.com
 .comhpptv.com
 .comhsina.com
-.coml163.com
-.comlifeng.com
-.comlqq.com
-.comlyouku.com
 .commlzyw.com
 .compressorpld.com
 .comrail.com
@@ -1435,7 +1430,6 @@ xivanalysis.com
 .jsmu.com
 .jsscreen.com
 .jsweilong.com
-.jsyr.com
 .jtest.com
 .jtyun.com
 .jumicdn.com
@@ -2579,7 +2573,6 @@ xivanalysis.com
 .ytatech.com
 .yuanji.me
 .yuenwoopingtruelegend.com
-.yuesequbojiujiujiu12tv.com
 .yufish.com
 .yunchongpowder.com
 .yungaossp.com

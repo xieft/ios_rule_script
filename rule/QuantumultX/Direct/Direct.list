@@ -1,12 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:12
-# HOST-SUFFIX: 2656
+# UPDATED: 2021-11-22 11:02:15
+# HOST-SUFFIX: 2649
 # HOST-KEYWORD: 1
 # HOST: 4
 # USER-AGENT: 4
-# TOTAL: 2665
+# TOTAL: 2658
 HOST,app.adjust.com,Direct
 HOST,bdtj.tagtic.cn,Direct
 HOST,picanalysis.vivo.com.cn,Direct
@@ -390,7 +390,6 @@ HOST-SUFFIX,ccpitsichuan.org,Direct
 HOST-SUFFIX,ccpitsx.org,Direct
 HOST-SUFFIX,ccpittga.org,Direct
 HOST-SUFFIX,cctrip.com,Direct
-HOST-SUFFIX,cctv119.com,Direct
 HOST-SUFFIX,cctv19.com,Direct
 HOST-SUFFIX,cctv22.com,Direct
 HOST-SUFFIX,cctvstar.com,Direct
@@ -660,10 +659,6 @@ HOST-SUFFIX,coinclusion.org,Direct
 HOST-SUFFIX,comdy1youku.com,Direct
 HOST-SUFFIX,comhpptv.com,Direct
 HOST-SUFFIX,comhsina.com,Direct
-HOST-SUFFIX,coml163.com,Direct
-HOST-SUFFIX,comlifeng.com,Direct
-HOST-SUFFIX,comlqq.com,Direct
-HOST-SUFFIX,comlyouku.com,Direct
 HOST-SUFFIX,commlzyw.com,Direct
 HOST-SUFFIX,compressorpld.com,Direct
 HOST-SUFFIX,comrail.com,Direct
@@ -1433,7 +1428,6 @@ HOST-SUFFIX,jscode.com,Direct
 HOST-SUFFIX,jsmu.com,Direct
 HOST-SUFFIX,jsscreen.com,Direct
 HOST-SUFFIX,jsweilong.com,Direct
-HOST-SUFFIX,jsyr.com,Direct
 HOST-SUFFIX,jtest.com,Direct
 HOST-SUFFIX,jtyun.com,Direct
 HOST-SUFFIX,jumicdn.com,Direct
@@ -2577,7 +2571,6 @@ HOST-SUFFIX,yrinfo.com,Direct
 HOST-SUFFIX,ytatech.com,Direct
 HOST-SUFFIX,yuanji.me,Direct
 HOST-SUFFIX,yuenwoopingtruelegend.com,Direct
-HOST-SUFFIX,yuesequbojiujiujiu12tv.com,Direct
 HOST-SUFFIX,yufish.com,Direct
 HOST-SUFFIX,yunchongpowder.com,Direct
 HOST-SUFFIX,yungaossp.com,Direct

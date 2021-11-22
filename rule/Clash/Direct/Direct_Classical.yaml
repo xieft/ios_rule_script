@@ -1,11 +1,11 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:14
-# DOMAIN-SUFFIX: 2656
+# UPDATED: 2021-11-22 11:02:16
+# DOMAIN-SUFFIX: 2649
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
-# TOTAL: 2661
+# TOTAL: 2654
 payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
@@ -390,7 +390,6 @@ payload:
   - DOMAIN-SUFFIX,ccpitsx.org
   - DOMAIN-SUFFIX,ccpittga.org
   - DOMAIN-SUFFIX,cctrip.com
-  - DOMAIN-SUFFIX,cctv119.com
   - DOMAIN-SUFFIX,cctv19.com
   - DOMAIN-SUFFIX,cctv22.com
   - DOMAIN-SUFFIX,cctvstar.com
@@ -660,10 +659,6 @@ payload:
   - DOMAIN-SUFFIX,comdy1youku.com
   - DOMAIN-SUFFIX,comhpptv.com
   - DOMAIN-SUFFIX,comhsina.com
-  - DOMAIN-SUFFIX,coml163.com
-  - DOMAIN-SUFFIX,comlifeng.com
-  - DOMAIN-SUFFIX,comlqq.com
-  - DOMAIN-SUFFIX,comlyouku.com
   - DOMAIN-SUFFIX,commlzyw.com
   - DOMAIN-SUFFIX,compressorpld.com
   - DOMAIN-SUFFIX,comrail.com
@@ -1433,7 +1428,6 @@ payload:
   - DOMAIN-SUFFIX,jsmu.com
   - DOMAIN-SUFFIX,jsscreen.com
   - DOMAIN-SUFFIX,jsweilong.com
-  - DOMAIN-SUFFIX,jsyr.com
   - DOMAIN-SUFFIX,jtest.com
   - DOMAIN-SUFFIX,jtyun.com
   - DOMAIN-SUFFIX,jumicdn.com
@@ -2577,7 +2571,6 @@ payload:
   - DOMAIN-SUFFIX,ytatech.com
   - DOMAIN-SUFFIX,yuanji.me
   - DOMAIN-SUFFIX,yuenwoopingtruelegend.com
-  - DOMAIN-SUFFIX,yuesequbojiujiujiu12tv.com
   - DOMAIN-SUFFIX,yufish.com
   - DOMAIN-SUFFIX,yunchongpowder.com
   - DOMAIN-SUFFIX,yungaossp.com

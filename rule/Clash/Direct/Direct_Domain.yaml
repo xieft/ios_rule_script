@@ -1,11 +1,11 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 02:09:14
-# DOMAIN-SUFFIX: 2656
+# UPDATED: 2021-11-22 11:02:16
+# DOMAIN-SUFFIX: 2649
 # DOMAIN-KEYWORD: 1
 # DOMAIN: 4
-# TOTAL: 2661
+# TOTAL: 2654
 payload:
   - 'app.adjust.com'
   - 'bdtj.tagtic.cn'
@@ -390,7 +390,6 @@ payload:
   - '+.ccpitsx.org'
   - '+.ccpittga.org'
   - '+.cctrip.com'
-  - '+.cctv119.com'
   - '+.cctv19.com'
   - '+.cctv22.com'
   - '+.cctvstar.com'
@@ -660,10 +659,6 @@ payload:
   - '+.comdy1youku.com'
   - '+.comhpptv.com'
   - '+.comhsina.com'
-  - '+.coml163.com'
-  - '+.comlifeng.com'
-  - '+.comlqq.com'
-  - '+.comlyouku.com'
   - '+.commlzyw.com'
   - '+.compressorpld.com'
   - '+.comrail.com'
@@ -1433,7 +1428,6 @@ payload:
   - '+.jsmu.com'
   - '+.jsscreen.com'
   - '+.jsweilong.com'
-  - '+.jsyr.com'
   - '+.jtest.com'
   - '+.jtyun.com'
   - '+.jumicdn.com'
@@ -2577,7 +2571,6 @@ payload:
   - '+.ytatech.com'
   - '+.yuanji.me'
   - '+.yuenwoopingtruelegend.com'
-  - '+.yuesequbojiujiujiu12tv.com'
   - '+.yufish.com'
   - '+.yunchongpowder.com'
   - '+.yungaossp.com'
